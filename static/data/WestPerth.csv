@@ -1,0 +1,299 @@
+address,suburb,state,postcode,full_address,price,sold date,type,bedrooms,bathrooms,car space,Land size,Building size,Year Built,rent,rent date,agent,lat,lng
+10/2 Mayfair Street,West Perth,WA,6005,10/2 Mayfair Street West Perth WA 6005,"$410,000",2021-08-01,Apartment,2,2,1,102,81,2001-01-01,$400pw,2019-06-01,not recorded,-31.94858,115.84352
+42/33 MALCOLM STREET,West Perth,WA,6005,42/33 MALCOLM STREET West Perth WA 6005,"$1,050,000",2021-07-01,House,3,2,2,158,140,2010-01-01,$1200pw,2019-02-01,not recorded,-31.9534429,115.8473896
+6/16 Carr Street,West Perth,WA,6005,6/16 Carr Street West Perth WA 6005,"$550,000",2021-07-01,Townhouse,3,2,2,190,107,1990-01-01,0,1900-01-01,Ashby Farrell,-31.9405829,115.854431
+11/875 Wellington Street,West Perth,WA,6005,11/875 Wellington Street West Perth WA 6005,"$110,000",2021-07-01,Apartment,1,1,0,34,34,1985-01-01,0,1900-01-01,Daniel Porcaro,-31.947954,115.8463075
+6/1 Carr Street,West Perth,WA,6005,6/1 Carr Street West Perth WA 6005,"$442,000",2021-07-01,Apartment,3,1,1,156,88,1998-01-01,$575pw,2021-03-01,Annette O'Brien-Oxley,-31.9415034,115.8542559
+1607/659 Murray,West Perth,WA,6005,1607/659 Murray West Perth WA 6005,"$610,000",2021-07-01,Apartment,2,2,1,111,74,2018-01-01,0,1900-01-01,Ian Fatharly,-31.9488032,115.845545
+2/60 Cleaver Street,West Perth,WA,6005,2/60 Cleaver Street West Perth WA 6005,"$510,000",2021-07-01,Apartment,3,1,2,183,119,1992-01-01,$420pw,2019-01-01,Peter Hall,-31.93774,115.84964
+5/132 Carr Street,West Perth,WA,6005,5/132 Carr Street West Perth WA 6005,"$480,000",2021-07-01,Apartment,2,1,1,77,72,1976-01-01,0,1900-01-01,not recorded,-31.9374486,115.8481907
+11/129 Carr Street,West Perth,WA,6005,11/129 Carr Street West Perth WA 6005,"$420,000",2021-07-01,Townhouse,2,1,1,156,82,1991-01-01,0,1900-01-01,not recorded,-31.9384198,115.8482484
+5/146 Carr Street,West Perth,WA,6005,5/146 Carr Street West Perth WA 6005,"$430,000",2021-07-01,Apartment,3,1,1,101,83,1995-01-01,$390pw,2018-11-01,not recorded,-31.9373336,115.8476246
+22/105 Colin Street,West Perth,WA,6005,22/105 Colin Street West Perth WA 6005,"$700,000",2021-06-01,Apartment,3,2,2,155,113,2001-01-01,0,1900-01-01,Richard Self,-31.9465842,115.842703
+5/123C COLIN Street,West Perth,WA,6005,5/123C COLIN Street West Perth WA 6005,"$345,000",2021-06-01,Apartment,2,1,1,105,91,1997-01-01,$390pw,2018-06-01,Claude Iaconi,-31.9457068,115.8429401
+17/66 Cleaver Street,West Perth,WA,6005,17/66 Cleaver Street West Perth WA 6005,"$175,000",2021-06-01,Unit,1,1,1,42,40,1970-01-01,$200pw,2019-09-01,not recorded,-31.9373671,115.8495655
+10/14 Lawley Street,West Perth,WA,6005,10/14 Lawley Street West Perth WA 6005,"$198,000",2021-06-01,Apartment,1,1,1,54,36,1969-01-01,0,1900-01-01,Darcy Glynn,-31.9378803,115.8557636
+2/11 Colin Street,West Perth,WA,6005,2/11 Colin Street West Perth WA 6005,"$480,000",2021-06-01,Apartment,1,1,2,117,51,1936-01-01,$440pw,2021-02-01,not recorded,-31.9517311,115.8404617
+16/21 Altona Street,West Perth,WA,6005,16/21 Altona Street West Perth WA 6005,"$591,000",2021-06-01,Apartment,2,2,1,74,74,2014-01-01,$550pw,2017-03-01,James Thompson,-31.9508438,115.8395682
+3/143 Carr Street,West Perth,WA,6005,3/143 Carr Street West Perth WA 6005,"$610,000",2021-06-01,Townhouse,3,2,2,168,113,1993-01-01,$525pw,2020-01-01,Richard Self,-31.93816,115.84741
+36/7 Delhi Street,West Perth,WA,6005,36/7 Delhi Street West Perth WA 6005,"$430,000",2021-06-01,Apartment,2,2,1,110,82,2002-01-01,$420pw,2019-05-01,Annie Kowal,-31.9469085,115.8463538
+1802/659 Murray Street,West Perth,WA,6005,1802/659 Murray Street West Perth WA 6005,"$385,000",2021-06-01,Apartment,1,1,1,75,58,2018-01-01,0,1900-01-01,Joel Cooper,-31.9488032,115.845545
+64/1 Carr Street,West Perth,WA,6005,64/1 Carr Street West Perth WA 6005,"$445,000",2021-06-01,Unit,3,2,1,117,85,1998-01-01,0,1900-01-01,Simon Pigliardo,-31.9415034,115.8542559
+13/15-19 Carr Street,West Perth,WA,6005,13/15-19 Carr Street West Perth WA 6005,"$425,000",2021-06-01,Apartment,2,2,1,128,81,2007-01-01,$460pw,2015-09-01,Richard Self,-31.9407246,115.8540108
+8c/1303 Hay Street,West Perth,WA,6005,8c/1303 Hay Street West Perth WA 6005,"$680,000",2021-05-01,Apartment,2,2,2,161,98,2007-01-01,0,1900-01-01,Richard Self,-31.9481189,115.8391904
+213 Vincent Street,West Perth,WA,6005,213 Vincent Street West Perth WA 6005,"$790,000",2021-05-01,House,3,1,1,319,,1925-01-01,0,1900-01-01,Helen Bond,-31.9368407,115.8515471
+4/14 Lawley Street,West Perth,WA,6005,4/14 Lawley Street West Perth WA 6005,"$195,000",2021-05-01,Apartment,1,1,1,54,36,1969-01-01,$250pw,2018-08-01,Darcy Glynn,-31.9378803,115.8557636
+30/5 Delhi Street,West Perth,WA,6005,30/5 Delhi Street West Perth WA 6005,"$495,000",2021-05-01,Apartment,3,2,1,123,97,2001-01-01,0,1900-01-01,Richard Self,-31.94625,115.84659
+1306/659 Murray Street,West Perth,WA,6005,1306/659 Murray Street West Perth WA 6005,"$572,000",2021-05-01,Apartment,2,2,1,115,77,2018-01-01,0,1900-01-01,not recorded,-31.9488032,115.845545
+26/36 Kings Park Road,West Perth,WA,6005,26/36 Kings Park Road West Perth WA 6005,"$360,000",2021-05-01,Apartment,1,1,1,93,65,2005-01-01,$375pw,2018-08-01,Suzana Angeleska,-31.9517795,115.838625
+10/11 Altona Street,West Perth,WA,6005,10/11 Altona Street West Perth WA 6005,"$500,000",2021-05-01,Apartment,2,2,1,123,88,2004-01-01,$500pw,2016-04-01,Jill McQuoid,-31.9512996,115.8393988
+1/7 Delhi Street,West Perth,WA,6005,1/7 Delhi Street West Perth WA 6005,"$410,000",2021-05-01,Apartment,2,2,1,108,79,2002-01-01,$430pw,2017-07-01,not recorded,-31.9469085,115.8463538
+8/4 Delhi Street,West Perth,WA,6005,8/4 Delhi Street West Perth WA 6005,"$430,000",2021-04-01,Apartment,2,2,2,131,78,2006-01-01,$400pw,2018-07-01,Anil Singh,-31.9452984,115.8455682
+22 Florence Place,West Perth,WA,6005,22 Florence Place West Perth WA 6005,"$790,000",2021-04-01,Townhouse,3,2,2,195,141,1915-01-01,$775pw,2021-05-01,Peter Wright,-31.9369522,115.8516018
+E12/161 Colin Street,West Perth,WA,6005,E12/161 Colin Street West Perth WA 6005,"$825,000",2021-04-01,Apartment,3,3,2,234,117,1998-01-01,0,1900-01-01,Kim Turner,-31.9447,115.84301
+15A Victoria Street,West Perth,WA,6005,15A Victoria Street West Perth WA 6005,"$755,000",2021-04-01,Townhouse,3,2,2,189,144,1994-01-01,$450pw,2014-08-01,Joe Raschilla,-31.938443,115.85356
+68/34 Kings Park Road,West Perth,WA,6005,68/34 Kings Park Road West Perth WA 6005,"$582,000",2021-04-01,Apartment,2,2,1,127,96,2005-01-01,0,1900-01-01,Julian Leach,-31.9517795,115.838625
+4E/1303 Hay Street,West Perth,WA,6005,4E/1303 Hay Street West Perth WA 6005,"$360,000",2021-04-01,Apartment,1,1,1,99,68,2007-01-01,$350pw,2018-11-01,Matt Seabrook,-31.9481189,115.8391904
+6/19 Ventnor Avenue,West Perth,WA,6005,6/19 Ventnor Avenue West Perth WA 6005,"$395,000",2021-04-01,Apartment,2,2,1,100,75,1997-01-01,0,1900-01-01,Richard Self,-31.9499262,115.8376195
+3/2a Janet Street,West Perth,WA,6005,3/2a Janet Street West Perth WA 6005,"$550,000",2021-04-01,Townhouse,3,2,1,188,104,1998-01-01,$400pw,2019-06-01,Richard Self,-31.93788,115.85231
+5/32 Cowle Street,West Perth,WA,6005,5/32 Cowle Street West Perth WA 6005,"$390,000",2021-04-01,Apartment,1,1,1,78,51,2016-01-01,$325pw,2019-02-01,Carla Yazmadjian,-31.9396128,115.8549553
+57/2 Mayfair Street,West Perth,WA,6005,57/2 Mayfair Street West Perth WA 6005,"$366,000",2021-04-01,Apartment,1,1,1,88,66,2001-01-01,$380pw,2021-04-01,Brad Triplett,-31.94858,115.84352
+1/11 Colin Street,West Perth,WA,6005,1/11 Colin Street West Perth WA 6005,"$607,500",2021-04-01,Apartment,1,1,2,145,54,1948-01-01,$595pw,2011-11-01,Emily Garden,-31.9517311,115.8404617
+43/1178 Hay Street,West Perth,WA,6005,43/1178 Hay Street West Perth WA 6005,"$395,000",2021-03-01,Apartment,2,1,1,94,56,2011-01-01,0,1900-01-01,not recorded,-31.9487453,115.8438121
+3/26 Florence Street,West Perth,WA,6005,3/26 Florence Street West Perth WA 6005,"$570,000",2021-03-01,Townhouse,3,1,2,183,110,1985-01-01,0,1900-01-01,Claude Iaconi,-31.93773,115.85097
+10/105 Colin Street,West Perth,WA,6005,10/105 Colin Street West Perth WA 6005,"$320,000",2021-03-01,Apartment,1,1,1,79,57,2001-01-01,$350pw,2021-02-01,not recorded,-31.9465842,115.842703
+4/47 Malcolm Street,West Perth,WA,6005,4/47 Malcolm Street West Perth WA 6005,"$632,500",2021-03-01,Apartment,3,2,2,149,97,2003-01-01,0,1900-01-01,Andy Thorpe,-31.9535996,115.84678
+1/83 Carr Street,West Perth,WA,6005,1/83 Carr Street West Perth WA 6005,"$465,000",2021-03-01,Apartment,2,1,0,75,75,1930-01-01,0,1900-01-01,Claude Iaconi,-31.9395696,115.8506745
+40/1 Douro Place,West Perth,WA,6005,40/1 Douro Place West Perth WA 6005,"$508,000",2021-03-01,Apartment,2,2,2,125,75,2010-01-01,$550pw,2019-02-01,Richard Self,-31.9454139,115.8413431
+32 Oak Lane,West Perth,WA,6005,32 Oak Lane West Perth WA 6005,"$485,000",2021-03-01,Townhouse,3,1,1,172,115,2000-01-01,$550pw,2021-04-01,Carla Yazmadjian,-31.9366644,115.8522512
+20/69 Malcolm Street,West Perth,WA,6005,20/69 Malcolm Street West Perth WA 6005,"$820,000",2021-03-01,Apartment,3,2,2,312,124,1994-01-01,0,1900-01-01,Peter Wright,-31.9539557,115.845753
+11/8 OUTRAM Street,West Perth,WA,6005,11/8 OUTRAM Street West Perth WA 6005,"$640,000",2021-03-01,Apartment,2,2,2,129,86,2008-01-01,$695pw,2018-01-01,Richard Self,-31.9511616,115.8388904
+13/47 Malcolm Street,West Perth,WA,6005,13/47 Malcolm Street West Perth WA 6005,"$770,000",2021-03-01,Unit,3,2,2,161,66,2003-01-01,$750pw,2020-05-01,Carole Saville,-31.9535996,115.84678
+7/20 Kingston Avenue,West Perth,WA,6005,7/20 Kingston Avenue West Perth WA 6005,"$320,000",2021-03-01,Unit,2,1,1,79,60,1976-01-01,0,1900-01-01,not recorded,-31.9389435,115.8480554
+13/8 Outram Street,West Perth,WA,6005,13/8 Outram Street West Perth WA 6005,"$730,000",2021-03-01,Apartment,2,2,2,121,91,2008-01-01,$550pw,2016-12-01,Judith Rae,-31.9511616,115.8388904
+36/38 Kings Park Road,West Perth,WA,6005,36/38 Kings Park Road West Perth WA 6005,"$377,000",2021-03-01,Apartment,2,1,1,75,75,1967-01-01,$470pw,2016-10-01,Brendon Habak,-31.9515853,115.8379893
+70/9 Delhi Street,West Perth,WA,6005,70/9 Delhi Street West Perth WA 6005,"$830,000",2021-03-01,Apartment,3,2,2,251,182,2004-01-01,$975pw,2019-09-01,Richard Self,-31.9465268,115.8460061
+15/34 Cowle Street,West Perth,WA,6005,15/34 Cowle Street West Perth WA 6005,"$600,000",2021-03-01,Apartment,2,2,1,152,89,2016-01-01,0,1900-01-01,not recorded,-31.9394148,115.854718
+120/1178 Hay Street,West Perth,WA,6005,120/1178 Hay Street West Perth WA 6005,"$285,000",2021-03-01,Apartment,1,1,1,68,41,2011-01-01,$340pw,2020-04-01,not recorded,-31.9487453,115.8438121
+58/4 Delhi Street,West Perth,WA,6005,58/4 Delhi Street West Perth WA 6005,"$338,000",2021-03-01,House,1,1,1,76,52,2006-01-01,$460pw,2021-03-01,not recorded,-31.9452984,115.8455682
+209A Vincent Street,West Perth,WA,6005,209A Vincent Street West Perth WA 6005,"$770,000",2021-02-01,Townhouse,3,2,2,199,146,2020-01-01,0,1900-01-01,Peter Wright,-31.9366675,115.8518298
+1609/659 Murray Street,West Perth,WA,6005,1609/659 Murray Street West Perth WA 6005,"$410,000",2021-02-01,Apartment,1,1,1,80,48,2018-01-01,0,1900-01-01,Cherry Li,-31.9488032,115.845545
+24 Florence Street,West Perth,WA,6005,24 Florence Street West Perth WA 6005,"$1,700,000",2021-02-01,House,4,3,3,783,210,1930-01-01,$1600pw,2017-02-01,Claude Iaconi,-31.9378726,115.8508594
+4/66 Cleaver Street,West Perth,WA,6005,4/66 Cleaver Street West Perth WA 6005,"$195,000",2021-02-01,Apartment,1,1,1,42,40,1970-01-01,$330pw,2015-07-01,For Sale By Owner (WA),-31.9373671,115.8495655
+31 Florence Street,West Perth,WA,6005,31 Florence Street West Perth WA 6005,"$1,281,000",2021-02-01,House,4,2,1,577,171,1905-01-01,$850pw,2021-03-01,Craig Gaspar,-31.9379619,115.8502586
+1103 Hay Street,West Perth,WA,6005,1103 Hay Street West Perth WA 6005,"$1,950,000",2021-02-01,Unit,10,10,6,779,,1930-01-01,0,1900-01-01,David Azzopardi,-31.9502307,115.8461227
+76C Carr Street,West Perth,WA,6005,76C Carr Street West Perth WA 6005,"$880,000",2021-02-01,House,3,2,2,193,149,2008-01-01,0,1900-01-01,Simon Pigliardo,-31.9390122,115.8512686
+610/659 Murray Street,West Perth,WA,6005,610/659 Murray Street West Perth WA 6005,"$470,200",2021-01-01,Apartment,2,2,1,102,85,2018-01-01,$450pw,2018-07-01,not recorded,-31.9488032,115.845545
+41 Cowle Street,West Perth,WA,6005,41 Cowle Street West Perth WA 6005,"$1,230,000",2021-01-01,House,4,2,1,890,105,1920-01-01,0,1900-01-01,not recorded,-31.93987,115.85406
+24 Florence Place,West Perth,WA,6005,24 Florence Place West Perth WA 6005,"$740,000",2021-01-01,Townhouse,3,2,2,187,159,1930-01-01,0,1900-01-01,Peter Wright,-31.9369522,115.8516018
+1/8 Prowse Street,West Perth,WA,6005,1/8 Prowse Street West Perth WA 6005,"$425,000",2021-01-01,Apartment,2,2,2,132,84,2008-01-01,$520pw,2015-07-01,Richard Self,-31.9447579,115.8424638
+13/48 Outram Street,West Perth,WA,6005,13/48 Outram Street West Perth WA 6005,"$435,000",2021-01-01,Apartment,2,2,1,105,78,1940-01-01,0,1900-01-01,Richard Self,-31.9487425,115.8399003
+34A Cleaver Street,West Perth,WA,6005,34A Cleaver Street West Perth WA 6005,"$780,000",2021-01-01,Townhouse,4,3,2,127,156,2020-01-01,0,1900-01-01,Louise Markovic,-31.9396315,115.8490571
+34C Cleaver Street,West Perth,WA,6005,34C Cleaver Street West Perth WA 6005,"$750,000",2021-01-01,Townhouse,3,2,2,118,143,2020-01-01,0,1900-01-01,Louise Markovic,-31.9396315,115.8490571
+3/2 Outram Street,West Perth,WA,6005,3/2 Outram Street West Perth WA 6005,"$392,000",2021-01-01,Unit,2,2,1,145,74,2001-01-01,$395pw,2021-02-01,not recorded,-31.95146,115.83875
+11/34 Kings Park Road,West Perth,WA,6005,11/34 Kings Park Road West Perth WA 6005,"$505,000",2021-01-01,Apartment,2,2,1,124,90,2005-01-01,0,1900-01-01,Richard Self,-31.9517795,115.838625
+17/161 Charles Street,West Perth,WA,6005,17/161 Charles Street West Perth WA 6005,"$260,000",2021-01-01,House,2,1,1,73,73,1977-01-01,$350pw,2011-05-01,not recorded,-31.9383637,115.852315
+189 Fitzgerald Street,West Perth,WA,6005,189 Fitzgerald Street West Perth WA 6005,"$625,000",2021-01-01,House,3,1,1,322,,1920-01-01,$510pw,2021-02-01,James Alessi,-31.9405235,115.8556191
+5/9 Violet Street,West Perth,WA,6005,5/9 Violet Street West Perth WA 6005,"$205,000",2021-01-01,Apartment,1,1,1,42,41,1968-01-01,$230pw,2017-10-01,Joe Raschilla,-31.9381917,115.8535226
+4C/1303 Hay Street,West Perth,WA,6005,4C/1303 Hay Street West Perth WA 6005,"$615,000",2021-01-01,Apartment,2,2,2,149,99,2007-01-01,$600pw,2020-10-01,Richard Self,-31.9481189,115.8391904
+46/66 Cleaver Street,West Perth,WA,6005,46/66 Cleaver Street West Perth WA 6005,"$187,000",2021-01-01,Apartment,1,1,1,42,40,1970-01-01,$240pw,2020-12-01,James Yeoman,-31.9373671,115.8495655
+10/1 Coolgardie Street,West Perth,WA,6005,10/1 Coolgardie Street West Perth WA 6005,"$360,000",2020-12-01,Apartment,2,1,1,70,70,2008-01-01,$500pw,2019-05-01,Alice Yuan,-31.9489778,115.8476939
+379 Bulwer Street,West Perth,WA,6005,379 Bulwer Street West Perth WA 6005,"$767,500",2020-12-01,House,3,1,1,395,,1930-01-01,$500pw,2021-01-01,not recorded,-31.9375727,115.8556653
+18/15-19 Carr Street,West Perth,WA,6005,18/15-19 Carr Street West Perth WA 6005,"$375,000",2020-12-01,Apartment,2,2,1,111,83,2007-01-01,$390pw,2020-03-01,not recorded,-31.9407246,115.8540108
+101/128 Carr Street,West Perth,WA,6005,101/128 Carr Street West Perth WA 6005,"$218,000",2020-12-01,Apartment,2,1,1,56,56,1968-01-01,$280pw,2020-12-01,Brendon Habak,-31.9378447,115.8482803
+1/227 Vincent Street,West Perth,WA,6005,1/227 Vincent Street West Perth WA 6005,"$142,000",2020-12-01,Apartment,1,1,1,41,41,1968-01-01,0,1900-01-01,Brendon Habak,-31.9366105,115.8484547
+40/863 Wellington Street,West Perth,WA,6005,40/863 Wellington Street West Perth WA 6005,"$380,000",2020-12-01,Unit,2,2,0,103,69,2010-01-01,$415pw,2020-05-01,not recorded,-31.9477908,115.8466772
+34D Cleaver Street,West Perth,WA,6005,34D Cleaver Street West Perth WA 6005,"$770,000",2020-12-01,Townhouse,3,2,2,127,178,2020-01-01,0,1900-01-01,Richard Self,-31.9396315,115.8490571
+76/227 Vincent Street,West Perth,WA,6005,76/227 Vincent Street West Perth WA 6005,"$170,000",2020-12-01,Apartment,1,1,1,47,47,1968-01-01,0,1900-01-01,not recorded,-31.9366105,115.8484547
+65/1 Carr Street,West Perth,WA,6005,65/1 Carr Street West Perth WA 6005,"$385,000",2020-12-01,Apartment,3,1,1,119,86,1998-01-01,0,1900-01-01,not recorded,-31.9415034,115.8542559
+38/1 Carr Street,West Perth,WA,6005,38/1 Carr Street West Perth WA 6005,"$430,000",2020-12-01,Apartment,3,2,1,115,85,1998-01-01,$495pw,2017-03-01,not recorded,-31.9415034,115.8542559
+189 Vincent Street,West Perth,WA,6005,189 Vincent Street West Perth WA 6005,"$675,000",2020-12-01,House,3,1,2,402,119,1920-01-01,$350pw,2019-09-01,Matthew Jones,-31.9366828,115.8557577
+34/1 Douro Place,West Perth,WA,6005,34/1 Douro Place West Perth WA 6005,"$493,000",2020-12-01,Apartment,2,2,2,124,75,2010-01-01,0,1900-01-01,not recorded,-31.9454139,115.8413431
+27/1324 Hay Street,West Perth,WA,6005,27/1324 Hay Street West Perth WA 6005,"$430,000",2020-12-01,Apartment,2,2,1,132,41,2012-01-01,$500pw,2016-01-01,not recorded,-31.9472119,115.8381972
+7/132 Carr Street,West Perth,WA,6005,7/132 Carr Street West Perth WA 6005,"$567,500",2020-12-01,Villa,3,1,2,85,82,1976-01-01,0,1900-01-01,Steve Lorrimar,-31.9374486,115.8481907
+25 Kingston Avenue,West Perth,WA,6005,25 Kingston Avenue West Perth WA 6005,"$680,000",2020-12-01,House,2,1,0,201,72,1935-01-01,$450pw,2018-05-01,Jade Lippiatt,-31.9390178,115.8473799
+60/6 Campbell Street,West Perth,WA,6005,60/6 Campbell Street West Perth WA 6005,"$325,500",2020-12-01,Apartment,1,1,1,83,53,2015-01-01,$350pw,2020-12-01,not recorded,-31.9451223,115.8446384
+3/37 Mount Street,West Perth,WA,6005,3/37 Mount Street West Perth WA 6005,"$790,000",2020-12-01,Apartment,2,2,2,130,80,2020-01-01,0,1900-01-01,not recorded,-31.9542983,115.8482716
+17/227 Vincent Street,West Perth,WA,6005,17/227 Vincent Street West Perth WA 6005,"$142,000",2020-12-01,Apartment,1,1,0,46,46,1968-01-01,$200pw,2018-12-01,not recorded,-31.9366105,115.8484547
+W7/161 Colin Street,West Perth,WA,6005,W7/161 Colin Street West Perth WA 6005,"$276,000",2020-11-01,Unit,1,1,1,86,57,1998-01-01,0,1900-01-01,not recorded,-31.9447,115.84301
+22A Kingston Avenue,West Perth,WA,6005,22A Kingston Avenue West Perth WA 6005,"$1,155,500",2020-11-01,House,4,2,2,379,239,2020-01-01,0,1900-01-01,not recorded,-31.9387708,115.8478808
+1405/659 Murray Street,West Perth,WA,6005,1405/659 Murray Street West Perth WA 6005,"$380,000",2020-11-01,Apartment,1,1,1,75,58,2018-01-01,$500pw,2020-11-01,not recorded,-31.9488032,115.845545
+6/20 Walker Avenue,West Perth,WA,6005,6/20 Walker Avenue West Perth WA 6005,"$417,000",2020-11-01,Apartment,2,1,1,115,87,1996-01-01,$475pw,2021-01-01,not recorded,-31.9499554,115.8368454
+83/227 Vincent Street,West Perth,WA,6005,83/227 Vincent Street West Perth WA 6005,"$155,000",2020-11-01,Apartment,1,1,1,47,47,1968-01-01,$230pw,2018-12-01,not recorded,-31.9366105,115.8484547
+1401/659 Murray Street,West Perth,WA,6005,1401/659 Murray Street West Perth WA 6005,"$499,000",2020-11-01,Apartment,2,2,1,113,77,2018-01-01,0,1900-01-01,not recorded,-31.9488032,115.845545
+20/45 Ord Street,West Perth,WA,6005,20/45 Ord Street West Perth WA 6005,"$472,500",2020-11-01,Apartment,2,2,1,147,106,2002-01-01,$500pw,2020-09-01,not recorded,-31.9500026,115.8382203
+16/8 Prowse Street,West Perth,WA,6005,16/8 Prowse Street West Perth WA 6005,"$482,000",2020-11-01,Unit,2,2,2,125,80,2008-01-01,$550pw,2018-06-01,not recorded,-31.9447579,115.8424638
+2/37 Mount Street,West Perth,WA,6005,2/37 Mount Street West Perth WA 6005,"$780,000",2020-10-01,Apartment,2,2,1,121,82,2019-01-01,0,1900-01-01,not recorded,-31.9542983,115.8482716
+39/5 Delhi Street,West Perth,WA,6005,39/5 Delhi Street West Perth WA 6005,"$430,000",2020-10-01,Apartment,3,2,1,127,92,2001-01-01,$550pw,2020-11-01,not recorded,-31.94625,115.84659
+13/2 Douro Place,West Perth,WA,6005,13/2 Douro Place West Perth WA 6005,"$460,000",2020-10-01,Unit,2,2,1,138,99,2011-01-01,$450pw,2020-04-01,not recorded,-31.945655,115.8416291
+78/227 Vincent Street,West Perth,WA,6005,78/227 Vincent Street West Perth WA 6005,"$176,000",2020-10-01,Apartment,1,1,1,46,46,1968-01-01,0,1900-01-01,not recorded,-31.9366105,115.8484547
+67/4 Delhi Street,West Perth,WA,6005,67/4 Delhi Street West Perth WA 6005,"$365,000",2020-10-01,Apartment,2,2,1,109,81,2006-01-01,$480pw,2020-07-01,not recorded,-31.9452984,115.8455682
+100/1178 Hay Street,West Perth,WA,6005,100/1178 Hay Street West Perth WA 6005,"$410,000",2020-10-01,Apartment,2,1,1,89,56,2011-01-01,$435pw,2018-05-01,not recorded,-31.9487495,115.8438291
+101/18 Rheola Street,West Perth,WA,6005,101/18 Rheola Street West Perth WA 6005,"$342,000",2020-10-01,Apartment,2,2,1,95,66,2005-01-01,0,1900-01-01,not recorded,-31.94962,115.83511
+29 Cowle Street,West Perth,WA,6005,29 Cowle Street West Perth WA 6005,"$725,000",2020-10-01,House,2,1,2,381,84,1910-01-01,$480pw,2020-02-01,Theo Kouroulis,-31.9399592,115.8547969
+50/48 Havelock Street,West Perth,WA,6005,50/48 Havelock Street West Perth WA 6005,"$400,000",2020-09-01,Apartment,2,2,1,105,82,2003-01-01,$480pw,2021-01-01,not recorded,-31.9499926,115.8445515
+11 Florence Street,West Perth,WA,6005,11 Florence Street West Perth WA 6005,"$925,000",2020-09-01,House,3,1,1,369,158,1920-01-01,0,1900-01-01,not recorded,-31.9386873,115.8503511
+23/863 Wellington Street,West Perth,WA,6005,23/863 Wellington Street West Perth WA 6005,"$259,000",2020-09-01,Apartment,1,1,1,68,52,2010-01-01,$375pw,2021-05-01,not recorded,-31.9477908,115.8466772
+2/48 Outram Street,West Perth,WA,6005,2/48 Outram Street West Perth WA 6005,"$330,000",2020-09-01,Apartment,1,1,1,112,53,2006-01-01,$460pw,2012-06-01,not recorded,-31.9487425,115.8399003
+548 Newcastle Street,West Perth,WA,6005,548 Newcastle Street West Perth WA 6005,"$860,000",2020-09-01,House,5,1,10,521,147,1902-01-01,$989pw,2012-04-01,not recorded,-31.9402077,115.8485026
+10/12 Altona Street,West Perth,WA,6005,10/12 Altona Street West Perth WA 6005,"$625,000",2020-09-01,Apartment,2,2,2,166,95,2006-01-01,0,1900-01-01,Annie McCarthy,-31.95165,115.83992
+7/990 Wellington Street,West Perth,WA,6005,7/990 Wellington Street West Perth WA 6005,"$349,000",2020-08-01,Apartment,2,1,1,92,63,2007-01-01,$380pw,2019-07-01,not recorded,-31.9457139,115.841848
+96/59 Malcolm Street,West Perth,WA,6005,96/59 Malcolm Street West Perth WA 6005,"$207,000",2020-08-01,Apartment,1,1,1,59,47,1966-01-01,$280pw,2016-12-01,not recorded,-31.9538552,115.8462151
+414/36 Mount Street,West Perth,WA,6005,414/36 Mount Street West Perth WA 6005,"$150,000",2020-08-01,Apartment,1,1,1,35,35,1961-01-01,$320pw,2021-01-01,Ivan Helman,-31.9535729,115.8481791
+48/1324 Hay Street,West Perth,WA,6005,48/1324 Hay Street West Perth WA 6005,"$390,000",2020-08-01,Apartment,2,2,1,111,68,2012-01-01,$390pw,2017-06-01,not recorded,-31.9472119,115.8381972
+1/44-48 Cleaver Street,West Perth,WA,6005,1/44-48 Cleaver Street West Perth WA 6005,"$245,000",2020-08-01,Apartment,3,1,1,56,56,1970-01-01,$310pw,2021-03-01,not recorded,-31.9381985,115.8496598
+96/38 Kings Park Road,West Perth,WA,6005,96/38 Kings Park Road West Perth WA 6005,"$370,000",2020-08-01,Apartment,2,1,2,75,75,1967-01-01,$420pw,2020-02-01,not recorded,-31.9515853,115.8379893
+1105/659 Murray Street,West Perth,WA,6005,1105/659 Murray Street West Perth WA 6005,"$380,000",2020-08-01,Apartment,1,1,1,76,47,2018-01-01,0,1900-01-01,not recorded,-31.9488032,115.845545
+2/135 Carr Street,West Perth,WA,6005,2/135 Carr Street West Perth WA 6005,"$480,000",2020-07-01,Apartment,2,1,1,82,82,1981-01-01,$645pw,2019-09-01,not recorded,-31.9382674,115.8479019
+5/611 Murray Street,West Perth,WA,6005,5/611 Murray Street West Perth WA 6005,"$400,000",2020-07-01,Apartment,2,2,1,138,92,2005-01-01,$450pw,2021-03-01,not recorded,-31.9492842,115.8470469
+17/1142 Hay Street,West Perth,WA,6005,17/1142 Hay Street West Perth WA 6005,"$265,000",2020-07-01,Apartment,1,1,1,86,64,2003-01-01,$340pw,2020-06-01,not recorded,-31.9494152,115.8449212
+14/1020 Wellington Street,West Perth,WA,6005,14/1020 Wellington Street West Perth WA 6005,"$410,000",2020-07-01,Apartment,2,2,1,131,98,2003-01-01,$495pw,2015-06-01,not recorded,-31.9454255,115.8405079
+2/38 Cowle Street,West Perth,WA,6005,2/38 Cowle Street West Perth WA 6005,"$340,000",2020-07-01,Apartment,1,1,1,84,51,2016-01-01,$350pw,2019-04-01,not recorded,-31.9396499,115.8546044
+55 Kingston Avenue,West Perth,WA,6005,55 Kingston Avenue West Perth WA 6005,"$979,000",2020-07-01,House,3,1,1,549,154,1930-01-01,0,1900-01-01,not recorded,-31.93885,115.8467466
+24/1331 Hay Street,West Perth,WA,6005,24/1331 Hay Street West Perth WA 6005,"$344,000",2020-07-01,Apartment,2,1,2,126,78,2006-01-01,$600pw,2013-11-01,not recorded,-31.9476952,115.8376889
+25 Cowle Street,West Perth,WA,6005,25 Cowle Street West Perth WA 6005,"$880,000",2020-07-01,House,3,1,1,350,132,01/01/1896,0,1900-01-01,Claude Iaconi,-31.94022,115.85475
+35 Victoria Street,West Perth,WA,6005,35 Victoria Street West Perth WA 6005,"$458,000",2020-07-01,Townhouse,2,2,2,150,98,1980-01-01,0,1900-01-01,not recorded,-31.9379005,115.8539209
+35/33 Malcolm Street,West Perth,WA,6005,35/33 Malcolm Street West Perth WA 6005,"$537,500",2020-06-01,Apartment,2,2,2,122,76,2010-01-01,$550pw,2021-01-01,not recorded,-31.9534429,115.8473896
+22/4 Delhi Street,West Perth,WA,6005,22/4 Delhi Street West Perth WA 6005,"$405,000",2020-06-01,Apartment,3,2,2,138,98,2006-01-01,$550pw,2019-05-01,not recorded,-31.9452984,115.8455682
+16/11 Altona Street,West Perth,WA,6005,16/11 Altona Street West Perth WA 6005,"$380,000",2020-06-01,House,2,2,1,115,69,2004-01-01,$525pw,2020-05-01,not recorded,-31.9512996,115.8393988
+81/59 Malcolm Street,West Perth,WA,6005,81/59 Malcolm Street West Perth WA 6005,"$285,000",2020-05-01,Apartment,2,1,1,83,71,1966-01-01,$380pw,2015-11-01,not recorded,-31.9538552,115.8462151
+5/8 Prowse Street,West Perth,WA,6005,5/8 Prowse Street West Perth WA 6005,"$470,000",2020-05-01,Apartment,2,2,2,121,84,2008-01-01,$480pw,2019-05-01,not recorded,-31.9447579,115.8424638
+61 Kingston Avenue,West Perth,WA,6005,61 Kingston Avenue West Perth WA 6005,"$540,000",2020-05-01,House,2,1,1,91,86,1935-01-01,0,1900-01-01,not recorded,-31.93878,115.84651
+17/135 Carr Street,West Perth,WA,6005,17/135 Carr Street West Perth WA 6005,"$440,000",2020-05-01,Apartment,2,1,2,82,82,1981-01-01,$290pw,2006-10-01,not recorded,-31.9382674,115.8479019
+5/19 Ventnor Avenue,West Perth,WA,6005,5/19 Ventnor Avenue West Perth WA 6005,"$485,000",2020-05-01,Apartment,3,2,1,138,108,1997-01-01,$490pw,2017-11-01,not recorded,-31.9499262,115.8376195
+1605/659 Murray Street,West Perth,WA,6005,1605/659 Murray Street West Perth WA 6005,"$407,500",2020-04-01,Apartment,1,1,1,75,47,2018-01-01,$520pw,2020-05-01,Peter Wright,-31.9488032,115.845545
+506/659 Murray Street,West Perth,WA,6005,506/659 Murray Street West Perth WA 6005,"$535,000",2020-04-01,Apartment,2,2,2,233,77,2018-01-01,$560pw,2019-05-01,not recorded,-31.9488032,115.845545
+87/38 Kings Park Road,West Perth,WA,6005,87/38 Kings Park Road West Perth WA 6005,"$345,000",2020-04-01,Apartment,2,1,1,75,75,1967-01-01,$315pw,2019-05-01,not recorded,-31.9515853,115.8379893
+21/2 Colin Street,West Perth,WA,6005,21/2 Colin Street West Perth WA 6005,"$363,000",2020-04-01,Apartment,2,2,1,100,73,2000-01-01,$410pw,2016-12-01,not recorded,-31.9522418,115.84097
+11/132 Carr Street,West Perth,WA,6005,11/132 Carr Street West Perth WA 6005,"$435,000",2020-03-01,Apartment,2,1,1,66,72,1976-01-01,$200pw,2005-11-01,not recorded,-31.9374486,115.8481907
+9/19 Ventnor Avenue,West Perth,WA,6005,9/19 Ventnor Avenue West Perth WA 6005,"$480,000",2020-03-01,Apartment,3,2,1,138,108,1997-01-01,$480pw,2020-02-01,not recorded,-31.9499262,115.8376195
+31/34 Kings Park Road,West Perth,WA,6005,31/34 Kings Park Road West Perth WA 6005,"$350,000",2020-03-01,Apartment,1,1,1,80,53,2005-01-01,$360pw,2020-11-01,not recorded,-31.9517795,115.838625
+7D/1303 Hay Street,West Perth,WA,6005,7D/1303 Hay Street West Perth WA 6005,"$421,500",2020-03-01,Apartment,2,1,1,100,69,2007-01-01,$380pw,2017-10-01,not recorded,-31.9481189,115.8391904
+4A/1303 Hay Street,West Perth,WA,6005,4A/1303 Hay Street West Perth WA 6005,"$575,000",2020-03-01,Apartment,2,2,2,158,108,2007-01-01,$850pw,2008-07-01,not recorded,-31.9481189,115.8391904
+1/1 Coolgardie Street,West Perth,WA,6005,1/1 Coolgardie Street West Perth WA 6005,"$480,000",2020-03-01,Apartment,2,2,2,87,87,2008-01-01,0,1900-01-01,not recorded,-31.9489778,115.8476939
+20 Lawrence Avenue,West Perth,WA,6005,20 Lawrence Avenue West Perth WA 6005,"$675,000",2020-03-01,House,2,1,0,70,62,1915-01-01,0,1900-01-01,not recorded,-31.9452779,115.8425256
+8/1 Delhi Street,West Perth,WA,6005,8/1 Delhi Street West Perth WA 6005,"$540,000",2020-03-01,Apartment,2,2,2,174,135,1997-01-01,$500pw,2020-03-01,not recorded,-31.9459106,115.8464057
+6/863 Wellington Street,West Perth,WA,6005,6/863 Wellington Street West Perth WA 6005,"$325,000",2020-03-01,Apartment,2,2,1,110,70,2010-01-01,$420pw,2018-03-01,not recorded,-31.9477908,115.8466772
+54/66 Cleaver Street,West Perth,WA,6005,54/66 Cleaver Street West Perth WA 6005,"$175,000",2020-03-01,Apartment,1,1,1,42,40,1970-01-01,$230pw,2018-02-01,not recorded,-31.9373671,115.8495655
+6/35 Mount Street,West Perth,WA,6005,6/35 Mount Street West Perth WA 6005,"$700,000",2020-03-01,Apartment,2,2,2,147,89,2015-01-01,0,1900-01-01,not recorded,-31.9544036,115.8485488
+7/1142 Hay Street,West Perth,WA,6005,7/1142 Hay Street West Perth WA 6005,"$255,000",2020-03-01,Apartment,1,1,1,78,58,2003-01-01,$330pw,2020-03-01,not recorded,-31.9494152,115.8449212
+1210/659 Murray Street,West Perth,WA,6005,1210/659 Murray Street West Perth WA 6005,"$490,000",2020-02-01,Apartment,2,2,1,103,70,2018-01-01,0,1900-01-01,not recorded,-31.9488032,115.845545
+3F/1303 Hay Street,West Perth,WA,6005,3F/1303 Hay Street West Perth WA 6005,"$352,000",2020-02-01,Apartment,1,1,1,96,64,2007-01-01,$420pw,2018-01-01,not recorded,-31.9481189,115.8391904
+1/47 Mount Street,West Perth,WA,6005,1/47 Mount Street West Perth WA 6005,"$1,800,000",2020-02-01,Apartment,3,2,3,295,183,2002-01-01,0,1900-01-01,not recorded,-31.9547548,115.8474974
+5/18 Bellevue Terrace,West Perth,WA,6005,5/18 Bellevue Terrace West Perth WA 6005,"$2,000,000",2020-02-01,Apartment,3,2,2,315,139,2012-01-01,$1200pw,2020-09-01,not recorded,-31.9553815,115.8452909
+1310/659 Murray Street,West Perth,WA,6005,1310/659 Murray Street West Perth WA 6005,"$535,000",2020-01-01,Apartment,2,2,1,105,70,2018-01-01,$600pw,2021-01-01,not recorded,-31.9488032,115.845545
+14/34 Kings Park Road,West Perth,WA,6005,14/34 Kings Park Road West Perth WA 6005,"$389,000",2020-01-01,Apartment,1,1,1,102,75,2005-01-01,0,1900-01-01,not recorded,-31.9517795,115.838625
+1108/659 Murray Street,West Perth,WA,6005,1108/659 Murray Street West Perth WA 6005,"$490,000",2020-01-01,Apartment,2,2,1,102,70,2018-01-01,0,1900-01-01,not recorded,-31.9488032,115.845545
+9/111 Colin Street,West Perth,WA,6005,9/111 Colin Street West Perth WA 6005,"$340,000",2020-01-01,Apartment,1,1,1,104,58,2009-01-01,0,1900-01-01,not recorded,-31.9460068,115.8430727
+12/111 Colin Street,West Perth,WA,6005,12/111 Colin Street West Perth WA 6005,"$510,000",2020-01-01,Apartment,2,2,1,122,82,2009-01-01,0,1900-01-01,not recorded,-31.9460068,115.8430727
+1410/659 Murray Street,West Perth,WA,6005,1410/659 Murray Street West Perth WA 6005,"$505,000",2019-12-01,Apartment,2,2,1,104,70,2018-01-01,0,1900-01-01,not recorded,-31.9488032,115.845545
+86/9 Delhi Street,West Perth,WA,6005,86/9 Delhi Street West Perth WA 6005,"$525,000",2019-12-01,Apartment,3,2,2,151,100,2004-01-01,$545pw,2018-06-01,not recorded,-31.9465268,115.8460061
+126/1178 Hay Street,West Perth,WA,6005,126/1178 Hay Street West Perth WA 6005,"$422,500",2019-12-01,Apartment,2,1,1,131,65,2011-01-01,$450pw,2018-02-01,not recorded,-31.9487453,115.8438121
+42/9 Delhi Street,West Perth,WA,6005,42/9 Delhi Street West Perth WA 6005,"$555,000",2019-12-01,Apartment,3,2,2,147,101,2004-01-01,$550pw,2021-02-01,not recorded,-31.9465268,115.8460061
+49 Victoria Street,West Perth,WA,6005,49 Victoria Street West Perth WA 6005,"$700,000",2019-12-01,House,3,1,2,232,110,1998-01-01,$530pw,2016-08-01,not recorded,-31.9374209,115.8542212
+1304/659 Murray Street,West Perth,WA,6005,1304/659 Murray Street West Perth WA 6005,"$380,000",2019-12-01,Apartment,1,1,1,82,47,2018-01-01,$525pw,2019-12-01,not recorded,-31.9488032,115.845545
+6/26 Florence Street,West Perth,WA,6005,6/26 Florence Street West Perth WA 6005,"$482,500",2019-12-01,Unit,3,1,2,187,107,1985-01-01,$400pw,2019-07-01,not recorded,-31.93773,115.85097
+8 Hammond Street,West Perth,WA,6005,8 Hammond Street West Perth WA 6005,"$750,000",2019-11-01,House,3,2,1,324,128,1920-01-01,$320pw,2005-10-01,not recorded,-31.9370817,115.8518298
+37 Carr Street,West Perth,WA,6005,37 Carr Street West Perth WA 6005,"$528,300",2019-11-01,House,2,1,3,225,94,1910-01-01,$350pw,2019-09-01,not recorded,-31.94056,115.85304
+11/2 Mayfair Street,West Perth,WA,6005,11/2 Mayfair Street West Perth WA 6005,"$265,000",2019-11-01,Apartment,1,1,1,78,56,2001-01-01,$350pw,2020-01-01,not recorded,-31.94858,115.84352
+63 Kingston Avenue,West Perth,WA,6005,63 Kingston Avenue West Perth WA 6005,"$695,000",2019-11-01,House,2,1,1,999,89,1935-01-01,0,1900-01-01,not recorded,-31.93878,115.84651
+10/149 Carr Street,West Perth,WA,6005,10/149 Carr Street West Perth WA 6005,"$550,000",2019-11-01,Townhouse,3,1,1,118,118,1994-01-01,0,1900-01-01,not recorded,-31.9380314,115.8471313
+82/1178 Hay Street,West Perth,WA,6005,82/1178 Hay Street West Perth WA 6005,"$435,000",2019-11-01,Unit,2,1,2,105,55,2011-01-01,$400pw,2019-05-01,not recorded,-31.9487453,115.8438121
+107/1178 Hay Street,West Perth,WA,6005,107/1178 Hay Street West Perth WA 6005,"$445,000",2019-11-01,Apartment,2,2,1,114,71,2011-01-01,$520pw,2015-04-01,not recorded,-31.9487453,115.8438121
+15/38 Kings Park Road,West Perth,WA,6005,15/38 Kings Park Road West Perth WA 6005,"$330,000",2019-11-01,Unit,2,1,1,75,75,1967-01-01,$320pw,2018-06-01,not recorded,-31.9515853,115.8379893
+73/48 Mount Street,West Perth,WA,6005,73/48 Mount Street West Perth WA 6005,"$445,000",2019-10-01,Apartment,2,1,1,105,68,1968-01-01,$400pw,2020-09-01,not recorded,-31.9538247,115.8469643
+6/24 Cliff Street,West Perth,WA,6005,6/24 Cliff Street West Perth WA 6005,"$1,075,000",2019-10-01,Apartment,3,2,3,169,158,1982-01-01,$1400pw,2011-07-01,William Porteous Properties International Pty Ltd ,-31.9541133,115.845314
+127 Carr Street,West Perth,WA,6005,127 Carr Street West Perth WA 6005,"$678,000",2019-10-01,House,2,1,0,216,108,1900-01-01,0,1900-01-01,not recorded,-31.9386237,115.8485488
+35 Carr Street,West Perth,WA,6005,35 Carr Street West Perth WA 6005,"$500,000",2019-10-01,House,2,1,3,225,80,1910-01-01,$350pw,2019-11-01,Marie du Puy,-31.9405565,115.8531353
+7/111 Colin Street,West Perth,WA,6005,7/111 Colin Street West Perth WA 6005,"$505,000",2019-10-01,Apartment,2,2,1,122,82,2010-01-01,0,1900-01-01,Mack Hall Real Estate - Claremont,-31.9460068,115.8430727
+28/36 Kings Park Road,West Perth,WA,6005,28/36 Kings Park Road West Perth WA 6005,"$510,000",2019-10-01,Apartment,2,2,1,128,84,2005-01-01,$550pw,2015-03-01,not recorded,-31.9517795,115.838625
+50/147 Charles Street,West Perth,WA,6005,50/147 Charles Street West Perth WA 6005,"$171,000",2019-09-01,Unit,1,1,1,49,49,1978-01-01,0,1900-01-01,not recorded,-31.9387171,115.8517374
+32/9 Delhi Street,West Perth,WA,6005,32/9 Delhi Street West Perth WA 6005,"$510,000",2019-09-01,Apartment,3,2,2,154,98,2004-01-01,$700pw,2015-04-01,Mack Hall Real Estate - Claremont,-31.9465268,115.8460061
+18/66 Cleaver Street,West Perth,WA,6005,18/66 Cleaver Street West Perth WA 6005,"$171,000",2019-09-01,Apartment,1,1,1,42,40,1970-01-01,$225pw,2016-12-01,Edison Property Residential,-31.9373671,115.8495655
+25/1331 Hay Street,West Perth,WA,6005,25/1331 Hay Street West Perth WA 6005,"$650,000",2019-09-01,Apartment,2,2,2,193,102,2006-01-01,$800pw,2012-08-01,not recorded,-31.9476952,115.8376889
+E1/161 Colin Street,West Perth,WA,6005,E1/161 Colin Street West Perth WA 6005,"$510,000",2019-09-01,Apartment,2,2,1,198,101,1998-01-01,$470pw,2019-09-01,The Property Exchange - Subiaco,-31.9447,115.84301
+809/659 Murray Street,West Perth,WA,6005,809/659 Murray Street West Perth WA 6005,"$375,000",2019-09-01,Apartment,1,1,1,80,48,2018-01-01,0,1900-01-01,Realestate 88 East Perth - EAST PERTH,-31.9488032,115.845545
+2/32 Outram Street,West Perth,WA,6005,2/32 Outram Street West Perth WA 6005,"$315,000",2019-09-01,Apartment,1,1,1,96,67,2004-01-01,0,1900-01-01,not recorded,-31.9497985,115.839445
+69/34 Kings Park Road,West Perth,WA,6005,69/34 Kings Park Road West Perth WA 6005,"$700,000",2019-09-01,Apartment,3,2,2,159,109,2005-01-01,0,1900-01-01,Airey Real Estate,-31.9517795,115.838625
+70/141 Fitzgerald Street,West Perth,WA,6005,70/141 Fitzgerald Street West Perth WA 6005,"$370,000",2019-09-01,Apartment,3,2,1,117,87,1998-01-01,$380pw,2018-03-01,Mack Hall Real Estate - Claremont,-31.9419184,115.8547758
+25/875 Wellington Street,West Perth,WA,6005,25/875 Wellington Street West Perth WA 6005,"$120,000",2019-09-01,Apartment,1,1,0,34,34,1985-01-01,0,1900-01-01,not recorded,-31.947954,115.8463075
+70 Carr Street,West Perth,WA,6005,70 Carr Street West Perth WA 6005,"$660,000",2019-09-01,House,3,1,3,382,119,1935-01-01,0,1900-01-01,not recorded,-31.9393875,115.8513215
+8/146 Carr Street,West Perth,WA,6005,8/146 Carr Street West Perth WA 6005,"$305,000",2019-08-01,Unit,3,1,1,101,79,1995-01-01,$350pw,2019-03-01,Xceed Coastal - North,-31.9373336,115.8476246
+31/16 Kings Park Road,West Perth,WA,6005,31/16 Kings Park Road West Perth WA 6005,"$560,000",2019-08-01,Apartment,3,2,2,145,100,2000-01-01,0,1900-01-01,Peard Real Estate,-31.9525,115.84073
+511/659 Murray Street,West Perth,WA,6005,511/659 Murray Street West Perth WA 6005,"$535,000",2019-08-01,Apartment,2,2,1,137,75,2018-01-01,0,1900-01-01,Real Estate 88,-31.9488032,115.845545
+1008/659 Murray Street,West Perth,WA,6005,1008/659 Murray Street West Perth WA 6005,"$500,000",2019-08-01,Apartment,2,2,1,102,70,2017-01-01,$490pw,2019-09-01,Peter Wright,-31.9488032,115.845545
+1603/659 Murray Street,West Perth,WA,6005,1603/659 Murray Street West Perth WA 6005,"$405,000",2019-07-01,Apartment,1,1,1,83,47,2017-01-01,0,1900-01-01,Realestate 88 East Perth - EAST PERTH,-31.9488032,115.845545
+5/37 Cleaver Street,West Perth,WA,6005,5/37 Cleaver Street West Perth WA 6005,"$470,000",2019-07-01,Townhouse,3,1,2,187,120,1994-01-01,$470pw,2019-11-01,Avenue One Property Group - Perth,-31.9392305,115.8487106
+10/2 Colin Street,West Perth,WA,6005,10/2 Colin Street West Perth WA 6005,"$400,000",2019-07-01,Apartment,2,2,1,99,73,1990-01-01,$450pw,2015-10-01,Mack Hall Real Estate - Claremont,-31.9522418,115.84097
+73/4 Delhi Street,West Perth,WA,6005,73/4 Delhi Street West Perth WA 6005,"$320,000",2019-07-01,Apartment,1,1,1,78,54,2006-01-01,$420pw,2018-11-01,Realestate 88 East Perth - EAST PERTH,-31.9452984,115.8455682
+27/105 Colin Street,West Perth,WA,6005,27/105 Colin Street West Perth WA 6005,"$415,000",2019-07-01,Apartment,2,2,1,114,88,2001-01-01,0,1900-01-01,Mack Hall Real Estate - Claremont,-31.9465842,115.842703
+49/48 Havelock Street,West Perth,WA,6005,49/48 Havelock Street West Perth WA 6005,"$420,000",2019-06-01,Apartment,2,2,1,105,82,2003-01-01,$475pw,2019-11-01,Ray White - Dalkeith | Claremont,-31.9499926,115.8445515
+19/141 Fitzgerald Street,West Perth,WA,6005,19/141 Fitzgerald Street West Perth WA 6005,"$398,000",2019-06-01,Apartment,3,2,1,128,87,1998-01-01,$445pw,2018-03-01,Realestate 88 Inner City,-31.9419184,115.8547758
+111/128 Carr Street,West Perth,WA,6005,111/128 Carr Street West Perth WA 6005,"$169,000",2019-06-01,Unit,1,1,1,44,44,1968-01-01,$255pw,2020-02-01,Sell Lease Property - PERTH,-31.9378447,115.8482803
+51/15-19 Carr Street,West Perth,WA,6005,51/15-19 Carr Street West Perth WA 6005,"$452,500",2019-06-01,Apartment,2,2,1,150,85,2007-01-01,$500pw,2010-03-01,Realestate 88 East Perth - EAST PERTH,-31.9407246,115.8540108
+2/2 Outram Street,West Perth,WA,6005,2/2 Outram Street West Perth WA 6005,"$410,000",2019-06-01,Apartment,2,2,1,139,79,2001-01-01,$380pw,2019-02-01,Central Estate Agents - Subiaco,-31.95146,115.83875
+11/1020 Wellington Street,West Perth,WA,6005,11/1020 Wellington Street West Perth WA 6005,"$405,000",2019-06-01,Apartment,2,2,1,132,100,2003-01-01,$500pw,2015-06-01,Growth Realty - Subiaco,-31.9454255,115.8405079
+11/7 Delhi Street,West Perth,WA,6005,11/7 Delhi Street West Perth WA 6005,"$410,000",2019-06-01,Apartment,3,2,1,128,97,2002-01-01,$495pw,2018-03-01,Jones Ballard Property Group - Como,-31.9469085,115.8463538
+2/11 Altona Street,West Perth,WA,6005,2/11 Altona Street West Perth WA 6005,"$1,000,000",2019-06-01,Apartment,3,3,2,168,101,2004-01-01,$750pw,2017-05-01,not recorded,-31.9512996,115.8393988
+72/48 MOUNT Street,West Perth,WA,6005,72/48 MOUNT Street West Perth WA 6005,"$480,000",2019-06-01,Apartment,2,1,1,101,68,1968-01-01,0,1900-01-01,Realestate 88 East Perth - EAST PERTH,-31.9538247,115.8469643
+6/59 Mount Street,West Perth,WA,6005,6/59 Mount Street West Perth WA 6005,"$1,700,000",2019-05-01,Apartment,3,2,3,193,200,1983-01-01,0,1900-01-01,not recorded,-31.9549641,115.846765
+388 Newcastle Street,West Perth,WA,6005,388 Newcastle Street West Perth WA 6005,"$388,000",2019-05-01,Apartment,2,1,1,47,94,1960-01-01,0,1900-01-01,Realestate 88 Inner City,-31.9428606,115.8541092
+17/37 Florence Street,West Perth,WA,6005,17/37 Florence Street West Perth WA 6005,"$380,000",2019-05-01,Unit,2,1,1,64,67,1982-01-01,$295pw,2017-09-01,Property Now - LOGAN RESERVE,-31.9375872,115.8501656
+1002/659 Murray Street,West Perth,WA,6005,1002/659 Murray Street West Perth WA 6005,"$360,000",2019-05-01,Apartment,1,1,1,75,47,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+1510/659 Murray Street,West Perth,WA,6005,1510/659 Murray Street West Perth WA 6005,"$540,000",2019-05-01,Apartment,2,2,1,102,70,2017-01-01,$620pw,2019-06-01,Realestate 88 East Perth - EAST PERTH,-31.9488032,115.845545
+68/38 Kings Park Road,West Perth,WA,6005,68/38 Kings Park Road West Perth WA 6005,"$350,000",2019-05-01,Apartment,2,1,1,75,75,1967-01-01,0,1900-01-01,Mack Hall Real Estate - Claremont,-31.9515853,115.8379893
+23/1331 Hay Street,West Perth,WA,6005,23/1331 Hay Street West Perth WA 6005,"$300,000",2019-05-01,Apartment,1,1,1,725,53,2006-01-01,$350pw,2018-10-01,LJ Hooker City Residential -,-31.9476952,115.8376889
+77/139-141 Fitzgerald Street,West Perth,WA,6005,77/139-141 Fitzgerald Street West Perth WA 6005,"$300,000",2019-04-01,Apartment,2,1,1,98,,1998-01-01,$480pw,2015-01-01,OEIJ Property - Perth,-31.9415919,115.854492
+1702/659 Murray Street,West Perth,WA,6005,1702/659 Murray Street West Perth WA 6005,"$380,000",2019-04-01,Apartment,1,1,1,75,47,2018-01-01,0,1900-01-01,Realestate 88 East Perth - EAST PERTH,-31.9488032,115.845545
+1111/659 Murray Street,West Perth,WA,6005,1111/659 Murray Street West Perth WA 6005,"$530,000",2019-04-01,Apartment,2,2,1,113,74,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+36/147 Charles Street,West Perth,WA,6005,36/147 Charles Street West Perth WA 6005,"$220,000",2019-04-01,Apartment,2,1,1,67,67,1978-01-01,$260pw,2017-08-01,Jones Ballard Property Group - Como,-31.9387171,115.8517374
+12 Janet Street,West Perth,WA,6005,12 Janet Street West Perth WA 6005,"$980,000",2019-04-01,House,4,2,2,316,262,2010-01-01,$820pw,2020-02-01,Bexleys Real Estate - Wembley,-31.9378147,115.8515064
+1403/659 Murray Street,West Perth,WA,6005,1403/659 Murray Street West Perth WA 6005,"$400,000",2019-04-01,Apartment,1,1,1,88,47,2017-01-01,0,1900-01-01,Realestate 88 East Perth - EAST PERTH,-31.9488032,115.845545
+9/4 Delhi Street,West Perth,WA,6005,9/4 Delhi Street West Perth WA 6005,"$385,000",2019-04-01,Apartment,2,2,1,131,77,2006-01-01,$480pw,2017-12-01,Ray White City Residential (Perth),-31.9452984,115.8455682
+12/17 Emerald Terrace,West Perth,WA,6005,12/17 Emerald Terrace West Perth WA 6005,"$425,000",2019-04-01,Apartment,2,1,1,113,85,1994-01-01,0,1900-01-01,Avenue One Property Group - Perth,-31.9497431,115.8426754
+1301/659 Murray Street,West Perth,WA,6005,1301/659 Murray Street West Perth WA 6005,"$525,000",2019-04-01,Apartment,2,2,1,113,79,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+12/2 Outram Street,West Perth,WA,6005,12/2 Outram Street West Perth WA 6005,"$385,000",2019-03-01,Apartment,2,2,1,99,79,2001-01-01,$380pw,2018-07-01,not recorded,-31.95146,115.83875
+11/45 Malcolm Street,West Perth,WA,6005,11/45 Malcolm Street West Perth WA 6005,"$180,000",2019-03-01,Apartment,0,1,1,33,33,1945-01-01,$250pw,2018-02-01,not recorded,-31.9534112,115.8469814
+76/1178 Hay Street,West Perth,WA,6005,76/1178 Hay Street West Perth WA 6005,"$440,000",2019-03-01,Apartment,2,1,2,106,57,2011-01-01,$450pw,2016-09-01,not recorded,-31.9487453,115.8438121
+11/17 Emerald Terrace,West Perth,WA,6005,11/17 Emerald Terrace West Perth WA 6005,"$430,000",2019-03-01,Apartment,2,1,1,106,81,1994-01-01,0,1900-01-01,not recorded,-31.9497431,115.8426754
+1902/659 Murray Street,West Perth,WA,6005,1902/659 Murray Street West Perth WA 6005,"$390,000",2019-03-01,Apartment,1,1,1,75,47,2017-01-01,$500pw,2021-03-01,Realestate 88 East Perth,-31.9488032,115.845545
+24/2 Mayfair Street,West Perth,WA,6005,24/2 Mayfair Street West Perth WA 6005,"$410,000",2019-03-01,Apartment,2,2,1,105,84,2011-01-01,$440pw,2019-01-01,Realestate 88 Inner City,-31.94858,115.84352
+2/191 Vincent Street,West Perth,WA,6005,2/191 Vincent Street West Perth WA 6005,"$400,000",2019-03-01,Townhouse,3,2,1,206,120,1992-01-01,0,1900-01-01,LJ Hooker City Residential -,-31.9367645,115.8555729
+7/12 Bellevue Terrace,West Perth,WA,6005,7/12 Bellevue Terrace West Perth WA 6005,"$6,250,000",2019-03-01,Apartment,4,4,4,503,296,2003-01-01,$2500pw,2016-07-01,not recorded,-31.9560699,115.8452678
+3/45 Malcolm Street,West Perth,WA,6005,3/45 Malcolm Street West Perth WA 6005,"$175,000",2019-02-01,Unit,1,1,1,37,37,1945-01-01,$250pw,2019-09-01,KPR Perth,-31.9534112,115.8469814
+74/141 Fitzgerald Street,West Perth,WA,6005,74/141 Fitzgerald Street West Perth WA 6005,"$393,000",2019-02-01,Apartment,3,2,1,115,87,1998-01-01,$550pw,2016-05-01,Mack Hall Real Estate - Claremont,-31.9419184,115.8547758
+2006/659 Murray Street,West Perth,WA,6005,2006/659 Murray Street West Perth WA 6005,"$620,000",2019-02-01,Apartment,2,2,2,129,77,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+11/71 Mount Street,West Perth,WA,6005,11/71 Mount Street West Perth WA 6005,"$670,000",2019-02-01,Apartment,2,1,2,129,95,1966-01-01,$695pw,2016-12-01,William Porteous Properties International Pty Ltd ,-31.9556682,115.8455913
+22 Kingston Avenue,West Perth,WA,6005,22 Kingston Avenue West Perth WA 6005,"$802,500",2019-02-01,House,4,2,2,397,232,2020-01-01,0,1900-01-01,not recorded,-31.9387708,115.8478808
+28/5 Delhi Street,West Perth,WA,6005,28/5 Delhi Street West Perth WA 6005,"$490,000",2019-02-01,Apartment,3,2,1,124,97,2001-01-01,$550pw,2021-03-01,Realestate 88 Inner City,-31.94625,115.84659
+806/659 Murray Street,West Perth,WA,6005,806/659 Murray Street West Perth WA 6005,"$540,000",2019-02-01,Apartment,2,2,1,116,77,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+1508/659 Murray Street,West Perth,WA,6005,1508/659 Murray Street West Perth WA 6005,"$540,000",2019-02-01,Apartment,2,2,1,102,72,2018-01-01,$625pw,2020-07-01,Realestate 88 East Perth,-31.9488032,115.845545
+1110/659 Murray Street,West Perth,WA,6005,1110/659 Murray Street West Perth WA 6005,"$502,000",2019-02-01,Apartment,2,2,1,102,70,2018-01-01,$530pw,2020-09-01,Realestate 88 East Perth,-31.9488032,115.845545
+4 Florence Street,West Perth,WA,6005,4 Florence Street West Perth WA 6005,"$1,265,000",2019-02-01,House,4,3,2,200,215,2016-01-01,0,1900-01-01,not recorded,-31.939027,115.850861
+402/18 Rheola Street,West Perth,WA,6005,402/18 Rheola Street West Perth WA 6005,"$390,000",2019-01-01,Apartment,2,2,1,101,72,2005-01-01,$900pw,2015-03-01,not recorded,-31.94962,115.83511
+1/26 Carr Street,West Perth,WA,6005,1/26 Carr Street West Perth WA 6005,"$405,000",2019-01-01,House,1,1,1,122,74,2008-01-01,$375pw,2018-03-01,ACTON Dalkeith,-31.9373352,115.8482697
+18/1 Douro Place,West Perth,WA,6005,18/1 Douro Place West Perth WA 6005,"$535,000",2019-01-01,Apartment,2,2,2,124,75,2010-01-01,$550pw,2017-07-01,Mack Hall Real Estate - Claremont,-31.9454139,115.8413431
+47/227 Vincent Street,West Perth,WA,6005,47/227 Vincent Street West Perth WA 6005,"$159,000",2019-01-01,Apartment,1,1,1,47,47,1968-01-01,0,1900-01-01,KPR Perth,-31.9366105,115.8484547
+1404/659 Murray Street,West Perth,WA,6005,1404/659 Murray Street West Perth WA 6005,"$392,500",2019-01-01,Apartment,1,1,1,82,47,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+118 Carr Street,West Perth,WA,6005,118 Carr Street West Perth WA 6005,"$660,000",2019-01-01,House,2,1,3,180,72,1920-01-01,$450pw,2020-07-01,HERE Property - Leederville,-31.9382435,115.8488435
+3/147 Charles Street,West Perth,WA,6005,3/147 Charles Street West Perth WA 6005,"$231,000",2019-01-01,Apartment,2,1,1,67,67,1978-01-01,$345pw,2019-06-01,Jones Ballard Property Group - Como,-31.9387171,115.8517374
+16/2 Colin Street,West Perth,WA,6005,16/2 Colin Street West Perth WA 6005,"$375,000",2019-01-01,Apartment,2,2,1,101,73,2000-01-01,$450pw,2019-12-01,Mack Hall Real Estate - Claremont,-31.9522418,115.84097
+18/16 Kings Park Road,West Perth,WA,6005,18/16 Kings Park Road West Perth WA 6005,"$540,000",2019-01-01,Apartment,3,2,2,151,100,2000-01-01,0,1900-01-01,Investors Edge Real Estate - Kenwick,-31.9525,115.84073
+8/1 Coolgardie Street,West Perth,WA,6005,8/1 Coolgardie Street West Perth WA 6005,"$469,000",2019-01-01,Apartment,2,2,2,141,87,2008-01-01,$615pw,2021-04-01,not recorded,-31.9489778,115.8476939
+1202/659 Murray Street,West Perth,WA,6005,1202/659 Murray Street West Perth WA 6005,"$368,000",2018-12-01,Apartment,1,1,1,83,47,2018-01-01,0,1900-01-01,Realestate 88 East Perth,-31.9488032,115.845545
+63/66 Cleaver Street,West Perth,WA,6005,63/66 Cleaver Street West Perth WA 6005,"$150,000",2018-12-01,Apartment,1,1,1,40,40,1970-01-01,$240pw,2019-04-01,Bexleys Real Estate - Wembley,-31.9373671,115.8495655
+47 Victoria Street,West Perth,WA,6005,47 Victoria Street West Perth WA 6005,"$578,000",2018-12-15,House,3,1,1,347,118,1920-01-01,0,1900-01-01,Ray White City Residential (Perth),-31.9374802,115.8541866
+1/2 Outram Street,West Perth,WA,6005,1/2 Outram Street West Perth WA 6005,"$400,000",2018-12-01,Apartment,2,2,1,121,74,2001-01-01,$450pw,2021-02-01,Mack Hall Real Estate - Claremont,-31.95146,115.83875
+402/18 Rheola,West Perth,WA,6005,402/18 Rheola West Perth WA 6005,"$390,000",2018-12-01,Apartment,2,2,1,101,72,2005-01-01,$595pw,2016-09-01,not recorded,-31.94962,115.83511
+207/45 Malcolm Street,West Perth,WA,6005,207/45 Malcolm Street West Perth WA 6005,"$200,500",2018-12-01,Apartment,0,1,1,34,34,1945-01-01,$200pw,2016-02-01,Mark Hay - East Perth,-31.9534112,115.8469814
+17/21 Altona Street,West Perth,WA,6005,17/21 Altona Street West Perth WA 6005,"$550,000",2018-12-01,Apartment,2,2,1,103,74,2014-01-01,0,1900-01-01,not recorded,-31.9508438,115.8395682
+1905/659 Murray Street,West Perth,WA,6005,1905/659 Murray Street West Perth WA 6005,"$405,000",2018-12-01,Apartment,1,1,1,75,47,2017-01-01,$450pw,2020-08-01,Realestate 88 East Perth,-31.9488032,115.845545
+10/1178 Hay Street,West Perth,WA,6005,10/1178 Hay Street West Perth WA 6005,"$297,500",2018-12-01,Apartment,1,1,1,68,60,2011-01-01,$320pw,2018-10-01,not recorded,-31.9487453,115.8438121
+177C Fitzgerald Street,West Perth,WA,6005,177C Fitzgerald Street West Perth WA 6005,"$645,000",2018-12-01,Townhouse,3,3,2,135,142,2004-01-01,$595pw,2017-12-01,Avanti Residential - Subiaco,-31.9409026,115.8553275
+66 Carr Street,West Perth,WA,6005,66 Carr Street West Perth WA 6005,"$670,000",2018-11-01,House,2,1,2,229,95,1920-01-01,$550pw,2012-02-01,The Property Exchange - Subiaco,-31.9394543,115.8515961
+2/2A Janet Street,West Perth,WA,6005,2/2A Janet Street West Perth WA 6005,"$568,000",2018-11-01,Townhouse,3,2,1,209,147,1998-01-01,$500pw,2019-01-01,Peard Real Estate,-31.93788,115.85231
+404 Bulwer Street,West Perth,WA,6005,404 Bulwer Street West Perth WA 6005,"$800,000",2018-11-01,House,4,1,2,410,,1950-01-01,$600pw,2014-10-01,Bellcourt Property Group - SOUTH PERTH,-31.9367082,115.8548797
+4/18 Bellevue Terrace,West Perth,WA,6005,4/18 Bellevue Terrace West Perth WA 6005,"$1,800,000",2018-11-01,Apartment,3,2,2,312,132,2012-01-01,$1150pw,2019-12-01,Space Real Estate - Cottesloe,-31.9553815,115.8452909
+4/32 Carr Street,West Perth,WA,6005,4/32 Carr Street West Perth WA 6005,"$715,000",2018-11-01,Townhouse,3,2,2,122,149,2005-01-01,$650pw,2012-05-01,Mack Hall Real Estate - Claremont,-31.94015,115.85354
+72 Cleaver Street,West Perth,WA,6005,72 Cleaver Street West Perth WA 6005,"$870,000",2018-11-01,House,3,1,1,516,142,1918-01-01,$600pw,2011-09-01,Central Paragon Property - North Perth,-31.9370771,115.8495655
+2/1 Violet Street,West Perth,WA,6005,2/1 Violet Street West Perth WA 6005,"$620,000",2018-11-01,House,3,1,1,131,116,1995-01-01,$450pw,2011-01-01,Tsokos Property - Subiaco,-31.9380264,115.8530239
+1805/659 Murray Street,West Perth,WA,6005,1805/659 Murray Street West Perth WA 6005,"$395,000",2018-11-01,Apartment,1,1,1,83,47,2018-01-01,$485pw,2020-10-01,Realestate 88 East Perth,-31.9488032,115.845545
+76/4 Delhi Street,West Perth,WA,6005,76/4 Delhi Street West Perth WA 6005,"$675,000",2018-11-01,Apartment,3,2,2,164,126,2006-01-01,$750pw,2012-07-01,Mack Hall Real Estate - Claremont,-31.9452984,115.8455682
+18 Prospect Place,West Perth,WA,6005,18 Prospect Place West Perth WA 6005,"$785,000",2018-11-01,House,3,1,2,224,121,1930-01-01,$695pw,2015-02-01,The Perth Property Co. - PERTH,-31.9405971,115.8514255
+2D/63 Mount Street,West Perth,WA,6005,2D/63 Mount Street West Perth WA 6005,"$560,000",2018-10-01,Apartment,1,2,2,157,115,1995-01-01,$500pw,2020-01-01,Harcourts City Central - PERTH,-31.9552299,115.8465918
+21/48 Havelock Street,West Perth,WA,6005,21/48 Havelock Street West Perth WA 6005,"$410,000",2018-10-01,Apartment,2,2,1,105,82,2003-01-01,$370pw,2020-04-01,Mack Hall Real Estate - Claremont,-31.9499926,115.8445515
+33/9 Delhi Street,West Perth,WA,6005,33/9 Delhi Street West Perth WA 6005,"$570,000",2018-10-01,Apartment,3,2,2,151,101,2004-01-01,$800pw,2013-08-01,Mack Hall Real Estate - Claremont,-31.9465268,115.8460061
+1303/659 Murray Street,West Perth,WA,6005,1303/659 Murray Street West Perth WA 6005,"$340,000",2018-10-01,Apartment,1,1,1,82,47,2018-01-01,0,1900-01-01,Realestate 88 Inner City,-31.9488032,115.845545
+11/2 Colin Street,West Perth,WA,6005,11/2 Colin Street West Perth WA 6005,"$370,000",2018-10-01,Apartment,2,2,1,100,73,2000-01-01,$490pw,2016-09-01,Abode Real Estate - Cottesloe,-31.9522418,115.84097
+66/66 Cleaver Street,West Perth,WA,6005,66/66 Cleaver Street West Perth WA 6005,"$169,000",2018-10-01,Apartment,1,1,1,42,40,1970-01-01,$295pw,2021-02-01,KPR Perth,-31.9373671,115.8495655
+15/15-19 Carr Street,West Perth,WA,6005,15/15-19 Carr Street West Perth WA 6005,"$350,000",2018-09-01,Apartment,2,2,1,108,80,2007-01-01,$410pw,2020-09-01,Realmark Urban - Floreat,-31.9407246,115.8540108
+15/4 Delhi Street,West Perth,WA,6005,15/4 Delhi Street West Perth WA 6005,"$420,000",2018-09-01,House,2,2,1,146,80,2006-01-01,$420pw,2007-10-01,Mi Casa Property Boutique,-31.9452984,115.8455682
+41/33 Malcolm Street,West Perth,WA,6005,41/33 Malcolm Street West Perth WA 6005,"$1,300,000",2018-09-01,Apartment,3,3,2,201,136,2010-01-01,0,1900-01-01,not recorded,-31.9534429,115.8473896
+8/35 Mount Street,West Perth,WA,6005,8/35 Mount Street West Perth WA 6005,"$600,000",2018-09-01,Apartment,2,2,1,120,80,2015-01-01,$525pw,2018-04-01,Mack Hall Real Estate - Claremont,-31.9544036,115.8485488
+394 Bulwer Street,West Perth,WA,6005,394 Bulwer Street West Perth WA 6005,"$860,000",2018-09-01,House,3,1,2,350,123,1910-01-01,$800pw,2013-05-01,Bellcourt Property Group - SOUTH PERTH,-31.9370106,115.8552032
+18/863 Wellington Street,West Perth,WA,6005,18/863 Wellington Street West Perth WA 6005,"$390,000",2018-09-01,Apartment,2,2,1,104,70,2010-01-01,$440pw,2021-01-01,Benade Helman - Wembley,-31.9477908,115.8466772
+18/161 Charles Street,West Perth,WA,6005,18/161 Charles Street West Perth WA 6005,"$330,000",2018-09-01,Apartment,2,1,1,73,73,1977-01-01,0,1900-01-01,ACTON Victoria Park,-31.9383637,115.852315
+17/33 Malcolm Street,West Perth,WA,6005,17/33 Malcolm Street West Perth WA 6005,"$606,000",2018-08-01,Apartment,2,2,2,120,76,2010-01-01,$520pw,2017-09-01,Caporn Young Estate Agents - Claremont,-31.9534429,115.8473896
+69/9 Delhi Street,West Perth,WA,6005,69/9 Delhi Street West Perth WA 6005,"$635,000",2018-08-01,House,3,2,2,154,101,2004-01-01,$575pw,2016-07-01,Mack Hall Real Estate - Claremont,-31.9465268,115.8460061
+3/28 Carr Street,West Perth,WA,6005,3/28 Carr Street West Perth WA 6005,"$740,000",2018-08-01,Townhouse,3,2,2,247,151,2005-01-01,0,1900-01-01,Mack Hall Real Estate - Claremont,-31.9404015,115.8535398
+175/659 Murray Street,West Perth,WA,6005,175/659 Murray Street West Perth WA 6005,"$530,000",2018-08-01,Apartment,2,2,1,114,77,2018-01-01,0,1900-01-01,DevelopWise,-31.9488032,115.845545

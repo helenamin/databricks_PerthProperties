@@ -1,0 +1,298 @@
+address,suburb,state,postcode,full_address,price,sold date,type,bedrooms,bathrooms,car space,Land size,Building size,Year Built,rent,rent date,agent,lat,lng
+1/10 Pendal Lane,Perth,WA,6000,1/10 Pendal Lane Perth WA 6000,"$359,000",2020-08-01,Apartment,2,2,1,96,90,2003-01-01,$470pw,2010-06-01,not recorded,-31.9432751,115.8560119
+1/10 Wright Street,Perth,WA,6000,1/10 Wright Street Perth WA 6000,"$355,000",2020-04-01,Townhouse,2,1,1,62,62,1979-01-01,$340pw,2018-10-01,not recorded,-31.9403824,115.8737132
+1/308 Stirling Street,Perth,WA,6000,1/308 Stirling Street Perth WA 6000,"$325,000",2021-05-01,Unit,2,1,1,59,59,1965-01-01,$300pw,2012-04-01,Peter Thomas,-31.9422379,115.8694357
+1/33 Windsor Street,Perth,WA,6000,1/33 Windsor Street Perth WA 6000,"$360,000",2020-07-01,Apartment,2,2,1,97,56,2016-01-01,$360pw,2020-03-01,not recorded,-31.94432,115.87452
+1/478 William Street,Perth,WA,6000,1/478 William Street Perth WA 6000,"$523,000",2021-06-01,Apartment,2,2,2,129,90,2009-01-01,$475pw,2020-07-01,not recorded,-31.94126,115.8638444
+1/63 Palmerston Street,Perth,WA,6000,1/63 Palmerston Street Perth WA 6000,"$821,000",2019-12-01,House,3,2,2,176,185,2000-01-01,0,1900-01-01,Carlos Lehn,-31.9394,115.8594
+10 Church Street,Perth,WA,6000,10 Church Street Perth WA 6000,"$810,000",2020-06-01,House,3,2,1,144,,2016-01-01,$610pw,2017-08-01,Michael Mort,-31.94362,115.8585
+10 Pisconeri Street,Perth,WA,6000,10 Pisconeri Street Perth WA 6000,"$1,308,000",2021-05-01,House,4,2,3,302,289,2008-01-01,$700pw,2018-04-01,Daniel Porcaro,-31.9485212,115.8675002
+10 Robinson Avenue,Perth,WA,6000,10 Robinson Avenue Perth WA 6000,"$880,000",2020-04-01,House,2,2,2,241,174,1995-01-01,$550pw,2018-10-01,Claude Iaconi,-31.9442908,115.8642977
+10/10 Wright Street,Perth,WA,6000,10/10 Wright Street Perth WA 6000,"$447,500",2020-09-01,Townhouse,2,1,1,62,62,1979-01-01,$460pw,2013-06-01,not recorded,-31.9439724,115.8719309
+10/20 Pendal Lane,Perth,WA,6000,10/20 Pendal Lane Perth WA 6000,"$390,000",2021-01-01,Apartment,2,2,1,113,88,2003-01-01,0,1900-01-01,Peter MacDonald,-31.9428408,115.8561043
+100/101 Murray Street,Perth,WA,6000,100/101 Murray Street Perth WA 6000,"$330,000",2020-08-01,Apartment,1,1,1,70,61,2011-01-01,$450pw,2019-01-01,not recorded,-31.9542262,115.8620192
+100/22 St Georges Terrace,Perth,WA,6000,100/22 St Georges Terrace Perth WA 6000,"$385,000",2020-12-01,Apartment,1,1,1,93,67,2009-01-01,$500pw,2021-01-01,not recorded,-31.9564827,115.8638659
+1013/380 Murray Street,Perth,WA,6000,1013/380 Murray Street Perth WA 6000,"$399,950",2020-09-01,Apartment,1,1,0,73,44,2020-01-01,0,1900-01-01,not recorded,-31.9511862,115.8542076
+104/15 Aberdeen Street,Perth,WA,6000,104/15 Aberdeen Street Perth WA 6000,"$409,000",2020-11-01,Apartment,2,2,1,101,72,2014-01-01,$460pw,2016-09-01,not recorded,-31.949662,115.8652097
+104/305 Murray Street,Perth,WA,6000,104/305 Murray Street Perth WA 6000,"$245,000",2021-06-01,Apartment,1,1,0,31,31,2003-01-01,0,1900-01-01,not recorded,-31.9524313,115.8565664
+105/22 St Georges Terrace,Perth,WA,6000,105/22 St Georges Terrace Perth WA 6000,"$630,000",2019-12-01,Apartment,2,2,1,120,89,2009-01-01,$620pw,2018-08-01,not recorded,-31.9564827,115.8638659
+106/580 Hay Street,Perth,WA,6000,106/580 Hay Street Perth WA 6000,"$425,000",2020-03-01,Apartment,1,1,1,120,82,2011-01-01,$520pw,2019-01-01,not recorded,-31.9546333,115.8609102
+107/101 Murray Street,Perth,WA,6000,107/101 Murray Street Perth WA 6000,"$350,000",2021-01-01,Apartment,1,1,1,70,61,2011-01-01,$500pw,2017-08-01,Terry Lu,-31.9542262,115.8620192
+108/126 Mounts Bay Road,Perth,WA,6000,108/126 Mounts Bay Road Perth WA 6000,"$220,000",2019-12-01,Apartment,1,1,0,59,57,2001-01-01,0,1900-01-01,not recorded,-31.9561886,115.8471018
+109/15 Aberdeen Street,Perth,WA,6000,109/15 Aberdeen Street Perth WA 6000,"$330,000",2021-06-01,Apartment,1,1,1,77,47,2014-01-01,$370pw,2019-03-01,Cherry Li,-31.949662,115.8652097
+10B/811 Hay Street,Perth,WA,6000,10B/811 Hay Street Perth WA 6000,"$255,000",2019-12-01,Apartment,1,1,0,59,53,2001-01-01,$300pw,2019-03-01,not recorded,-31.9531058,115.8553788
+11 Lindsay Street,Perth,WA,6000,11 Lindsay Street Perth WA 6000,"$1,100,000",2021-03-01,House,3,2,2,240,155,2010-01-01,$780pw,2021-01-01,Meryl Carter,-31.946328,115.8630127
+11/177 Stirling Street,Perth,WA,6000,11/177 Stirling Street Perth WA 6000,"$450,000",2021-07-01,Apartment,2,2,1,109,70,2012-01-01,$465pw,2016-11-01,Danielle Geagea,-31.9469,115.8655059
+11/18 Robinson Avenue,Perth,WA,6000,11/18 Robinson Avenue Perth WA 6000,"$620,000",2021-06-01,Townhouse,3,1,1,201,139,2002-01-01,$475pw,2019-09-01,Graeme Correy,-31.9442746,115.8638426
+11/2 Braid Street,Perth,WA,6000,11/2 Braid Street Perth WA 6000,"$450,000",2020-03-01,Apartment,2,2,2,870,104,2008-01-01,$550pw,2019-02-01,Mary Parker,-31.949183,115.8679775
+11/2 Pisconeri Street,Perth,WA,6000,11/2 Pisconeri Street Perth WA 6000,"$375,000",2021-03-01,Apartment,2,1,1,100,74,2008-01-01,$360pw,2018-09-01,Dan Sharp,-31.9488756,115.8671946
+11/32 Fielder Street,Perth,WA,6000,11/32 Fielder Street Perth WA 6000,"$450,000",2020-04-01,Apartment,2,2,2,123,84,2008-01-01,0,1900-01-01,not recorded,-31.9507574,115.8733864
+11/75 Glendower Street,Perth,WA,6000,11/75 Glendower Street Perth WA 6000,"$290,000",2020-05-01,Apartment,2,1,1,63,60,1967-01-01,$330pw,2021-01-01,not recorded,-31.93913,115.86126
+110/15 Aberdeen Street,Perth,WA,6000,110/15 Aberdeen Street Perth WA 6000,"$285,000",2019-12-01,Apartment,1,1,1,78,50,2014-01-01,$330pw,2019-10-01,not recorded,-31.949662,115.8652097
+112 Bulwer Street,Perth,WA,6000,112 Bulwer Street Perth WA 6000,"$705,000",2019-11-01,House,2,1,1,87,91,1900-01-01,$580pw,2021-05-01,not recorded,-31.9421192,115.8665506
+119 Summers Street,Perth,WA,6000,119 Summers Street Perth WA 6000,"$830,000",2020-01-01,House,3,1,0,506,125,1900-01-01,0,1900-01-01,not recorded,-31.9453239,115.8744723
+12 Lane Street,Perth,WA,6000,12 Lane Street Perth WA 6000,"$780,000",2020-10-01,House,3,1,2,351,334,1930-01-01,$480pw,2014-08-01,not recorded,-31.9427099,115.8644867
+12 Wade Street,Perth,WA,6000,12 Wade Street Perth WA 6000,"$680,000",2021-01-01,Townhouse,4,2,2,152,136,1996-01-01,$625pw,2015-12-01,Annie Kowal,-31.9424538,115.8639286
+12/369 Hay Street,Perth,WA,6000,12/369 Hay Street Perth WA 6000,"$410,000",2020-12-01,Apartment,2,2,1,120,75,2009-01-01,$420pw,2016-10-01,not recorded,-31.9574465,115.867509
+12/580 Hay Street,Perth,WA,6000,12/580 Hay Street Perth WA 6000,"$525,000",2020-04-01,Apartment,2,2,1,175,102,2011-01-01,$580pw,2019-09-01,not recorded,-31.9546333,115.8609102
+12/71 Brewer Street,Perth,WA,6000,12/71 Brewer Street Perth WA 6000,"$420,000",2020-10-01,Apartment,2,2,1,114,78,2016-01-01,$390pw,2017-11-01,not recorded,-31.9461003,115.8673925
+12/82 King Street,Perth,WA,6000,12/82 King Street Perth WA 6000,"$1,355,000",2021-01-01,Apartment,2,2,1,258,230,2003-01-01,0,1900-01-01,not recorded,-31.9509822,115.8557674
+120/580 Hay Street,Perth,WA,6000,120/580 Hay Street Perth WA 6000,"$450,000",2020-06-01,Apartment,1,1,1,134,82,2011-01-01,$550pw,2020-02-01,not recorded,-31.9546333,115.8609102
+1205/237 Adelaide Terrace,Perth,WA,6000,1205/237 Adelaide Terrace Perth WA 6000,"$465,000",2019-11-01,Apartment,2,2,1,106,78,2010-01-01,0,1900-01-01,not recorded,-31.9584671,115.8667534
+123 Glendower Street,Perth,WA,6000,123 Glendower Street Perth WA 6000,"$975,000",2020-12-01,House,4,2,2,278,161,1900-01-01,0,1900-01-01,Matt Seabrook,-31.93808,115.85876
+124/138 Barrack Street,Perth,WA,6000,124/138 Barrack Street Perth WA 6000,"$460,000",2021-01-01,Unit,3,2,1,145,119,2006-01-01,$500pw,2019-04-01,Brent Compton,-31.9527337,115.8612886
+127/369 Hay Street,Perth,WA,6000,127/369 Hay Street Perth WA 6000,"$325,000",2020-09-01,Apartment,1,1,1,83,50,2009-01-01,$410pw,2020-12-01,not recorded,-31.9574465,115.867509
+13/118 Mounts Bay Road,Perth,WA,6000,13/118 Mounts Bay Road Perth WA 6000,"$390,000",2021-05-01,Apartment,2,1,1,136,104,1999-01-01,0,1900-01-01,Brendon Habak,-31.9552607,115.8477979
+13/154 Newcastle Street,Perth,WA,6000,13/154 Newcastle Street Perth WA 6000,"$189,000",2019-12-01,Apartment,1,1,1,83,57,2009-01-01,0,1900-01-01,not recorded,-31.9471039,115.8637289
+132/250 Beaufort Street,Perth,WA,6000,132/250 Beaufort Street Perth WA 6000,"$341,000",2020-09-01,Apartment,2,1,1,98,72,2006-01-01,0,1900-01-01,not recorded,-31.9452003,115.8655478
+14 Hope Street,Perth,WA,6000,14 Hope Street Perth WA 6000,"$790,000",2020-11-01,House,2,1,2,409,131,1930-01-01,0,1900-01-01,Nadija Begovich,-31.9419271,115.8593044
+14/120 Terrace Road,Perth,WA,6000,14/120 Terrace Road Perth WA 6000,"$225,000",2019-11-01,Unit,1,1,1,43,43,1960-01-01,$290pw,2020-03-01,not recorded,-31.9596556,115.866848
+14/122 Mounts Bay Road,Perth,WA,6000,14/122 Mounts Bay Road Perth WA 6000,"$365,000",2020-03-01,Apartment,2,2,1,102,80,2002-01-01,0,1900-01-01,not recorded,-31.9554372,115.8474284
+14/130 Terrace Road,Perth,WA,6000,14/130 Terrace Road Perth WA 6000,"$320,000",2020-07-01,Apartment,2,1,1,67,67,1956-01-01,$360pw,2021-03-01,not recorded,-31.9594427,115.8659238
+14/180 Stirling Street,Perth,WA,6000,14/180 Stirling Street Perth WA 6000,"$335,000",2021-05-01,House,1,1,1,81,48,2013-01-01,$360pw,2020-08-01,not recorded,-31.9470657,115.8661848
+14/34 PALMERSTON Street,Perth,WA,6000,14/34 PALMERSTON Street Perth WA 6000,"$630,000",2019-12-01,Apartment,2,2,1,153,110,1999-01-01,0,1900-01-01,not recorded,-31.9438988,115.8577122
+14/378 Beaufort Street,Perth,WA,6000,14/378 Beaufort Street Perth WA 6000,"$335,000",2021-05-01,Apartment,1,1,1,93,52,2012-01-01,$340pw,2020-12-01,Dean Sims,-31.9421489,115.8676567
+14/45-47 Stuart Street,Perth,WA,6000,14/45-47 Stuart Street Perth WA 6000,"$735,000",2020-06-01,Townhouse,3,2,2,243,,2008-01-01,$750pw,2013-06-01,not recorded,-31.9421086,115.855896
+1416/380 Murray Street,Perth,WA,6000,1416/380 Murray Street Perth WA 6000,"$461,000",2020-02-01,Apartment,1,1,1,72,43,2020-01-01,$485pw,2020-07-01,not recorded,-31.9511862,115.8542076
+15/114 Terrace Road,Perth,WA,6000,15/114 Terrace Road Perth WA 6000,"$210,000",2021-01-01,Villa,1,1,0,54,54,1945-01-01,$250pw,2016-09-01,Davide Palermo,-31.959762,115.8673101
+15/229 Adelaide Terrace,Perth,WA,6000,15/229 Adelaide Terrace Perth WA 6000,"$650,000",2021-01-01,Apartment,2,2,2,905,96,2008-01-01,$750pw,2021-01-01,Chris O'Brien,-31.9587233,115.8674744
+15/34 Palmerston Street,Perth,WA,6000,15/34 Palmerston Street Perth WA 6000,"$645,000",2019-12-01,Townhouse,2,2,1,135,127,1999-01-01,0,1900-01-01,not recorded,-31.9438988,115.8577122
+1-5/55 Gladstone Street,Perth,WA,6000,1-5/55 Gladstone Street Perth WA 6000,"$1,220,000",2020-08-01,House,1,1,1,110,80,1999-01-01,0,1900-01-01,not recorded,-31.9467168,115.8720695
+1503/105 Stirling Street,Perth,WA,6000,1503/105 Stirling Street Perth WA 6000,"$530,000",2020-08-01,Apartment,2,2,2,116,90,2017-01-01,0,1900-01-01,not recorded,-31.949025,115.8638405
+1506/105 Stirling Street,Perth,WA,6000,1506/105 Stirling Street Perth WA 6000,"$520,000",2020-01-01,Apartment,2,2,2,122,96,2017-01-01,$610pw,2018-03-01,not recorded,-31.949025,115.8638405
+1514/380 Murray Street,Perth,WA,6000,1514/380 Murray Street Perth WA 6000,"$602,000",2020-02-01,Apartment,2,1,1,87,59,2020-01-01,$550pw,2020-04-01,not recorded,-31.9511862,115.8542076
+154A Lake Street,Perth,WA,6000,154A Lake Street Perth WA 6000,"$712,500",2020-11-01,House,3,2,2,190,125,1995-01-01,$595pw,2017-04-01,not recorded,-31.9437627,115.8595489
+157/15 Aberdeen Street,Perth,WA,6000,157/15 Aberdeen Street Perth WA 6000,"$470,000",2021-01-01,Apartment,1,1,1,98,69,2014-01-01,$480pw,2021-02-01,Ashby Farrell,-31.949662,115.8652097
+159/369 Hay Street,Perth,WA,6000,159/369 Hay Street Perth WA 6000,"$470,000",2020-12-01,Apartment,2,2,2,137,77,2009-01-01,$675pw,2014-10-01,not recorded,-31.9574465,115.867509
+15a/120-122 Lake Street,Perth,WA,6000,15a/120-122 Lake Street Perth WA 6000,"$360,000",2020-12-01,Apartment,2,1,1,109,83,1994-01-01,0,1900-01-01,Nik Zounis,-31.9447634,115.8592993
+16 Hope Street,Perth,WA,6000,16 Hope Street Perth WA 6000,"$845,000",2020-01-01,House,3,1,2,403,129,1930-01-01,$380pw,2009-08-01,Nadija Begovich,-31.94166,115.8589
+16 Robinson Avenue,Perth,WA,6000,16 Robinson Avenue Perth WA 6000,"$760,000",2020-06-01,House,3,2,2,305,116,1993-01-01,$768pw,2017-01-01,not recorded,-31.9442642,115.8640398
+16/122 Terrace Road,Perth,WA,6000,16/122 Terrace Road Perth WA 6000,"$200,000",2021-04-01,Apartment,1,1,1,34,34,1961-01-01,$250pw,2009-04-01,Josh Roberts,-31.9595615,115.8667094
+16/250 Beaufort Street,Perth,WA,6000,16/250 Beaufort Street Perth WA 6000,"$345,000",2020-03-01,Apartment,2,1,1,116,72,2005-01-01,$390pw,2010-07-01,not recorded,-31.9452003,115.8655478
+16/448 Murray Street,Perth,WA,6000,16/448 Murray Street Perth WA 6000,"$335,000",2020-06-01,Apartment,2,1,1,90,70,2005-01-01,$450pw,2016-01-01,not recorded,-31.9506456,115.8525923
+16/580 Hay Street,Perth,WA,6000,16/580 Hay Street Perth WA 6000,"$470,000",2020-10-01,Apartment,2,2,1,142,100,2011-01-01,$520pw,2020-05-01,not recorded,-31.9546333,115.8609102
+16/8 James Street,Perth,WA,6000,16/8 James Street Perth WA 6000,"$330,000",2021-03-01,Apartment,2,1,1,533,87,1996-01-01,$395pw,2017-03-01,Brendan Smith,-31.95114,115.86443
+166 Lake Street,Perth,WA,6000,166 Lake Street Perth WA 6000,"$1,000,000",2020-07-01,House,3,2,1,197,188,1/01/1897,0,1900-01-01,Daniel Porcaro,-31.9433325,115.8599602
+167 Lake Street,Perth,WA,6000,167 Lake Street Perth WA 6000,"$1,825,000",2020-12-01,House,5,2,1,369,309,1902-01-01,0,1900-01-01,not recorded,-31.9429874,115.8595106
+17/116 Mounts Bay Road,Perth,WA,6000,17/116 Mounts Bay Road Perth WA 6000,"$350,000",2021-03-01,Apartment,2,1,1,111,82,1999-01-01,$400pw,2016-11-01,not recorded,-31.9555238,115.8480636
+17/34 Bulwer Street,Perth,WA,6000,17/34 Bulwer Street Perth WA 6000,"$300,000",2021-06-01,Apartment,2,1,1,71,71,1978-01-01,0,1900-01-01,Josh Roberts,-31.9436386,115.8705492
+17/34 Palmerston Street,Perth,WA,6000,17/34 Palmerston Street Perth WA 6000,"$620,000",2021-06-01,Apartment,2,2,2,147,118,1910-01-01,$500pw,2017-03-01,Nadija Begovich,-31.9438988,115.8577122
+172 Lake Street,Perth,WA,6000,172 Lake Street Perth WA 6000,"$1,050,000",2021-06-01,House,3,2,0,195,208,1/01/1897,0,1900-01-01,Daniel Porcaro,-31.9431637,115.8599975
+18 Church Street,Perth,WA,6000,18 Church Street Perth WA 6000,"$890,000",2021-05-01,House,2,1,1,176,101,1920-01-01,$590pw,2021-05-01,Shaun Pratt,-31.9434635,115.858334
+18/118 Mounts Bay Road,Perth,WA,6000,18/118 Mounts Bay Road Perth WA 6000,"$285,000",2020-12-01,Apartment,2,1,1,97,76,1999-01-01,$415pw,2017-06-01,not recorded,-31.9552607,115.8477979
+18/124 Mounts Bay Road,Perth,WA,6000,18/124 Mounts Bay Road Perth WA 6000,"$500,000",2021-02-01,Apartment,2,2,1,130,93,2006-01-01,0,1900-01-01,Sean Roberts,-31.95579,115.8476015
+18/145 Newcastle Street,Perth,WA,6000,18/145 Newcastle Street Perth WA 6000,"$455,000",2020-02-01,Apartment,3,2,1,159,102,2009-01-01,$550pw,2019-02-01,not recorded,-31.9468953,115.8618461
+18/150 Stirling Street,Perth,WA,6000,18/150 Stirling Street Perth WA 6000,"$310,000",2020-10-01,Apartment,2,1,1,146,83,2006-01-01,$350pw,2018-07-01,not recorded,-31.9478096,115.8656235
+18/369 Hay Street,Perth,WA,6000,18/369 Hay Street Perth WA 6000,"$500,000",2019-10-01,Apartment,3,2,2,189,99,2009-01-01,0,1900-01-01,Realmark Central,-31.957095,115.8671022
+180/471 Hay Street,Perth,WA,6000,180/471 Hay Street Perth WA 6000,"$660,000",2020-01-01,Apartment,3,2,2,177,127,2009-01-01,$680pw,2020-09-01,not recorded,-31.9560825,115.8641448
+1805/237 Adelaide Terrace,Perth,WA,6000,1805/237 Adelaide Terrace Perth WA 6000,"$500,000",2020-08-01,Apartment,2,2,1,110,78,2011-01-01,$500pw,2019-11-01,not recorded,-31.9584671,115.8667534
+181/369 Hay Street,Perth,WA,6000,181/369 Hay Street Perth WA 6000,"$440,000",2020-04-01,Apartment,2,2,2,136,77,2009-01-01,$420pw,2020-04-01,not recorded,-31.9574465,115.867509
+19/124 Mounts Bay Road,Perth,WA,6000,19/124 Mounts Bay Road Perth WA 6000,"$520,000",2020-10-01,Apartment,3,2,1,158,120,2006-01-01,$600pw,2018-11-01,not recorded,-31.95579,115.8476015
+19/34 Palmerston Street,Perth,WA,6000,19/34 Palmerston Street Perth WA 6000,"$650,000",2020-11-01,Unit,2,2,2,198,151,1999-01-01,$520pw,2018-11-01,not recorded,-31.9438988,115.8577122
+19/65 Palmerston Street,Perth,WA,6000,19/65 Palmerston Street Perth WA 6000,"$575,000",2020-04-01,Townhouse,3,2,2,378,118,2000-01-01,$480pw,2018-11-01,not recorded,-31.9431166,115.8571209
+19/8 James Street,Perth,WA,6000,19/8 James Street Perth WA 6000,"$275,000",2019-11-01,House,2,1,1,533,87,1996-01-01,$370pw,2017-04-01,not recorded,-31.95114,115.86443
+1906/105 Stirling Street,Perth,WA,6000,1906/105 Stirling Street Perth WA 6000,"$535,000",2020-01-01,Apartment,2,2,2,122,96,2017-01-01,0,1900-01-01,not recorded,-31.949025,115.8638405
+193 Lake Street,Perth,WA,6000,193 Lake Street Perth WA 6000,"$820,000",2020-08-01,House,3,1,0,273,90,1920-01-01,0,1900-01-01,not recorded,-31.9422,115.86
+193/369 Hay Street,Perth,WA,6000,193/369 Hay Street Perth WA 6000,"$351,000",2021-04-01,Apartment,1,1,1,83,50,2009-01-01,$425pw,2021-03-01,Josh Roberts,-31.9574465,115.867509
+195 Lake Street,Perth,WA,6000,195 Lake Street Perth WA 6000,"$860,000",2021-01-01,House,3,1,2,268,90,1920-01-01,0,1900-01-01,not recorded,-31.94214,115.86004
+1D/811 Hay Street,Perth,WA,6000,1D/811 Hay Street Perth WA 6000,"$310,000",2020-07-01,Apartment,2,1,0,117,66,2001-01-01,0,1900-01-01,not recorded,-31.9531058,115.8553788
+2/10 Smith Street,Perth,WA,6000,2/10 Smith Street Perth WA 6000,"$359,000",2020-01-01,Apartment,1,1,1,93,58,1925-01-01,$350pw,2019-01-01,not recorded,-31.9432903,115.8704985
+2/128 Mounts Bay Road,Perth,WA,6000,2/128 Mounts Bay Road Perth WA 6000,"$302,000",2020-11-01,Apartment,1,1,1,121,87,2001-01-01,$380pw,2020-09-01,not recorded,-31.9560448,115.8469777
+2/142 Palmerston Street,Perth,WA,6000,2/142 Palmerston Street Perth WA 6000,"$770,000",2021-05-01,House,3,3,2,244,178,1999-01-01,$500pw,2009-12-01,Claude Iaconi,-31.94046,115.85943
+2/296 Newcastle Street,Perth,WA,6000,2/296 Newcastle Street Perth WA 6000,"$420,000",2020-02-01,Apartment,2,2,1,116,97,2005-01-01,0,1900-01-01,not recorded,-31.9443215,115.8575017
+20/569 Wellington Street,Perth,WA,6000,20/569 Wellington Street Perth WA 6000,"$360,500",2021-05-01,House,1,1,0,79,73,2001-01-01,$345pw,2020-02-01,not recorded,-31.9510977,115.8561876
+200 Bulwer Street,Perth,WA,6000,200 Bulwer Street Perth WA 6000,"$940,000",2020-01-01,House,2,1,1,408,125,1935-01-01,0,1900-01-01,not recorded,-31.9404358,115.8628741
+2006/1 Geoffrey Bolton Avenue,Perth,WA,6000,2006/1 Geoffrey Bolton Avenue Perth WA 6000,"$1,500,000",2021-02-01,Apartment,3,2,2,140,105,2019-01-01,$1000pw,2020-04-01,not recorded,-31.9577875,115.8585417
+2009/11 Barrack Square,Perth,WA,6000,2009/11 Barrack Square Perth WA 6000,"$1,300,000",2021-06-01,Apartment,3,3,2,165,133,2019-01-01,0,1900-01-01,Amy Di Vincenzo,-31.9592445,115.8575137
+202/126 Mounts Bay Road,Perth,WA,6000,202/126 Mounts Bay Road Perth WA 6000,"$220,000",2020-03-01,Apartment,2,1,1,57,51,2005-01-01,0,1900-01-01,not recorded,-31.9561969,115.8471256
+204/126 Mounts Bay Road,Perth,WA,6000,204/126 Mounts Bay Road Perth WA 6000,"$210,000",2021-03-01,Apartment,1,1,0,58,51,2001-01-01,0,1900-01-01,Brendon Habak,-31.9561886,115.8471018
+206A Bulwer Street,Perth,WA,6000,206A Bulwer Street Perth WA 6000,"$680,500",2020-11-01,House,3,2,2,236,160,1996-01-01,$410pw,2017-04-01,not recorded,-31.94027,115.86261
+207/112 Mounts Bay Road,Perth,WA,6000,207/112 Mounts Bay Road Perth WA 6000,"$240,000",2020-03-01,Apartment,1,1,1,68,50,1998-01-01,$390pw,2016-09-01,not recorded,-31.9549066,115.8482831
+21 Brookman Street,Perth,WA,6000,21 Brookman Street Perth WA 6000,"$660,000",2019-12-01,House,3,1,1,304,135,1950-01-01,$550pw,2015-04-01,not recorded,-31.9436877,115.8609473
+21 Myrtle Street,Perth,WA,6000,21 Myrtle Street Perth WA 6000,"$802,000",2021-07-01,Townhouse,3,1,2,104,93,1981-01-01,$590pw,2018-10-01,Annette O'Brien-Oxley,-31.93946,115.85827
+21/128 Mounts Bay Road,Perth,WA,6000,21/128 Mounts Bay Road Perth WA 6000,"$515,000",2020-02-01,Apartment,3,2,2,159,107,2001-01-01,0,1900-01-01,not recorded,-31.9561591,115.8470469
+21/378 Beaufort Street,Perth,WA,6000,21/378 Beaufort Street Perth WA 6000,"$420,000",2020-12-01,House,2,2,1,95,68,2012-01-01,$400pw,2018-07-01,not recorded,-31.9421489,115.8676567
+21/99 Palmerston Street,Perth,WA,6000,21/99 Palmerston Street Perth WA 6000,"$440,000",2021-04-01,Apartment,1,1,1,83,53,2017-01-01,0,1900-01-01,Claude Iaconi,-31.94167,115.8578
+217 Brisbane Street,Perth,WA,6000,217 Brisbane Street Perth WA 6000,"$770,000",2020-03-01,House,2,1,1,219,75,1940-01-01,$550pw,2020-04-01,not recorded,-31.9416256,115.8599282
+22/128 Mounts Bay Road,Perth,WA,6000,22/128 Mounts Bay Road Perth WA 6000,"$729,500",2019-11-01,Apartment,3,2,2,287,152,2001-01-01,0,1900-01-01,not recorded,-31.9561591,115.8470469
+22/132 Terrace Road,Perth,WA,6000,22/132 Terrace Road Perth WA 6000,"$658,000",2020-12-01,Apartment,2,2,2,135,89,2007-01-01,$680pw,2016-05-01,not recorded,-31.959182,115.8655845
+22/150 Stirling Street,Perth,WA,6000,22/150 Stirling Street Perth WA 6000,"$278,000",2020-08-01,Apartment,1,1,1,146,82,2006-01-01,$340pw,2020-07-01,not recorded,-31.9478096,115.8656235
+22/226 Beaufort Street,Perth,WA,6000,22/226 Beaufort Street Perth WA 6000,"$295,800",2019-12-01,Apartment,1,1,1,90,59,2011-01-01,0,1900-01-01,not recorded,-31.9459945,115.8653102
+22/59 Brewer Street,Perth,WA,6000,22/59 Brewer Street Perth WA 6000,"$435,000",2020-12-01,Apartment,2,2,1,126,89,2009-01-01,$595pw,2021-02-01,not recorded,-31.9466263,115.868396
+22/65 Milligan Street,Perth,WA,6000,22/65 Milligan Street Perth WA 6000,"$423,000",2021-02-01,Apartment,2,1,1,100,66,2008-01-01,$625pw,2013-11-01,Emma Oliver,-31.9502606,115.8518421
+226 Brisbane Street,Perth,WA,6000,226 Brisbane Street Perth WA 6000,"$620,000",2020-02-01,House,2,1,1,490,113,1983-01-01,0,1900-01-01,not recorded,-31.9411068,115.8597434
+23 Knebworth Avenue,Perth,WA,6000,23 Knebworth Avenue Perth WA 6000,"$735,000",2020-10-01,House,2,1,0,264,113,1925-01-01,$500pw,2020-05-01,Rob Edwards,-31.9405591,115.864734
+23/22 St Georges Terrace,Perth,WA,6000,23/22 St Georges Terrace Perth WA 6000,"$453,000",2020-04-01,Apartment,2,2,1,120,91,2009-01-01,$750pw,2012-08-01,not recorded,-31.9564827,115.8638659
+23/474 Murray Street,Perth,WA,6000,23/474 Murray Street Perth WA 6000,"$370,000",2021-05-01,Apartment,1,1,1,87,60,2008-01-01,$370pw,2019-07-01,not recorded,-31.9503296,115.8517605
+23/59 Brewer Street,Perth,WA,6000,23/59 Brewer Street Perth WA 6000,"$415,000",2021-02-01,Apartment,2,2,1,114,81,2009-01-01,$470pw,2015-08-01,Peter Wildermoth,-31.9466263,115.868396
+231 Lake Street,Perth,WA,6000,231 Lake Street Perth WA 6000,"$1,070,000",2019-12-01,House,4,1,1,617,137,1920-01-01,$495pw,2017-02-01,not recorded,-31.9405795,115.8610719
+2418/380 Murray Street,Perth,WA,6000,2418/380 Murray Street Perth WA 6000,"$393,000",2020-05-01,Apartment,1,1,0,50,35,2020-01-01,$420pw,2020-11-01,not recorded,-31.9511862,115.8542076
+247 Lake Street,Perth,WA,6000,247 Lake Street Perth WA 6000,"$1,080,000",2020-11-01,House,2,2,2,323,162,2003-01-01,0,1900-01-01,not recorded,-31.93987,115.86154
+25 Moir Street,Perth,WA,6000,25 Moir Street Perth WA 6000,"$784,000",2020-08-01,House,3,1,1,278,113,1920-01-01,$470pw,2019-01-01,not recorded,-31.9430712,115.8605024
+25/226 Beaufort Street,Perth,WA,6000,25/226 Beaufort Street Perth WA 6000,"$490,000",2021-06-01,House,2,2,1,110,81,2011-01-01,$460pw,2019-11-01,not recorded,-31.9459945,115.8653102
+25/569 Wellington Street,Perth,WA,6000,25/569 Wellington Street Perth WA 6000,"$480,000",2020-08-01,Apartment,2,1,1,125,98,2001-01-01,$450pw,2018-11-01,not recorded,-31.9510977,115.8561876
+2502/237 Adelaide Terrace,Perth,WA,6000,2502/237 Adelaide Terrace Perth WA 6000,"$1,410,000",2019-12-01,Apartment,3,2,2,266,186,2010-01-01,$950pw,2019-09-01,not recorded,-31.9584671,115.8667534
+26/14 Money Street,Perth,WA,6000,26/14 Money Street Perth WA 6000,"$815,000",2021-06-01,Apartment,3,2,1,90,131,2010-01-01,$600pw,2010-05-01,not recorded,-31.9460491,115.8628039
+26/69 Milligan Street,Perth,WA,6000,26/69 Milligan Street Perth WA 6000,"$405,000",2020-04-01,Apartment,2,2,1,121,79,2009-01-01,$385pw,2017-05-01,not recorded,-31.9498149,115.8522226
+27 Lane Street,Perth,WA,6000,27 Lane Street Perth WA 6000,"$615,000",2020-04-01,House,2,1,0,378,79,1918-01-01,0,1900-01-01,not recorded,-31.9420538,115.864526
+27/132 Terrace Road,Perth,WA,6000,27/132 Terrace Road Perth WA 6000,"$780,000",2020-10-01,Apartment,3,2,2,182,110,2007-01-01,$650pw,2020-08-01,Peter Wright,-31.959182,115.8655845
+2701/237 Adelaide Terrace,Perth,WA,6000,2701/237 Adelaide Terrace Perth WA 6000,"$2,700,000",2021-06-01,Apartment,4,5,2,509,351,2010-01-01,$4000pw,2013-08-01,not recorded,-31.9584671,115.8667534
+28 Myrtle Street,Perth,WA,6000,28 Myrtle Street Perth WA 6000,"$805,000",2020-10-01,House,2,1,3,602,115,1982-01-01,$550pw,2016-05-01,not recorded,-31.93924,115.85813
+28/152 Fitzgerald Street,Perth,WA,6000,28/152 Fitzgerald Street Perth WA 6000,"$387,500",2020-11-01,Apartment,2,1,1,93,61,2016-01-01,0,1900-01-01,not recorded,-31.94196,115.8553
+28/255 Adelaide Terrace,Perth,WA,6000,28/255 Adelaide Terrace Perth WA 6000,"$460,000",2021-04-01,Apartment,2,2,1,116,90,2002-01-01,$450pw,2019-06-01,not recorded,-31.958413,115.8658558
+28/369 Hay Street,Perth,WA,6000,28/369 Hay Street Perth WA 6000,"$410,000",2020-10-01,Apartment,2,2,1,111,78,2009-01-01,0,1900-01-01,not recorded,-31.9574465,115.867509
+2801/237 Adelaide Terrace,Perth,WA,6000,2801/237 Adelaide Terrace Perth WA 6000,"$2,650,000",2021-05-01,Apartment,4,5,4,531,351,2010-01-01,0,1900-01-01,not recorded,-31.9584671,115.8667534
+2816/380 Murray Street,Perth,WA,6000,2816/380 Murray Street Perth WA 6000,"$900,000",2020-11-01,Apartment,3,2,0,144,88,2020-01-01,0,1900-01-01,not recorded,-31.9511862,115.8542076
+29/101 Murray Street,Perth,WA,6000,29/101 Murray Street Perth WA 6000,"$620,000",2020-06-01,Apartment,3,2,2,164,128,2011-01-01,0,1900-01-01,Peter Wright,-31.9542262,115.8620192
+29/76 Newcastle Street,Perth,WA,6000,29/76 Newcastle Street Perth WA 6000,"$285,000",2020-03-01,Apartment,1,1,1,83,52,2007-01-01,$320pw,2018-06-01,not recorded,-31.9483716,115.8660856
+2912/380 Murray Street,Perth,WA,6000,2912/380 Murray Street Perth WA 6000,"$880,000",2020-10-01,Apartment,3,2,2,147,88,2020-01-01,$895pw,2021-01-01,not recorded,-31.9511862,115.8542076
+2916/380 Murray Street,Perth,WA,6000,2916/380 Murray Street Perth WA 6000,"$910,000",2020-10-01,Apartment,3,2,2,147,88,2020-01-01,$895pw,2021-01-01,not recorded,-31.9511862,115.8542076
+2a Randell Street,Perth,WA,6000,2a Randell Street Perth WA 6000,"$775,000",2020-07-01,House,4,3,3,760,321,1996-01-01,0,1900-01-01,not recorded,-31.9400314,115.8590018
+2A/811 HAY STREET,Perth,WA,6000,2A/811 HAY STREET Perth WA 6000,"$240,000",2019-11-01,Apartment,1,1,0,60,54,2001-01-01,$300pw,2018-08-01,not recorded,-31.9531058,115.8553788
+3 Brookman Street,Perth,WA,6000,3 Brookman Street Perth WA 6000,"$895,000",2020-12-01,House,4,1,1,301,135,1920-01-01,0,1900-01-01,not recorded,-31.9444071,115.8604936
+3/122 Terrace Road,Perth,WA,6000,3/122 Terrace Road Perth WA 6000,"$205,000",2019-11-01,Apartment,1,1,1,36,34,1961-01-01,$200pw,2019-03-01,not recorded,-31.9595615,115.8667094
+3/207 Bulwer Street,Perth,WA,6000,3/207 Bulwer Street Perth WA 6000,"$381,000",2021-01-01,Apartment,2,1,1,113,78,2004-01-01,$410pw,2016-12-01,Michelle Ralph,-31.9407562,115.862291
+3/269 Stirling Street,Perth,WA,6000,3/269 Stirling Street Perth WA 6000,"$329,000",2021-01-01,Apartment,1,1,1,459,47,1937-01-01,$300pw,2018-09-01,Carlos Lehn,-31.9436555,115.8676798
+3/45-47 Stuart Street,Perth,WA,6000,3/45-47 Stuart Street Perth WA 6000,"$960,000",2021-01-01,Unit,3,2,2,251,140,2008-01-01,$850pw,2019-05-01,Brendon Habak,-31.9421086,115.855896
+3/478 William Street,Perth,WA,6000,3/478 William Street Perth WA 6000,"$485,000",2020-11-01,Apartment,3,2,2,169,119,2008-01-01,$520pw,2018-08-01,not recorded,-31.94126,115.8638444
+30 Randell Street,Perth,WA,6000,30 Randell Street Perth WA 6000,"$715,000",2020-04-01,House,2,1,0,291,87,1955-01-01,0,1900-01-01,not recorded,-31.939615,115.8580336
+30/69 Milligan Street,Perth,WA,6000,30/69 Milligan Street Perth WA 6000,"$445,000",2021-06-01,Apartment,2,2,1,105,78,2009-01-01,$450pw,2018-05-01,Josh Roberts,-31.9498149,115.8522226
+30/918 Hay Street,Perth,WA,6000,30/918 Hay Street Perth WA 6000,"$465,000",2021-05-01,Apartment,2,2,1,145,145,2002-01-01,0,1900-01-01,Brendon Habak,-31.9517111,115.8523976
+32 Wade Street,Perth,WA,6000,32 Wade Street Perth WA 6000,"$710,000",2020-01-01,House,3,1,1,304,124,1935-01-01,0,1900-01-01,not recorded,-31.9420179,115.8641679
+32/418 Murray Street,Perth,WA,6000,32/418 Murray Street Perth WA 6000,"$325,000",2021-07-01,Apartment,2,1,1,100,70,2005-01-01,0,1900-01-01,not recorded,-31.9508929,115.8533099
+33/280 LORD Street,Perth,WA,6000,33/280 LORD Street Perth WA 6000,"$397,000",2019-11-01,Apartment,2,2,2,125,74,2015-01-01,$490pw,2019-01-01,not recorded,-31.9443085,115.8735251
+33/369 Hay Street,Perth,WA,6000,33/369 Hay Street Perth WA 6000,"$500,000",2020-11-01,Unit,3,2,2,158,99,2009-01-01,$530pw,2021-03-01,not recorded,-31.9574465,115.867509
+33/375 Hay Street,Perth,WA,6000,33/375 Hay Street Perth WA 6000,"$370,000",2020-01-01,Apartment,2,2,1,110,73,2008-01-01,$480pw,2016-04-01,not recorded,-31.9571145,115.8670717
+33/67 Brewer Street,Perth,WA,6000,33/67 Brewer Street Perth WA 6000,"$425,000",2020-08-01,Apartment,2,2,1,112,112,2016-01-01,$410pw,2018-09-01,not recorded,-31.94627,115.8677
+34/124 Terrace Road,Perth,WA,6000,34/124 Terrace Road Perth WA 6000,"$190,000",2020-02-01,Unit,1,1,0,35,33,1960-01-01,$195pw,2019-10-01,not recorded,-31.9594428,115.866608
+35 Windsor Street,Perth,WA,6000,35 Windsor Street Perth WA 6000,"$1,350,000",2020-01-01,House,4,1,3,1114,179,1930-01-01,0,1900-01-01,not recorded,-31.9442259,115.8743799
+35/152 Fitzgerald Street,Perth,WA,6000,35/152 Fitzgerald Street Perth WA 6000,"$420,000",2020-01-01,Apartment,2,2,1,124,85,2016-01-01,$430pw,2017-11-01,not recorded,-31.94196,115.8553
+35/229 Adelaide Terrace,Perth,WA,6000,35/229 Adelaide Terrace Perth WA 6000,"$555,000",2019-11-01,Apartment,2,2,2,149,95,2008-01-01,$495pw,2019-11-01,not recorded,-31.9587233,115.8674744
+36/10 Pendal Lane,Perth,WA,6000,36/10 Pendal Lane Perth WA 6000,"$480,000",2021-05-01,Apartment,2,2,2,96,90,2003-01-01,0,1900-01-01,not recorded,-31.9432751,115.8560119
+37/250 Beaufort Street,Perth,WA,6000,37/250 Beaufort Street Perth WA 6000,"$290,000",2020-10-01,Apartment,1,1,1,78,52,2005-01-01,$320pw,2019-06-01,not recorded,-31.9452003,115.8655478
+37/65 Palmerston Street,Perth,WA,6000,37/65 Palmerston Street Perth WA 6000,"$315,000",2021-02-01,Apartment,1,1,1,62,53,2000-01-01,$300pw,2018-08-01,Chris O'Brien,-31.9431166,115.8571209
+39/120-122 Lake Street,Perth,WA,6000,39/120-122 Lake Street Perth WA 6000,"$330,000",2020-10-01,Apartment,2,1,1,101,76,1994-01-01,0,1900-01-01,not recorded,-31.9447634,115.8592993
+39/128 Mounts Bay Road,Perth,WA,6000,39/128 Mounts Bay Road Perth WA 6000,"$516,000",2021-07-01,Apartment,3,2,2,157,114,2001-01-01,0,1900-01-01,David Airey,-31.9561591,115.8470469
+392 Beaufort Street,Perth,WA,6000,392 Beaufort Street Perth WA 6000,"$1,000,000",2021-05-01,House,3,2,5,385,,1920-01-01,0,1900-01-01,Ray Cafini,-31.9416073,115.867957
+4/168 Mounts Bay Road Perth,Perth,WA,6000,4/168 Mounts Bay Road Perth Perth WA 6000,"$920,000",2021-02-01,Apartment,3,3,2,210,210,1982-01-01,0,1900-01-01,Carmen Tutor,-31.9595856,115.8453833
+4/418-428 Murray Street,Perth,WA,6000,4/418-428 Murray Street Perth WA 6000,"$320,000",2020-05-01,Apartment,2,1,1,124,72,2005-01-01,$395pw,2018-10-01,not recorded,-31.9507302,115.8533964
+4/54 Cheriton Street,Perth,WA,6000,4/54 Cheriton Street Perth WA 6000,"$550,000",2020-04-01,Apartment,2,2,2,163,102,2013-01-01,$480pw,2018-12-01,not recorded,-31.9459023,115.8746553
+4/71 Brewer Street,Perth,WA,6000,4/71 Brewer Street Perth WA 6000,"$400,000",2020-10-01,Apartment,2,2,1,100,72,2016-01-01,$440pw,2018-12-01,not recorded,-31.9461003,115.8673925
+4/82 King Street,Perth,WA,6000,4/82 King Street Perth WA 6000,"$585,000",2020-05-01,Apartment,2,2,1,180,150,2003-01-01,$570pw,2012-01-01,not recorded,-31.9509715,115.8557577
+4/838 Hay Street,Perth,WA,6000,4/838 Hay Street Perth WA 6000,"$290,000",2020-12-01,Apartment,1,1,0,63,59,1999-01-01,$300pw,2020-02-01,not recorded,-31.9525626,115.8544407
+40/120 Lake Street,Perth,WA,6000,40/120 Lake Street Perth WA 6000,"$373,000",2021-07-01,Apartment,2,1,1,100,76,1994-01-01,0,1900-01-01,Sam Dempsey,-31.9447634,115.8592993
+40/154 Newcastle Street,Perth,WA,6000,40/154 Newcastle Street Perth WA 6000,"$400,000",2019-12-01,Apartment,2,2,1,111,76,2009-01-01,$600pw,2013-08-01,not recorded,-31.9471039,115.8637289
+401/237 Adelaide Terrace,Perth,WA,6000,401/237 Adelaide Terrace Perth WA 6000,"$365,000",2021-06-01,Apartment,1,1,1,88,70,2010-01-01,0,1900-01-01,not recorded,-31.9584671,115.8667534
+41/101 Murray Street,Perth,WA,6000,41/101 Murray Street Perth WA 6000,"$270,000",2020-10-01,Apartment,1,1,1,45,45,2011-01-01,$370pw,2021-01-01,not recorded,-31.9542262,115.8620192
+43 West Parade,Perth,WA,6000,43 West Parade Perth WA 6000,"$620,000",2020-02-01,House,2,1,3,233,101,1920-01-01,$395pw,2017-06-01,not recorded,-31.9430639,115.8761363
+44/122 Mounts Bay Road,Perth,WA,6000,44/122 Mounts Bay Road Perth WA 6000,"$408,000",2020-02-01,Apartment,2,2,1,194,,2002-01-01,0,1900-01-01,John Tognolini,-31.9554372,115.8474284
+44/133 Lincoln Street,Perth,WA,6000,44/133 Lincoln Street Perth WA 6000,"$310,000",2021-02-01,Unit,2,1,1,76,76,1970-01-01,$330pw,2020-09-01,Daniel Colbert,-31.9412322,115.8675873
+44/250 Beaufort Street,Perth,WA,6000,44/250 Beaufort Street Perth WA 6000,"$415,000",2020-04-01,Apartment,2,2,2,122,80,2005-01-01,$590pw,2013-08-01,not recorded,-31.9452003,115.8655478
+45/34 Palmerston Street,Perth,WA,6000,45/34 Palmerston Street Perth WA 6000,"$585,000",2021-06-01,House,2,2,1,160,120,1999-01-01,$580pw,2014-04-01,ROB STEFANOVSKI,-31.9438988,115.8577122
+47/418 Murray Street,Perth,WA,6000,47/418 Murray Street Perth WA 6000,"$365,000",2020-03-01,Apartment,2,1,1,93,69,2005-01-01,$390pw,2020-03-01,not recorded,-31.9508929,115.8533099
+47/76 Newcastle Street,Perth,WA,6000,47/76 Newcastle Street Perth WA 6000,"$315,000",2021-06-01,Apartment,1,1,1,91,60,2007-01-01,$335pw,2017-04-01,Dion Brown,-31.9483716,115.8660856
+48B Bulwer Street,Perth,WA,6000,48B Bulwer Street Perth WA 6000,"$850,000",2019-12-01,Townhouse,3,2,2,261,135,2015-01-01,0,1900-01-01,not recorded,-31.9432757,115.8694234
+49/229 Adelaide Terrace,Perth,WA,6000,49/229 Adelaide Terrace Perth WA 6000,"$319,000",2020-04-01,Unit,1,1,1,905,62,2008-01-01,0,1900-01-01,not recorded,-31.9587233,115.8674744
+4B Stuart Street,Perth,WA,6000,4B Stuart Street Perth WA 6000,"$680,000",2020-09-01,House,3,1,1,172,103,1989-01-01,$450pw,2020-04-01,not recorded,-31.94316,115.8593
+4E/811 Hay Street,Perth,WA,6000,4E/811 Hay Street Perth WA 6000,"$215,000",2020-02-01,House,1,1,0,868,41,2001-01-01,$300pw,2020-12-01,not recorded,-31.9531058,115.8553788
+5 Pisconeri Street,Perth,WA,6000,5 Pisconeri Street Perth WA 6000,"$850,000",2019-11-01,House,3,2,2,272,185,2012-01-01,0,1900-01-01,Brent Compton,-31.9484549,115.8670586
+5/152 Fitzgerald Street,Perth,WA,6000,5/152 Fitzgerald Street Perth WA 6000,"$374,000",2020-10-01,Apartment,2,1,1,90,61,2016-01-01,$400pw,2017-08-01,not recorded,-31.94196,115.8553
+5/168 Mounts Bay Road,Perth,WA,6000,5/168 Mounts Bay Road Perth WA 6000,"$1,435,000",2020-08-01,Apartment,3,2,4,265,265,1982-01-01,0,1900-01-01,not recorded,-31.9595856,115.8453833
+5/18 Robinson Avenue,Perth,WA,6000,5/18 Robinson Avenue Perth WA 6000,"$765,000",2020-02-01,Townhouse,3,2,2,212,138,2002-01-01,0,1900-01-01,not recorded,-31.9442746,115.8638426
+5/19 Lindsay Street,Perth,WA,6000,5/19 Lindsay Street Perth WA 6000,"$590,000",2021-07-01,Apartment,2,2,1,98,81,2015-01-01,$575pw,2019-01-01,Maurice Flores,-31.9460919,115.8633361
+5/478 William Street,Perth,WA,6000,5/478 William Street Perth WA 6000,"$452,800",2020-08-01,Apartment,3,2,2,150,109,2008-01-01,$625pw,2012-12-01,not recorded,-31.94126,115.8638444
+5/69 Murray Street,Perth,WA,6000,5/69 Murray Street Perth WA 6000,"$680,000",2019-11-01,Apartment,3,1,1,165,51,1995-01-01,0,1900-01-01,not recorded,-31.9494656,115.8483974
+50/154 Newcastle Street,Perth,WA,6000,50/154 Newcastle Street Perth WA 6000,"$295,000",2021-02-01,Apartment,1,1,1,84,57,2009-01-01,0,1900-01-01,Jake Kemsley,-31.9471039,115.8637289
+50/378 Beaufort Street,Perth,WA,6000,50/378 Beaufort Street Perth WA 6000,"$306,000",2020-06-01,Apartment,1,1,1,82,59,2012-01-01,$420pw,2016-10-01,not recorded,-31.9421489,115.8676567
+504/12 Victoria Avenue,Perth,WA,6000,504/12 Victoria Avenue Perth WA 6000,"$210,000",2020-08-01,Apartment,1,1,0,61,54,1900-01-01,$395pw,2020-03-01,not recorded,-31.9569067,115.86597
+51/229 Adelaide Terrace,Perth,WA,6000,51/229 Adelaide Terrace Perth WA 6000,"$1,105,000",2021-05-01,Apartment,3,3,2,904,240,2008-01-01,0,1900-01-01,not recorded,-31.9587233,115.8674744
+511/126 Mounts Bay Road,Perth,WA,6000,511/126 Mounts Bay Road Perth WA 6000,"$280,000",2020-01-01,Apartment,1,1,1,71,51,2001-01-01,0,1900-01-01,not recorded,-31.9561886,115.8471018
+516/380 Murray Street,Perth,WA,6000,516/380 Murray Street Perth WA 6000,"$401,000",2020-02-01,Apartment,1,1,0,71,44,2020-01-01,$450pw,2020-12-01,not recorded,-31.9511862,115.8542076
+52/101 Murray Street,Perth,WA,6000,52/101 Murray Street Perth WA 6000,"$265,000",2020-09-01,House,1,1,1,46,46,2011-01-01,$360pw,2018-01-01,not recorded,-31.9542262,115.8620192
+52/133 Lincoln Street,Perth,WA,6000,52/133 Lincoln Street Perth WA 6000,"$270,000",2019-11-01,Apartment,2,1,1,69,69,1970-01-01,$310pw,2017-12-01,not recorded,-31.9412322,115.8675873
+52/229 Adelaide Terrace,Perth,WA,6000,52/229 Adelaide Terrace Perth WA 6000,"$335,000",2021-02-01,Apartment,1,1,1,905,62,2008-01-01,$390pw,2021-02-01,James Yeoman,-31.9587233,115.8674744
+54/369 Hay Street,Perth,WA,6000,54/369 Hay Street Perth WA 6000,"$440,000",2021-02-01,Apartment,2,2,1,119,77,2009-01-01,$490pw,2019-05-01,Josh Roberts,-31.9574465,115.867509
+54/76 Newcastle Street,Perth,WA,6000,54/76 Newcastle Street Perth WA 6000,"$445,000",2019-11-01,Apartment,2,2,2,156,101,2007-01-01,$490pw,2020-03-01,not recorded,-31.9483716,115.8660856
+55/76 Newcastle Street,Perth,WA,6000,55/76 Newcastle Street Perth WA 6000,"$182,000",2020-01-01,Apartment,1,1,1,98,61,2007-01-01,0,1900-01-01,not recorded,-31.9483716,115.8660856
+56 Bulwer Street,Perth,WA,6000,56 Bulwer Street Perth WA 6000,"$800,000",2021-03-01,House,2,1,2,316,105,1910-01-01,0,1900-01-01,Helen Bond,-31.9432154,115.8691466
+56/280 LORD Street,Perth,WA,6000,56/280 LORD Street Perth WA 6000,"$565,000",2021-04-01,Apartment,3,2,2,154,93,2015-01-01,$650pw,2020-10-01,not recorded,-31.9443085,115.8735251
+56/34 Palmerston Street,Perth,WA,6000,56/34 Palmerston Street Perth WA 6000,"$505,000",2020-07-01,Townhouse,2,2,1,196,132,1999-01-01,0,1900-01-01,not recorded,-31.9438988,115.8577122
+56/378 Beaufort Street,Perth,WA,6000,56/378 Beaufort Street Perth WA 6000,"$362,000",2021-06-01,Apartment,1,1,1,84,56,2012-01-01,$550pw,2014-05-01,Joshua Leader,-31.9421489,115.8676567
+57/33 Newcastle Street,Perth,WA,6000,57/33 Newcastle Street Perth WA 6000,"$448,000",2021-03-01,Apartment,2,2,1,114,75,2016-01-01,$460pw,2020-05-01,Terry Lu,-31.9493657,115.8675015
+57/580 Hay Street,Perth,WA,6000,57/580 Hay Street Perth WA 6000,"$515,000",2019-11-01,Apartment,3,2,1,156,101,2011-01-01,$700pw,2014-08-01,not recorded,-31.9546333,115.8609102
+58 Bulwer Street,Perth,WA,6000,58 Bulwer Street Perth WA 6000,"$680,000",2019-12-01,House,2,1,2,296,105,1910-01-01,$490pw,2018-08-01,not recorded,-31.9431992,115.8690791
+58/369 Hay Street,Perth,WA,6000,58/369 Hay Street Perth WA 6000,"$499,000",2019-12-01,Apartment,3,2,2,135,90,2009-01-01,$610pw,2017-12-01,not recorded,-31.9574465,115.867509
+58/580 Hay Street,Perth,WA,6000,58/580 Hay Street Perth WA 6000,"$810,000",2020-05-01,Apartment,3,2,2,196,116,2011-01-01,$820pw,2016-08-01,Cherry Li,-31.9546333,115.8609102
+59/154 Newcastle Street,Perth,WA,6000,59/154 Newcastle Street Perth WA 6000,"$450,000",2021-04-01,Apartment,2,2,1,125,87,2009-01-01,0,1900-01-01,not recorded,-31.9471039,115.8637289
+59/418 Murray Street,Perth,WA,6000,59/418 Murray Street Perth WA 6000,"$311,000",2020-02-01,Apartment,2,1,1,93,69,2005-01-01,0,1900-01-01,not recorded,-31.9508929,115.8533099
+5D/811 Hay Street,Perth,WA,6000,5D/811 Hay Street Perth WA 6000,"$260,000",2020-11-01,Apartment,2,1,0,79,66,2001-01-01,$520pw,2014-07-01,not recorded,-31.9531058,115.8553788
+6 Edith Street,Perth,WA,6000,6 Edith Street Perth WA 6000,"$700,000",2020-10-01,Townhouse,4,2,2,224,166,1999-01-01,$750pw,2017-07-01,Sven Robertson,-31.9409606,115.8627559
+6/10 Smith Street,Perth,WA,6000,6/10 Smith Street Perth WA 6000,"$380,000",2020-12-01,Apartment,2,2,2,89,66,1925-01-01,$350pw,2016-12-01,not recorded,-31.9432903,115.8704985
+6/124 Mounts Bay Road,Perth,WA,6000,6/124 Mounts Bay Road Perth WA 6000,"$459,600",2021-03-01,Apartment,2,2,1,129,93,2006-01-01,$600pw,2010-02-01,Peter Clements,-31.95579,115.8476015
+6/150 Stirling Street,Perth,WA,6000,6/150 Stirling Street Perth WA 6000,"$299,000",2020-03-01,Apartment,1,1,1,99,69,2006-01-01,$320pw,2019-06-01,not recorded,-31.9478096,115.8656235
+6/207 Bulwer Street,Perth,WA,6000,6/207 Bulwer Street Perth WA 6000,"$415,000",2020-05-01,Apartment,2,1,1,111,78,2004-01-01,0,1900-01-01,not recorded,-31.9407485,115.8623077
+6/38 Bulwer Street,Perth,WA,6000,6/38 Bulwer Street Perth WA 6000,"$335,000",2021-05-01,Apartment,2,1,1,71,71,1977-01-01,0,1900-01-01,Nadija Begovich,-31.9437435,115.8701288
+6/478 William Street,Perth,WA,6000,6/478 William Street Perth WA 6000,"$482,388",2019-11-01,Apartment,3,2,2,147,108,2008-01-01,$520pw,2018-08-01,not recorded,-31.94126,115.8638444
+60 Robinson Avenue,Perth,WA,6000,60 Robinson Avenue Perth WA 6000,"$925,000",2021-01-01,Unit,3,3,2,164,114,2020-01-01,0,1900-01-01,Louise Markovic,-31.9433251,115.8618519
+60/580 Hay Street,Perth,WA,6000,60/580 Hay Street Perth WA 6000,"$600,000",2020-03-01,Unit,2,2,2,141,78,2011-01-01,0,1900-01-01,not recorded,-31.9546333,115.8609102
+601/112 Mounts Bay Road,Perth,WA,6000,601/112 Mounts Bay Road Perth WA 6000,"$475,000",2021-06-01,Apartment,2,1,2,143,77,1998-01-01,0,1900-01-01,Daniel Porcaro,-31.9549066,115.8482831
+609/130A Mounts Bay Road,Perth,WA,6000,609/130A Mounts Bay Road Perth WA 6000,"$189,000",2020-10-01,Apartment,1,1,0,38,38,1962-01-01,$300pw,2020-10-01,not recorded,-31.95607,115.8465
+61 Lindsay Street,Perth,WA,6000,61 Lindsay Street Perth WA 6000,"$1,310,000",2021-05-01,House,3,2,2,300,194,1935-01-01,0,1900-01-01,not recorded,-31.945044,115.8642026
+610/2 St Georges Terrace,Perth,WA,6000,610/2 St Georges Terrace Perth WA 6000,"$324,000",2020-09-01,Apartment,1,1,1,90,68,2002-01-01,$420pw,2019-05-01,not recorded,-31.95712,115.86532
+611/112 Mounts Bay Road,Perth,WA,6000,611/112 Mounts Bay Road Perth WA 6000,"$463,610",2021-03-01,Apartment,2,1,2,148,78,1998-01-01,0,1900-01-01,not recorded,-31.9549066,115.8482831
+611/380 Murray Street,Perth,WA,6000,611/380 Murray Street Perth WA 6000,"$490,000",2020-10-01,Apartment,2,1,1,82,58,2020-01-01,0,1900-01-01,not recorded,-31.9511862,115.8542076
+62/101 Murray Street,Perth,WA,6000,62/101 Murray Street Perth WA 6000,"$290,000",2020-05-01,Apartment,1,1,1,61,53,2011-01-01,$530pw,2011-12-01,not recorded,-31.9542262,115.8620192
+62/4 Bulwer Street,Perth,WA,6000,62/4 Bulwer Street Perth WA 6000,"$230,000",2020-11-01,Unit,2,1,1,49,49,1970-01-01,$310pw,2017-10-01,not recorded,-31.9443296,115.8723
+63/128 Mounts Bay Road,Perth,WA,6000,63/128 Mounts Bay Road Perth WA 6000,"$600,000",2020-01-01,Apartment,3,2,2,159,107,2001-01-01,$720pw,2016-05-01,not recorded,-31.9561591,115.8470469
+63/262 Lord Street,Perth,WA,6000,63/262 Lord Street Perth WA 6000,"$440,000",2021-04-01,Apartment,2,2,1,103,76,2014-01-01,0,1900-01-01,Chris O'Brien,-31.9454232,115.8729706
+64/128 Mounts Bay Road,Perth,WA,6000,64/128 Mounts Bay Road Perth WA 6000,"$720,000",2019-12-01,Apartment,3,2,2,289,152,2001-01-01,0,1900-01-01,not recorded,-31.9561591,115.8470469
+66/69 Milligan Street,Perth,WA,6000,66/69 Milligan Street Perth WA 6000,"$435,000",2020-03-01,Apartment,2,2,1,117,79,2009-01-01,$500pw,2019-02-01,not recorded,-31.9498149,115.8522226
+66b Robinson Avenue,Perth,WA,6000,66b Robinson Avenue Perth WA 6000,"$775,000",2020-03-01,House,3,1,2,305,120,1991-01-01,0,1900-01-01,Claude Iaconi,-31.9432206,115.8615884
+67/418 Murray Street,Perth,WA,6000,67/418 Murray Street Perth WA 6000,"$346,000",2020-08-01,Apartment,2,1,1,92,69,2005-01-01,0,1900-01-01,not recorded,-31.9508929,115.8533099
+68/154 Newcastle Street,Perth,WA,6000,68/154 Newcastle Street Perth WA 6000,"$460,000",2020-03-01,Apartment,2,2,1,110,75,2009-01-01,$1000pw,2012-06-01,not recorded,-31.9471039,115.8637289
+69/101 Murray Street,Perth,WA,6000,69/101 Murray Street Perth WA 6000,"$300,000",2021-04-01,Apartment,1,1,1,61,53,2011-01-01,$450pw,2021-05-01,Richard Mathlin,-31.9542262,115.8620192
+7/117 Lake Street,Perth,WA,6000,7/117 Lake Street Perth WA 6000,"$500,000",2020-11-01,Townhouse,2,2,1,114,92,2000-01-01,0,1900-01-01,not recorded,-31.9445343,115.8585997
+7/120 Lake Street,Perth,WA,6000,7/120 Lake Street Perth WA 6000,"$375,000",2021-02-01,Apartment,2,1,1,113,83,1994-01-01,$300pw,2018-10-01,not recorded,-31.9447634,115.8592993
+7/176 Newcastle Street,Perth,WA,6000,7/176 Newcastle Street Perth WA 6000,"$555,000",2021-02-01,Apartment,3,2,1,427,95,2010-01-01,$580pw,2020-11-01,Jasmyn Wright,-31.9466454,115.8623809
+7/2 Braid Street,Perth,WA,6000,7/2 Braid Street Perth WA 6000,"$505,000",2021-02-01,Townhouse,2,1,1,130,93,2008-01-01,$440pw,2011-07-01,Beaufort Team - Pam & Jodi,-31.949183,115.8679775
+701/9 Victoria Avenue,Perth,WA,6000,701/9 Victoria Avenue Perth WA 6000,"$275,000",2019-11-01,Apartment,1,1,1,74,55,2002-01-01,0,1900-01-01,not recorded,-31.9570853,115.8654409
+71/375 Hay Street,Perth,WA,6000,71/375 Hay Street Perth WA 6000,"$410,000",2021-01-01,Apartment,2,2,1,107,79,2008-01-01,$520pw,2016-05-01,Brendon Habak,-31.9571145,115.8670717
+72/171 St Georges Terrace,Perth,WA,6000,72/171 St Georges Terrace Perth WA 6000,"$450,000",2019-11-01,Apartment,3,2,1,975,101,2001-01-01,0,1900-01-01,Lyndon Rodgers,-31.95428,115.85412
+73/154 Newcastle Street,Perth,WA,6000,73/154 Newcastle Street Perth WA 6000,"$295,000",2021-02-01,Apartment,1,1,1,90,64,2009-01-01,$380pw,2016-01-01,Nik Zounis,-31.9471039,115.8637289
+73/262 Lord Street,Perth,WA,6000,73/262 Lord Street Perth WA 6000,"$399,500",2021-06-01,Apartment,2,2,1,113,78,2014-01-01,$470pw,2020-08-01,Veljko Lazovic,-31.9454232,115.8729706
+78/418 Murray Street,Perth,WA,6000,78/418 Murray Street Perth WA 6000,"$318,000",2021-01-01,Apartment,2,1,1,94,70,2005-01-01,$550pw,2012-01-01,not recorded,-31.9508929,115.8533099
+79 Glendower Street,Perth,WA,6000,79 Glendower Street Perth WA 6000,"$1,350,000",2020-12-01,House,3,3,1,197,156,1982-01-01,$800pw,2011-09-01,not recorded,-31.9390236,115.8610182
+79/132 Terrace Road,Perth,WA,6000,79/132 Terrace Road Perth WA 6000,"$450,000",2021-05-01,Apartment,1,1,1,93,65,2007-01-01,$400pw,2018-07-01,Chris O'Brien,-31.959182,115.8655845
+8/124 Mounts Bay Road,Perth,WA,6000,8/124 Mounts Bay Road Perth WA 6000,"$500,000",2021-06-01,Apartment,3,2,1,196,120,2006-01-01,$690pw,2018-10-01,Matt McWaters,-31.95579,115.8476015
+8/133 Lincoln Street,Perth,WA,6000,8/133 Lincoln Street Perth WA 6000,"$260,000",2020-08-01,Apartment,2,1,1,55,55,1970-01-01,$285pw,2020-04-01,not recorded,-31.9412322,115.8675873
+8/262 Lord Street,Perth,WA,6000,8/262 Lord Street Perth WA 6000,"$440,000",2020-08-01,Apartment,2,2,1,167,77,2014-01-01,$485pw,2016-06-01,not recorded,-31.9454232,115.8729706
+8/418-428 Murray Street,Perth,WA,6000,8/418-428 Murray Street Perth WA 6000,"$315,000",2020-06-01,Unit,2,1,1,144,130,2006-01-01,$595pw,2013-01-01,not recorded,-31.9507302,115.8533964
+806/380 Murray Street,Perth,WA,6000,806/380 Murray Street Perth WA 6000,"$414,000",2020-02-01,Apartment,1,1,0,71,44,2020-01-01,0,1900-01-01,not recorded,-31.9511862,115.8542076
+807/12 Victoria Avenue,Perth,WA,6000,807/12 Victoria Avenue Perth WA 6000,"$180,000",2019-12-01,Apartment,1,1,0,28,27,1900-01-01,0,1900-01-01,not recorded,-31.9569067,115.86597
+81/22 St Georges Terrace,Perth,WA,6000,81/22 St Georges Terrace Perth WA 6000,"$585,000",2020-09-01,House,2,2,1,120,90,2009-01-01,$650pw,2020-10-01,not recorded,-31.9564827,115.8638659
+81/580 Hay Street,Perth,WA,6000,81/580 Hay Street Perth WA 6000,"$605,000",2020-03-01,Apartment,2,2,2,149,95,2011-01-01,$700pw,2020-01-01,not recorded,-31.9546333,115.8609102
+83/250 Beaufort Street,Perth,WA,6000,83/250 Beaufort Street Perth WA 6000,"$385,000",2020-07-01,Apartment,2,2,2,119,83,2005-01-01,$425pw,2018-07-01,not recorded,-31.9452003,115.8655478
+85/33 Newcastle Street,Perth,WA,6000,85/33 Newcastle Street Perth WA 6000,"$305,000",2020-10-01,Apartment,1,1,1,67,51,2016-01-01,$365pw,2017-06-01,not recorded,-31.9493657,115.8675015
+86/262 Lord Street,Perth,WA,6000,86/262 Lord Street Perth WA 6000,"$530,000",2020-11-01,Apartment,3,2,2,142,92,2014-01-01,$520pw,2016-11-01,not recorded,-31.9454232,115.8729706
+89/250 Beaufort Street,Perth,WA,6000,89/250 Beaufort Street Perth WA 6000,"$342,000",2020-10-01,Apartment,2,1,1,129,71,2006-01-01,$460pw,2021-01-01,not recorded,-31.9452003,115.8655478
+9 8 Victoria Avenue,Perth,WA,6000,9 8 Victoria Avenue Perth WA 6000,"$330,000",2021-04-01,Apartment,1,1,1,78,54,2009-01-01,0,1900-01-01,David Whiteman,-31.957191,115.8659007
+9 Dangan Street,Perth,WA,6000,9 Dangan Street Perth WA 6000,"$820,000",2020-11-01,House,3,2,2,357,102,1920-01-01,0,1900-01-01,not recorded,-31.9405723,115.8599629
+9 Throssell Street,Perth,WA,6000,9 Throssell Street Perth WA 6000,"$1,450,000",2021-04-01,House,3,1,2,491,113,1925-01-01,$690pw,2021-04-01,not recorded,-31.9373583,115.8593159
+9/569 Wellington Street,Perth,WA,6000,9/569 Wellington Street Perth WA 6000,"$560,000",2020-02-01,Apartment,2,2,1,132,105,2001-01-01,0,1900-01-01,not recorded,-31.9510977,115.8561876
+9/67 BREWER Street,Perth,WA,6000,9/67 BREWER Street Perth WA 6000,"$275,000",2020-08-01,Apartment,1,1,1,68,63,2016-01-01,0,1900-01-01,not recorded,-31.94627,115.8677
+9/82 King Street,Perth,WA,6000,9/82 King Street Perth WA 6000,"$480,000",2020-03-01,Apartment,1,2,0,100,100,2003-01-01,$550pw,2017-04-01,not recorded,-31.9509715,115.8557577
+905/380 Murray Street,Perth,WA,6000,905/380 Murray Street Perth WA 6000,"$417,000",2020-02-01,Apartment,1,1,0,71,44,2020-01-01,0,1900-01-01,not recorded,-31.9511862,115.8542076
+909/305 Murray Street,Perth,WA,6000,909/305 Murray Street Perth WA 6000,"$262,500",2020-10-01,Apartment,1,1,1,81,63,2003-01-01,$360pw,2020-01-01,not recorded,-31.9524313,115.8565664
+92/369 Hay Street,Perth,WA,6000,92/369 Hay Street Perth WA 6000,"$477,500",2021-05-01,Apartment,2,2,1,115,77,2009-01-01,$695pw,2014-08-01,Sean Roberts,-31.9574465,115.867509
+93/101 Murray Street,Perth,WA,6000,93/101 Murray Street Perth WA 6000,"$333,000",2020-08-01,Apartment,1,1,1,70,61,2011-01-01,$500pw,2017-11-01,not recorded,-31.9542262,115.8620192
+94/132 Terrace Road,Perth,WA,6000,94/132 Terrace Road Perth WA 6000,"$650,000",2020-06-01,Apartment,2,2,2,150,91,2007-01-01,0,1900-01-01,not recorded,-31.959182,115.8655845
+98/101 Murray Street,Perth,WA,6000,98/101 Murray Street Perth WA 6000,"$455,000",2020-11-01,Apartment,2,2,1,85,71,2011-01-01,$550pw,2015-11-01,not recorded,-31.9542262,115.8620192
+98/215 Stirling Street,Perth,WA,6000,98/215 Stirling Street Perth WA 6000,"$280,000",2020-11-01,Apartment,1,1,1,84,78,2013-01-01,$350pw,2019-10-01,not recorded,-31.9455554,115.8664865
+98/996 Hay Street,Perth,WA,6000,98/996 Hay Street Perth WA 6000,"$375,000",2020-11-01,Apartment,2,1,1,108,73,2006-01-01,$400pw,2018-10-01,not recorded,-31.9510341,115.8502355
+C/224 Lord Street,Perth,WA,6000,C/224 Lord Street Perth WA 6000,"$550,000",2021-01-01,Apartment,3,2,2,,,1970-01-01,$600pw,2021-01-01,Damien Lloyd,-31.9468078,115.8716082
+Lot 9 45 Forbes Road,Perth,WA,6000,Lot 9 45 Forbes Road Perth WA 6000,"$625,188",2019-11-01,Townhouse,3,2,2,,,1995-01-01,0,1900-01-01,not recorded,-31.9439507,115.8596602
+M13/811 Hay Street,Perth,WA,6000,M13/811 Hay Street Perth WA 6000,"$260,000",2020-09-01,Apartment,1,1,0,60,54,2001-01-01,$400pw,2014-12-01,not recorded,-31.9531058,115.8553788
+U70/33 Newcastle Street,Perth,WA,6000,U70/33 Newcastle Street Perth WA 6000,"$292,000",2021-01-01,Apartment,1,1,1,67,51,2016-01-01,0,1900-01-01,Terry Lu,-31.9493657,115.8675015
+V607/9 Victoria Avenue,Perth,WA,6000,V607/9 Victoria Avenue Perth WA 6000,"$299,500",2021-02-01,Apartment,1,1,1,2072,,2002-01-01,$420pw,2012-01-01,Josh Roberts,-31.9570853,115.8654409
+V704/9 Victoria Avenue,Perth,WA,6000,V704/9 Victoria Avenue Perth WA 6000,"$310,000",2021-01-01,Apartment,1,1,1,2073,60,2002-01-01,$395pw,2021-02-01,Josh Roberts,-31.9570853,115.8654409
+V808/9 Victoria Avenue,Perth,WA,6000,V808/9 Victoria Avenue Perth WA 6000,"$275,000",2020-01-01,Apartment,1,1,1,,52,2002-01-01,$340pw,2021-01-01,not recorded,-31.9570853,115.8654409
