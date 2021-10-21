@@ -54,6 +54,10 @@ df.write.mode('overwrite').format("delta").saveAsTable("pp1_raw.perth_bronze")
 
 # COMMAND ----------
 
+dbutils.notebook.exit("Success")
+
+# COMMAND ----------
+
 # MAGIC %sql
 # MAGIC Select * from pp1_raw.perth_bronze;
 
