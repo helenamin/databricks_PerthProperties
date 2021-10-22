@@ -1,0 +1,29 @@
+{
+	"name": "tr_process_perthprop_data",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipeline": {
+			"pipelineReference": {
+				"referenceName": "pl_process_perthprop_data",
+				"type": "PipelineReference"
+			},
+			"parameters": {
+				"p_window_end_date": "@trigger().outputs.windowEndTime"
+			}
+		},
+		"type": "TumblingWindowTrigger",
+		"typeProperties": {
+			"frequency": "Hour",
+			"interval": 168,
+			"startTime": "2021-07-25T10:00:00Z",
+			"endTime": "2021-08-22T10:00:00Z",
+			"delay": "00:00:00",
+			"maxConcurrency": 1,
+			"retryPolicy": {
+				"intervalInSeconds": 30
+			},
+			"dependsOn": []
+		}
+	}
+}

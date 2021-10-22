@@ -1,0 +1,9 @@
+{
+	"name": "databricks-perthprop-adf",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cce003db-bc9d-4d08-b09a-e26c87c7a481",
+		"tenantId": "5accb0bb-511e-4514-8408-003c3e17ddba"
+	}
+}

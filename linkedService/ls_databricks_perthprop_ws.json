@@ -1,0 +1,14 @@
+{
+	"name": "ls_databricks_perthprop_ws",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-4030542862275769.9.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/9e8abfc9-0aa1-4c60-a32f-31160c0f89c7/resourceGroups/databricks-PerthProp-rg/providers/Microsoft.Databricks/workspaces/databricks-PerthProp-ws",
+			"existingClusterId": "1020-020955-fzvkclh0"
+		}
+	}
+}
