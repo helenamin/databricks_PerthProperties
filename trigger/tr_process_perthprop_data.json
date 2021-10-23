@@ -2,7 +2,7 @@
 	"name": "tr_process_perthprop_data",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipeline": {
 			"pipelineReference": {
 				"referenceName": "pl_process_perthprop_data",
