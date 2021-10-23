@@ -17,9 +17,9 @@
 
 <b>Project Outline:</b>
 
-A Re-do of final Project - Perth City Properties with Databricks and Azure Data Factory.
+A Re-do of Perth City Properties project using Azure Data Engineering technologies such as Azure Data Factory (ADF), Azure Data Lake Storage Gen2, Azure Blob Storage, Azure Databricks.
 
-I have decided to give the dataset a second run using Azure Data Engineering technologies such as Azure Data Factory (ADF), Azure Data Lake Storage Gen2, Azure Blob Storage, Azure Databricks. This project I'd like to:
+In this project I'd like to:
 
 * Add Data orchestration using Azure Data Factory
 * perform data ingestion and transformation on the dataset using databricks
