@@ -1,0 +1,249 @@
+address,suburb,state,postcode,full_address,price,sold_date,type,bedrooms,bathrooms,car_space,Land_size,Building_size,built_date,rent,rent_date,agent,lat,lng
+6/11 Shenton Street,Northbridge,WA,6003,6/11 Shenton Street Northbridge WA 6003,"$440,000",1/07/2021,Apartment,2,1,1,108,84,1/01/1996,$475pw,1/12/2017,Claude Iaconi,-31.9461075,115.8545101
+4/335 Newcastle Street,Northbridge,WA,6003,4/335 Newcastle Street Northbridge WA 6003,"$320,000",1/05/2021,Apartment,1,1,1,82,56,1/01/2008,$300pw,1/09/2016,not recorded,-31.9439185,115.8554343
+2/89 Aberdeen Street,Northbridge,WA,6003,2/89 Aberdeen Street Northbridge WA 6003,"$379,000",1/05/2021,Apartment,2,1,1,99,67,1/01/2016,$380pw,1/08/2019,Brendon Habak,-31.9468518,115.8587809
+2/2 Davies Street,Northbridge,WA,6003,2/2 Davies Street Northbridge WA 6003,"$333,000",1/05/2021,Unit,1,1,1,83,58,1/01/2006,$330pw,1/11/2018,Arash Kalani,-31.9440228,115.8557109
+39/258-264 Newcastle,Northbridge,WA,6003,39/258-264 Newcastle Northbridge WA 6003,"$526,350",1/05/2021,Apartment,2,2,2,173,124,1/01/2005,0,1/01/1900,not recorded,-31.9449864,115.8589406
+43 John Street,Northbridge,WA,6003,43 John Street Northbridge WA 6003,"$620,000",1/05/2021,Townhouse,2,2,1,174,116,1/01/1996,0,1/01/1900,Claude Iaconi,-31.9452194,115.853374
+26/103-105 Francis Street,Northbridge,WA,6003,26/103-105 Francis Street Northbridge WA 6003,"$449,000",1/04/2021,Apartment,2,1,1,113,56,1/01/2009,$495pw,1/10/2016,James Yeoman,-31.9469101,115.8565863
+29/89 Aberdeen Street,Northbridge,WA,6003,29/89 Aberdeen Street Northbridge WA 6003,"$320,000",1/04/2021,Apartment,1,1,1,57,40,1/01/2016,$350pw,1/05/2019,Brendan Smith,-31.9468518,115.8587809
+6/103-105 Francis Street,Northbridge,WA,6003,6/103-105 Francis Street Northbridge WA 6003,"$310,000",1/04/2021,Apartment,1,2,1,82,54,1/01/2009,$310pw,1/01/2018,not recorded,-31.9469101,115.8565863
+16/19 Little Shenton Lane,Northbridge,WA,6003,16/19 Little Shenton Lane Northbridge WA 6003,"$385,000",1/04/2021,Unit,2,1,0,108,83,1/01/1996,$380pw,1/03/2020,not recorded,-31.9456456,115.853406
+13/19 Little Shenton Lane,Northbridge,WA,6003,13/19 Little Shenton Lane Northbridge WA 6003,"$410,000",1/04/2021,Apartment,2,1,1,137,86,1/01/1996,$360pw,1/09/2019,not recorded,-31.9456456,115.853406
+2/5 Antonas Road,Northbridge,WA,6003,2/5 Antonas Road Northbridge WA 6003,"$210,000",1/04/2021,Apartment,2,2,1,95,60,1/01/2010,0,1/01/1900,Brad Triplett,-31.9440299,115.8548295
+2/9 Shenton Street,Northbridge,WA,6003,2/9 Shenton Street Northbridge WA 6003,"$448,000",1/01/2021,Apartment,2,1,1,124,82,1/01/1996,$390pw,1/09/2018,not recorded,-31.9462105,115.8544176
+16 Kakulas Crescent,Northbridge,WA,6003,16 Kakulas Crescent Northbridge WA 6003,"$1,250,000",1/01/2021,House,3,2,2,246,250,1/01/2005,0,1/01/1900,Claude Iaconi,-31.9452293,115.8576097
+1/52 Fitzgerald Street,Northbridge,WA,6003,1/52 Fitzgerald Street Northbridge WA 6003,"$360,000",1/11/2020,Unit,2,1,1,123,84,1/01/1996,$360pw,1/09/2019,not recorded,-31.94553,115.85301
+8/103 Francis Street,Northbridge,WA,6003,8/103 Francis Street Northbridge WA 6003,"$380,000",1/11/2020,Apartment,2,2,1,105,78,1/01/2009,$550pw,1/06/2015,not recorded,-31.94691,115.85659
+97/269 James Street,Northbridge,WA,6003,97/269 James Street Northbridge WA 6003,"$418,000",1/10/2020,Apartment,2,2,1,112,74,1/01/2016,0,1/01/1900,not recorded,-31.9460099,115.8518658
+40/134 Aberdeen Street,Northbridge,WA,6003,40/134 Aberdeen Street Northbridge WA 6003,"$365,000",1/10/2020,Apartment,2,2,1,122,88,1/01/2005,0,1/01/1900,not recorded,-31.9450797,115.856474
+107/228 James Street,Northbridge,WA,6003,107/228 James Street Northbridge WA 6003,"$415,000",1/09/2020,Townhouse,3,2,1,158,123,1/01/1995,0,1/01/1900,not recorded,-31.946032,115.8532393
+53/134 Aberdeen Street,Northbridge,WA,6003,53/134 Aberdeen Street Northbridge WA 6003,"$375,000",1/09/2020,Apartment,2,2,1,139,100,1/01/2005,$430pw,1/04/2019,not recorded,-31.9450797,115.856474
+36/269 JAMES Street,Northbridge,WA,6003,36/269 JAMES Street Northbridge WA 6003,"$290,000",1/07/2020,Apartment,1,1,1,79,48,1/01/2016,$390pw,1/02/2019,not recorded,-31.9460099,115.8518658
+47/89 Aberdeen Street,Northbridge,WA,6003,47/89 Aberdeen Street Northbridge WA 6003,"$415,000",1/07/2020,Apartment,2,2,1,98,71,1/01/2016,$450pw,1/10/2017,not recorded,-31.9468518,115.8587809
+17/182 James Street,Northbridge,WA,6003,17/182 James Street Northbridge WA 6003,"$433,000",1/06/2020,Unit,2,2,1,158,134,1/01/1996,$430pw,1/05/2020,not recorded,-31.9471513,115.855804
+"1-7, 84 Fitzgerald Street",Northbridge,WA,6003,"1-7, 84 Fitzgerald Street Northbridge WA 6003","$2,200,000",1/05/2020,Apartment,3,2,1,153,118,1/01/2009,$525pw,1/08/2020,not recorded,-31.9437315,115.8541519
+205/403 Newcastle Street,Northbridge,WA,6003,205/403 Newcastle Street Northbridge WA 6003,"$330,000",1/05/2020,Unit,2,2,1,99,72,1/01/2009,$420pw,1/05/2020,not recorded,-31.9429044,115.8531468
+14/5 Antonas Road,Northbridge,WA,6003,14/5 Antonas Road Northbridge WA 6003,"$315,000",1/04/2020,Unit,0,2,1,98,69,1/01/2010,0,1/01/1900,not recorded,-31.9440299,115.8548295
+77/269 James Street,Northbridge,WA,6003,77/269 James Street Northbridge WA 6003,"$465,000",1/02/2020,Unit,2,2,1,112,78,1/01/2016,0,1/01/1900,not recorded,-31.9460099,115.8518658
+18/134 Aberdeen Street,Northbridge,WA,6003,18/134 Aberdeen Street Northbridge WA 6003,"$390,000",1/02/2020,Unit,2,2,1,123,88,1/01/2005,0,1/01/1900,not recorded,-31.9450797,115.856474
+8 Little Shenton Lane,Northbridge,WA,6003,8 Little Shenton Lane Northbridge WA 6003,"$470,000",1/02/2020,Townhouse,2,1,1,138,94,1/01/1996,$400pw,1/06/2017,not recorded,-31.94605,115.85411
+23/89 Aberdeen Street,Northbridge,WA,6003,23/89 Aberdeen Street Northbridge WA 6003,"$420,000",1/12/2019,Apartment,2,2,1,99,71,1/01/2016,$430pw,1/11/2018,not recorded,-31.9468518,115.8587809
+21 Little Shenton Lane,Northbridge,WA,6003,21 Little Shenton Lane Northbridge WA 6003,"$671,000",1/11/2019,Townhouse,3,2,2,196,122,1/01/1995,$600pw,1/04/2019,not recorded,-31.9461159,115.8536428
+18/182 James Street,Northbridge,WA,6003,18/182 James Street Northbridge WA 6003,"$585,000",1/11/2019,Apartment,2,2,1,176,123,1/01/1996,0,1/01/1900,not recorded,-31.9471513,115.855804
+43/191 James Street,Northbridge,WA,6003,43/191 James Street Northbridge WA 6003,"$295,000",1/10/2019,Apartment,2,1,1,94,75,1/01/1996,$350pw,1/10/2018,not recorded,-31.9474649,115.8553373
+24/134 Aberdeen Street,Northbridge,WA,6003,24/134 Aberdeen Street Northbridge WA 6003,"$410,000",1/10/2019,Apartment,2,2,1,141,92,1/01/2005,$400pw,1/02/2018,not recorded,-31.9450797,115.856474
+17 Palmerston Street,Northbridge,WA,6003,17 Palmerston Street Northbridge WA 6003,"$1,353,332",1/07/2019,Townhouse,5,6,2,243,406,1/01/2006,$1920pw,1/12/2008,not recorded,-31.9445777,115.8561807
+17/19 Little Shenton Lane,Northbridge,WA,6003,17/19 Little Shenton Lane Northbridge WA 6003,"$423,000",1/07/2019,Apartment,2,1,1,107,86,1/01/1996,0,1/01/1900,Realmark Central,-31.9456456,115.853406
+10/10 Pendal Lane,Northbridge,WA,6003,10/10 Pendal Lane Northbridge WA 6003,"$475,000",1/05/2019,Apartment,2,2,1,95,90,1/01/2003,0,1/01/1900,Tyler & Sons - Perth,-31.9432751,115.8560119
+228 Brisbane Street,Northbridge,WA,6003,228 Brisbane Street Northbridge WA 6003,"$530,000",1/05/2019,House,2,2,1,155,75,1/01/1920,0,1/01/1900,Tyler & Sons - Perth,-31.9411425,115.859674
+230 Brisbane Street,Northbridge,WA,6003,230 Brisbane Street Northbridge WA 6003,"$515,000",1/05/2019,House,2,1,1,159,73,1/01/1920,0,1/01/1900,Tyler & Sons - Perth,-31.9411112,115.8596278
+27/103 Francis Street,Northbridge,WA,6003,27/103 Francis Street Northbridge WA 6003,"$495,000",1/05/2019,Apartment,2,2,1,141,107,1/01/2009,$500pw,1/07/2019,not recorded,-31.94691,115.85659
+34/134 Aberdeen Street,Northbridge,WA,6003,34/134 Aberdeen Street Northbridge WA 6003,"$472,000",1/04/2019,Apartment,2,2,1,134,100,1/01/2005,$600pw,1/09/2008,Realestate 88 East Perth,-31.9450797,115.856474
+1/269 Newcastle Street,Northbridge,WA,6003,1/269 Newcastle Street Northbridge WA 6003,"$680,000",1/03/2019,Apartment,3,3,2,133,151,1/01/2009,$620pw,1/11/2020,Bellcourt Property Group - Shenton Park,-31.9451329,115.8582274
+90/269 James Street,Northbridge,WA,6003,90/269 James Street Northbridge WA 6003,"$500,000",1/02/2019,Apartment,2,2,1,113,78,1/01/2017,$550pw,1/11/2019,Colliers International - Perth,-31.9460099,115.8518658
+37/269 James Street,Northbridge,WA,6003,37/269 James Street Northbridge WA 6003,"$465,000",1/02/2019,Apartment,2,2,1,114,79,1/01/2016,$510pw,1/06/2019,Realestate 88 East Perth - EAST PERTH,-31.9460099,115.8518658
+111/269 James Street,Northbridge,WA,6003,111/269 James Street Northbridge WA 6003,"$517,000",1/02/2019,Apartment,2,2,2,124,79,1/01/2016,$550pw,1/06/2016,Realmark Central,-31.9460099,115.8518658
+54/269 James Street,Northbridge,WA,6003,54/269 James Street Northbridge WA 6003,"$480,000",1/02/2019,Apartment,2,2,1,113,78,1/01/2016,0,1/01/1900,Realestate 88 East Perth,-31.9460099,115.8518658
+63/269 James Street,Northbridge,WA,6003,63/269 James Street Northbridge WA 6003,"$485,000",1/12/2018,Apartment,2,2,1,112,78,1/01/2016,0,1/01/1900,Realestate 88 East Perth,-31.9460099,115.8518658
+10 Kakulas Crescent,Northbridge,WA,6003,10 Kakulas Crescent Northbridge WA 6003,"$845,000",1/12/2018,House,3,2,2,246,227,1/01/2005,$700pw,1/12/2016,CavMac Property - Cockburn Central,-31.9451729,115.8572827
+35/269 James Street,Northbridge,WA,6003,35/269 James Street Northbridge WA 6003,"$458,000",1/11/2018,Apartment,2,2,1,114,79,1/01/2016,0,1/01/1900,Realestate 88 East Perth,-31.9460099,115.8518658
+3/222 James Street,Northbridge,WA,6003,3/222 James Street Northbridge WA 6003,"$356,000",1/10/2018,Apartment,2,1,1,113,83,1/01/1996,$420pw,1/05/2018,Realestate 88 East Perth,-31.9463725,115.8538631
+23/269 James Street,Northbridge,WA,6003,23/269 James Street Northbridge WA 6003,"$455,000",1/10/2018,Apartment,2,2,1,113,79,1/01/2016,$575pw,1/07/2021,Colliers International - Perth,-31.9460099,115.8518658
+99/269 James Street,Northbridge,WA,6003,99/269 James Street Northbridge WA 6003,"$510,000",1/10/2018,Apartment,2,2,1,113,78,1/01/2016,$550pw,1/12/2018,Realestate 88 East Perth,-31.9460099,115.8518658
+55/191 James Street,Northbridge,WA,6003,55/191 James Street Northbridge WA 6003,"$410,000",1/10/2018,Apartment,2,1,1,103,79,1/01/1996,$440pw,1/10/2020,Realestate 88 East Perth,-31.9474649,115.8553373
+81/269 James Street,Northbridge,WA,6003,81/269 James Street Northbridge WA 6003,"$508,000",1/09/2018,Apartment,2,2,1,113,78,1/01/2016,0,1/01/1900,Realestate 88 East Perth,-31.9460099,115.8518658
+26/103 Francis Street,Northbridge,WA,6003,26/103 Francis Street Northbridge WA 6003,"$405,000",1/09/2018,Apartment,2,1,1,113,56,1/01/2009,$510pw,1/10/2016,Limnios Property Group - Perth,-31.94691,115.85659
+34/89 Aberdeen Street,Northbridge,WA,6003,34/89 Aberdeen Street Northbridge WA 6003,"$475,000",1/09/2018,Apartment,2,2,1,104,78,1/01/2016,0,1/01/1900,not recorded,-31.9468518,115.8587809
+19/5 Antonas Road,Northbridge,WA,6003,19/5 Antonas Road Northbridge WA 6003,"$408,000",1/08/2018,House,2,2,1,132,95,1/01/2010,$450pw,1/01/2017,First National Real Estate Druitt & Shead - Scarbo,-31.9440299,115.8548295
+25/269 James Street,Northbridge,WA,6003,25/269 James Street Northbridge WA 6003,"$453,000",1/08/2018,Apartment,2,2,1,113,79,1/01/2016,$420pw,1/11/2019,Realestate 88 East Perth,-31.9460099,115.8518658
+2/11 Shenton Street,Northbridge,WA,6003,2/11 Shenton Street Northbridge WA 6003,"$385,000",1/06/2018,Apartment,2,1,1,126,84,1/01/1996,$380pw,1/06/2020,The Agency - Mount Lawley,-31.9461075,115.8545101
+3/204 Lake Street,Northbridge,WA,6003,3/204 Lake Street Northbridge WA 6003,"$480,000",1/06/2018,Apartment,2,1,1,137,87,1/01/2002,0,1/01/1900,Woodville Property - North Perth,-31.9420448,115.860745
+6/222 James Street,Northbridge,WA,6003,6/222 James Street Northbridge WA 6003,"$360,000",1/06/2018,Apartment,2,1,1,104,82,1/01/1996,0,1/01/1900,The Agency,-31.9463725,115.8538631
+40/65 Palmerston Street,Northbridge,WA,6003,40/65 Palmerston Street Northbridge WA 6003,"$840,000",1/06/2018,Apartment,3,2,2,243,190,1/01/2000,$700pw,1/08/2018,One Residential - Palmyra,-31.9431166,115.8571209
+22/269 James Street,Northbridge,WA,6003,22/269 James Street Northbridge WA 6003,"$425,000",1/05/2018,House,2,2,1,116,78,1/01/2016,$450pw,1/05/2018,Acton North - CITY BEACH,-31.9460099,115.8518658
+27/269 James Street,Northbridge,WA,6003,27/269 James Street Northbridge WA 6003,"$310,000",1/05/2018,Apartment,1,1,1,76,48,1/01/2016,$400pw,1/06/2017,ZSA ZSA Property - PERTH,-31.9460099,115.8518658
+50/89 Aberdeen Street,Northbridge,WA,6003,50/89 Aberdeen Street Northbridge WA 6003,"$1,301,934",1/05/2018,Apartment,2,2,1,104,78,1/01/2016,$350pw,1/10/2019,not recorded,-31.9468518,115.8587809
+42/89 Aberdeen Street,Northbridge,WA,6003,42/89 Aberdeen Street Northbridge WA 6003,"$1,301,934",1/05/2018,Apartment,2,2,1,103,78,1/01/2016,$375pw,1/10/2020,not recorded,-31.9468518,115.8587809
+5/11 Shenton Street,Northbridge,WA,6003,5/11 Shenton Street Northbridge WA 6003,"$383,000",1/04/2018,Unit,2,1,1,106,83,1/01/1996,$350pw,1/12/2017,ZSA ZSA Property - PERTH,-31.9461075,115.8545101
+5/182 James Street,Northbridge,WA,6003,5/182 James Street Northbridge WA 6003,"$460,000",1/04/2018,Apartment,2,1,1,122,81,1/01/1996,0,1/01/1900,For Sale By Owner Australia,-31.9471513,115.855804
+33/134 Aberdeen Street,Northbridge,WA,6003,33/134 Aberdeen Street Northbridge WA 6003,"$385,000",1/04/2018,Apartment,2,2,1,120,92,1/01/2005,$400pw,1/06/2019,LJ Hooker - City Residential,-31.9450797,115.856474
+52/134 Aberdeen Street,Northbridge,WA,6003,52/134 Aberdeen Street Northbridge WA 6003,"$423,000",1/03/2018,Apartment,2,2,1,137,100,1/01/2005,$500pw,1/07/2014,Realmark Central,-31.9450797,115.856474
+1/89 Aberdeen Street,Northbridge,WA,6003,1/89 Aberdeen Street Northbridge WA 6003,"$500,000",1/03/2018,Apartment,2,2,1,104,71,1/01/2016,$520pw,1/07/2021,Pulse Property Group - ROSSMOYNE,-31.9441998,115.8538806
+108/269 James Street,Northbridge,WA,6003,108/269 James Street Northbridge WA 6003,"$560,000",1/03/2018,Apartment,2,2,2,123,78,1/01/2016,$550pw,1/01/2020,Real Estate 88 - East Perth,-31.9460099,115.8518658
+10/89 Aberdeen Street,Northbridge,WA,6003,10/89 Aberdeen Street Northbridge WA 6003,"$500,000",1/03/2018,Apartment,2,2,1,104,61,1/01/2016,0,1/01/1900,not recorded,-31.9468518,115.8587809
+28/103 Francis Street,Northbridge,WA,6003,28/103 Francis Street Northbridge WA 6003,"$565,000",1/03/2018,Apartment,2,2,1,140,107,1/01/2009,$450pw,1/01/2021,Limnios Property Group - Perth,-31.94691,115.85659
+79/269 James Street,Northbridge,WA,6003,79/269 James Street Northbridge WA 6003,"$475,000",1/02/2018,Apartment,2,2,1,112,74,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+88/269 James Street,Northbridge,WA,6003,88/269 James Street Northbridge WA 6003,"$490,000",1/01/2018,Apartment,2,2,1,113,74,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+52/191 James Street,Northbridge,WA,6003,52/191 James Street Northbridge WA 6003,"$350,000",1/01/2018,Apartment,2,1,1,113,74,1/01/2016,$475pw,1/03/2020,Real Estate 88 - East Perth,-31.9474649,115.8553373
+7/103 Francis Street,Northbridge,WA,6003,7/103 Francis Street Northbridge WA 6003,"$396,000",1/01/2018,Apartment,2,2,1,103,76,1/01/2009,$450pw,1/01/2021,Limnios Property Group - Perth,-31.94691,115.85659
+1/89 Lake Street,Northbridge,WA,6003,1/89 Lake Street Northbridge WA 6003,"$650,000",1/01/2018,Unit,2,2,1,111,111,1/01/2009,$470pw,1/10/2019,not recorded,-31.9454586,115.8579202
+10/43 Shenton Street,Northbridge,WA,6003,10/43 Shenton Street Northbridge WA 6003,"$440,000",1/12/2017,Apartment,2,2,1,114,116,1/01/2000,$550pw,1/03/2015,Paragon Property - North Perth,-31.94534,115.85498
+36/134 Aberdeen Street,Northbridge,WA,6003,36/134 Aberdeen Street Northbridge WA 6003,"$475,000",1/12/2017,Apartment,3,2,1,137,110,1/01/2005,$550pw,1/06/2018,South Perth Realty - Kensington,-31.9450797,115.856474
+98/269 James Street,Northbridge,WA,6003,98/269 James Street Northbridge WA 6003,"$495,000",1/11/2017,Apartment,2,2,2,116,78,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+96/269 James Street,Northbridge,WA,6003,96/269 James Street Northbridge WA 6003,"$495,000",1/11/2017,Apartment,2,2,1,121,79,1/01/2016,$500pw,1/11/2019,Real Estate 88 - East Perth,-31.9460099,115.8518658
+65/134 Aberdeen Street,Northbridge,WA,6003,65/134 Aberdeen Street Northbridge WA 6003,"$480,000",1/11/2017,Apartment,2,2,1,134,106,1/01/2005,0,1/01/1900,Abel Property - Leederville,-31.9450797,115.856474
+6/98 Lake Street,Northbridge,WA,6003,6/98 Lake Street Northbridge WA 6003,"$407,000",1/10/2017,Unit,2,2,1,103,76,1/01/2009,$380pw,1/08/2017,BOSS Real Estate - Northbridge,-31.9456732,115.858498
+87/269 James Street,Northbridge,WA,6003,87/269 James Street Northbridge WA 6003,"$490,000",1/10/2017,Apartment,2,2,1,122,79,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+93/269 James Street,Northbridge,WA,6003,93/269 James Street Northbridge WA 6003,"$545,000",1/10/2017,Apartment,2,2,1,113,79,1/01/2016,$500pw,1/11/2019,Real Estate 88 - East Perth,-31.9460099,115.8518658
+5/255 Newcastle Street,Northbridge,WA,6003,5/255 Newcastle Street Northbridge WA 6003,"$430,000",1/10/2017,House,2,2,1,118,91,1/01/2010,$450pw,1/09/2016,BOSS Real Estate - Northbridge,-31.9455192,115.8588943
+10/269 James Street,Northbridge,WA,6003,10/269 James Street Northbridge WA 6003,"$479,000",1/09/2017,Apartment,2,2,1,112,78,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+25 Little Shenton Lane,Northbridge,WA,6003,25 Little Shenton Lane Northbridge WA 6003,"$350,000",1/09/2017,Townhouse,3,2,2,243,157,1/01/1995,$500pw,1/07/2020,not recorded,-31.9461159,115.8536428
+37 John Street,Northbridge,WA,6003,37 John Street Northbridge WA 6003,"$630,000",1/09/2017,House,3,2,2,188,104,1/01/1996,$475pw,1/07/2019,Limnios Property Group - Perth,-31.945426,115.8535342
+6 Kakulas Crescent,Northbridge,WA,6003,6 Kakulas Crescent Northbridge WA 6003,"$1,150,000",1/08/2017,House,4,5,2,359,246,1/01/2011,0,1/01/1900,Acton - Mount Lawley,-31.9450989,115.8570516
+18/269 James Street,Northbridge,WA,6003,18/269 James Street Northbridge WA 6003,"$410,000",1/08/2017,Apartment,1,1,1,91,48,1/01/2016,$380pw,1/12/2017,Realestate 88 East Perth,-31.9460099,115.8518658
+29/103 Francis Street,Northbridge,WA,6003,29/103 Francis Street Northbridge WA 6003,"$450,000",1/07/2017,Apartment,2,1,1,106,78,1/01/2009,$530pw,1/04/2015,Limnios Property Group - Perth,-31.94691,115.85659
+31 John Street,Northbridge,WA,6003,31 John Street Northbridge WA 6003,"$540,000",1/07/2017,Townhouse,2,1,1,161,104,1/01/1996,0,1/01/1900,Bourkes - South Perth,-31.945426,115.8535342
+2/1 Shenton Street,Northbridge,WA,6003,2/1 Shenton Street Northbridge WA 6003,"$370,000",1/07/2017,Apartment,2,2,1,111,87,1/01/1996,$350pw,1/09/2017,@realty,-31.9465563,115.8542559
+15/5 Antonas Road,Northbridge,WA,6003,15/5 Antonas Road Northbridge WA 6003,"$455,000",1/07/2017,Townhouse,2,2,1,124,96,1/01/2011,$450pw,1/03/2020,Realmark Central,-31.9440299,115.8548295
+8/9 Shenton Street,Northbridge,WA,6003,8/9 Shenton Street Northbridge WA 6003,"$529,000",1/06/2017,Apartment,3,2,1,134,108,1/01/1996,$550pw,1/10/2015,Abel Property - Leederville,-31.9462105,115.8544176
+8/154 Aberdeen Street,Northbridge,WA,6003,8/154 Aberdeen Street Northbridge WA 6003,"$690,000",1/06/2017,Apartment,3,2,1,166,106,1/01/2006,$720pw,1/08/2011,Real Estate 88 - East Perth,-31.944906,115.856035
+80/269 James Street,Northbridge,WA,6003,80/269 James Street Northbridge WA 6003,"$530,000",1/05/2017,Apartment,2,2,1,115,78,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+5/7 Shenton Street,Northbridge,WA,6003,5/7 Shenton Street Northbridge WA 6003,"$376,000",1/05/2017,Apartment,2,1,1,110,84,1/01/1996,$435pw,1/03/2016,ZSA ZSA Property - PERTH,-31.9463711,115.854465
+31/260 Newcastle Street,Northbridge,WA,6003,31/260 Newcastle Street Northbridge WA 6003,"$550,000",1/05/2017,Apartment,3,2,2,150,113,1/01/2007,0,1/01/1900,BOSS Real Estate - Northbridge,-31.9450271,115.8589452
+56/89 Aberdeen Street,Northbridge,WA,6003,56/89 Aberdeen Street Northbridge WA 6003,"$400,000",1/04/2017,Apartment,1,1,1,65,42,1/01/2016,0,1/01/1900,Baltinas - NORTHBRIDGE,-31.9468518,115.8587809
+6/60 Fitzgerald Street,Northbridge,WA,6003,6/60 Fitzgerald Street Northbridge WA 6003,"$370,000",1/04/2017,Apartment,2,1,1,108,84,1/01/1996,$390pw,1/10/2015,NTY Property Group Maylands,-31.9453224,115.8531355
+19/98 Lake Street,Northbridge,WA,6003,19/98 Lake Street Northbridge WA 6003,"$415,000",1/04/2017,Unit,2,2,1,103,76,1/01/2009,$520pw,1/07/2015,BOSS Real Estate - Northbridge,-31.9456732,115.858498
+21/103 Francis Street,Northbridge,WA,6003,21/103 Francis Street Northbridge WA 6003,"$582,500",1/03/2017,House,2,2,1,148,103,1/01/2009,$580pw,1/08/2015,Limnios Property Group - Perth,-31.94691,115.85659
+12/335 Newcastle Street,Northbridge,WA,6003,12/335 Newcastle Street Northbridge WA 6003,"$280,000",1/03/2017,Apartment,1,1,1,81,58,1/01/2008,$330pw,1/09/2016,Bourkes - South Perth,-31.9439185,115.8554343
+58/89 Aberdeen Street,Northbridge,WA,6003,58/89 Aberdeen Street Northbridge WA 6003,"$1,100,000",1/03/2017,Apartment,2,2,1,110,78,1/01/2016,$410pw,1/09/2019,not recorded,-31.9468518,115.8587809
+55/89 Aberdeen Street,Northbridge,WA,6003,55/89 Aberdeen Street Northbridge WA 6003,"$1,100,000",1/03/2017,Apartment,2,2,1,100,71,1/01/2016,$400pw,1/11/2018,not recorded,-31.9468518,115.8587809
+39/89 Aberdeen Street,Northbridge,WA,6003,39/89 Aberdeen Street Northbridge WA 6003,"$1,100,000",1/03/2017,Apartment,2,2,1,98,71,1/01/2016,$445pw,1/05/2018,not recorded,-31.9468518,115.8587809
+9/98 Lake Street,Northbridge,WA,6003,9/98 Lake Street Northbridge WA 6003,"$410,000",1/03/2017,Apartment,2,2,1,103,76,1/01/2009,$520pw,1/01/2017,BOSS Real Estate - Northbridge,-31.9456732,115.858498
+4/20 Pendal Lane,Northbridge,WA,6003,4/20 Pendal Lane Northbridge WA 6003,"$486,000",1/02/2017,Apartment,3,2,1,130,99,1/01/2003,$700pw,1/07/2013,BOSS Real Estate - Northbridge,-31.9428408,115.8561043
+109/269 James Street,Northbridge,WA,6003,109/269 James Street Northbridge WA 6003,"$410,000",1/02/2017,Apartment,1,1,1,78,48,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+70/269 James Street,Northbridge,WA,6003,70/269 James Street Northbridge WA 6003,"$545,000",1/02/2017,Apartment,2,2,1,112,74,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+11/5 Antonas Road,Northbridge,WA,6003,11/5 Antonas Road Northbridge WA 6003,"$346,000",1/02/2017,Apartment,1,1,1,93,67,1/01/2010,$390pw,1/04/2016,Avenue One Property Group - Perth,-31.9440299,115.8548295
+405/403 Newcastle Street,Northbridge,WA,6003,405/403 Newcastle Street Northbridge WA 6003,"$395,000",1/01/2017,Apartment,2,2,1,99,72,1/01/2009,$550pw,1/05/2013,Real Estate 88 - East Perth,-31.9429044,115.8531468
+73/269 James Street,Northbridge,WA,6003,73/269 James Street Northbridge WA 6003,"$390,000",1/01/2017,Apartment,1,1,1,78,48,1/01/2016,$420pw,1/06/2021,Real Estate 88 - East Perth,-31.9460099,115.8518658
+2/134-138 Aberdeen Street,Northbridge,WA,6003,2/134-138 Aberdeen Street Northbridge WA 6003,"$435,000",1/01/2017,Apartment,2,2,1,135,91,1/01/2005,$520pw,1/02/2012,not recorded,-31.945292,115.8564295
+2/134 Aberdeen Street,Northbridge,WA,6003,2/134 Aberdeen Street Northbridge WA 6003,"$435,000",1/01/2017,Apartment,2,2,1,135,91,1/01/2005,$450pw,1/12/2020,NTY Property Group Maylands,-31.945292,115.8564295
+408/403 Newcastle Street,Northbridge,WA,6003,408/403 Newcastle Street Northbridge WA 6003,"$355,000",1/12/2016,Apartment,2,2,1,96,64,1/01/2009,$430pw,1/06/2019,Vlahos Realty,-31.9429044,115.8531468
+10/182 James Street,Northbridge,WA,6003,10/182 James Street Northbridge WA 6003,"$375,000",1/12/2016,Apartment,2,1,1,111,67,1/01/1996,$380pw,1/12/2020,Abel McGrath the Property People - Leederville,-31.9471513,115.855804
+92/269 James Street,Northbridge,WA,6003,92/269 James Street Northbridge WA 6003,"$570,000",1/12/2016,Apartment,2,2,1,116,78,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+8/269 James Street,Northbridge,WA,6003,8/269 James Street Northbridge WA 6003,"$535,000",1/11/2016,Apartment,2,2,1,242,79,1/01/2016,$490pw,1/06/2021,Real Estate 88 - East Perth,-31.9460099,115.8518658
+28/134 Aberdeen Street,Northbridge,WA,6003,28/134 Aberdeen Street Northbridge WA 6003,"$505,000",1/11/2016,Apartment,2,2,1,139,100,1/01/2005,$385pw,1/06/2020,Realmark Central,-31.9450797,115.856474
+2/52 Fitzgerald Street,Northbridge,WA,6003,2/52 Fitzgerald Street Northbridge WA 6003,"$435,000",1/11/2016,Apartment,2,1,3,124,84,1/01/1996,$525pw,1/03/2015,Tyler & Sons - Perth,-31.94553,115.85301
+203/403 Newcastle Street,Northbridge,WA,6003,203/403 Newcastle Street Northbridge WA 6003,"$375,000",1/10/2016,Apartment,1,2,1,97,70,1/01/2009,0,1/01/1900,Blackburne Residential Property - WA Blackburne Re,-31.9429044,115.8531468
+12 Little Shenton Lane,Northbridge,WA,6003,12 Little Shenton Lane Northbridge WA 6003,"$538,000",1/09/2016,House,2,1,2,138,2,1/01/1996,$420pw,1/10/2016,Martino Property Group,-31.94605,115.85411
+311/403 Newcastle Street,Northbridge,WA,6003,311/403 Newcastle Street Northbridge WA 6003,"$370,000",1/09/2016,Apartment,2,2,1,101,74,1/01/2009,$450pw,1/04/2016,Grange Realty Group - Victoria Park,-31.9429044,115.8531468
+5/220 James Street,Northbridge,WA,6003,5/220 James Street Northbridge WA 6003,"$370,000",1/09/2016,Apartment,2,1,1,104,82,1/01/1996,$420pw,1/09/2016,Realmark Central - East Perth,-31.9464252,115.8540017
+22/191 James Street,Northbridge,WA,6003,22/191 James Street Northbridge WA 6003,"$330,000",1/09/2016,Apartment,2,1,1,94,75,1/01/1996,$400pw,1/03/2021,Ray White South Perth,-31.9474649,115.8553373
+17/103 Francis Street,Northbridge,WA,6003,17/103 Francis Street Northbridge WA 6003,"$470,000",1/09/2016,Apartment,2,2,1,103,76,1/01/2009,$550pw,1/05/2015,Limnios Property Group - Perth,-31.94691,115.85659
+62/269 JAMES Street,Northbridge,WA,6003,62/269 JAMES Street Northbridge WA 6003,"$520,000",1/09/2016,Apartment,2,2,1,115,78,1/01/2016,0,1/01/1900,not recorded,-31.9460099,115.8518658
+18/103 Francis Street,Northbridge,WA,6003,18/103 Francis Street Northbridge WA 6003,"$465,000",1/08/2016,Apartment,2,2,1,105,8,1/01/2009,$395pw,1/09/2019,Limnios Property Group - Perth,-31.94691,115.85659
+53/269 JAMES Street,Northbridge,WA,6003,53/269 JAMES Street Northbridge WA 6003,"$510,000",1/08/2016,Apartment,2,2,1,120,78,1/01/2016,$450pw,1/11/2017,not recorded,-31.9460099,115.8518658
+1/134 Aberdeen Street,Northbridge,WA,6003,1/134 Aberdeen Street Northbridge WA 6003,"$482,500",1/07/2016,Apartment,2,2,1,137,91,1/01/2005,$395pw,1/08/2017,NTY Property Group Maylands,-31.9450797,115.856474
+61/269 JAMES Street,Northbridge,WA,6003,61/269 JAMES Street Northbridge WA 6003,"$520,000",1/07/2016,Apartment,2,2,1,112,74,1/01/2016,0,1/01/1900,not recorded,-31.9460099,115.8518658
+307/403 Newcastle Street,Northbridge,WA,6003,307/403 Newcastle Street Northbridge WA 6003,"$410,000",1/06/2016,Apartment,2,2,1,99,72,1/01/2009,0,1/01/1900,The Property Exchange - Subiaco,-31.9429044,115.8531468
+43/269 James Street,Northbridge,WA,6003,43/269 James Street Northbridge WA 6003,"$575,000",1/05/2016,Apartment,2,2,1,117,78,1/01/2016,$550pw,1/02/2018,Real Estate 88 - East Perth,-31.9460099,115.8518658
+269 James Street,Northbridge,WA,6003,269 James Street Northbridge WA 6003,"$550,000",1/05/2016,Apartment,2,2,1,554,540,1/01/2016,$550pw,1/01/2017,Colliers International - PERTH,-31.9460099,115.8518658
+52/269 James Street,Northbridge,WA,6003,52/269 James Street Northbridge WA 6003,"$540,375",1/05/2016,Apartment,2,2,1,113,74,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+10/103 Francis Street,Northbridge,WA,6003,10/103 Francis Street Northbridge WA 6003,"$353,000",1/03/2016,Apartment,1,1,1,83,57,1/01/2009,$400pw,1/03/2021,Limnios Property Group - Perth,-31.94691,115.85659
+8/134 Aberdeen Street,Northbridge,WA,6003,8/134 Aberdeen Street Northbridge WA 6003,"$495,000",1/03/2016,Apartment,2,2,1,141,95,1/01/2005,$550pw,1/04/2015,Beaufort Realty - Mount Lawley,-31.9450797,115.856474
+115/269 James Street,Northbridge,WA,6003,115/269 James Street Northbridge WA 6003,"$616,000",1/03/2016,Apartment,2,2,2,124,74,1/01/2016,$550pw,1/09/2016,Real Estate 88 - East Perth,-31.9460099,115.8518658
+19 Palmerston Street,Northbridge,WA,6003,19 Palmerston Street Northbridge WA 6003,"$1,250,000",1/02/2016,Townhouse,4,4,2,243,375,1/01/2007,$1500pw,1/11/2010,Raine & Horne - North Perth,-31.9445344,115.8562198
+44/89 Aberdeen Street,Northbridge,WA,6003,44/89 Aberdeen Street Northbridge WA 6003,"$410,000",1/02/2016,Apartment,1,1,1,60,41,1/01/2016,$400pw,1/10/2018,not recorded,-31.9468518,115.8587809
+43/134 Aberdeen Street,Northbridge,WA,6003,43/134 Aberdeen Street Northbridge WA 6003,"$480,000",1/02/2016,Apartment,2,2,1,123,88,1/01/2005,$440pw,1/05/2016,BOSS Real Estate - Northbridge,-31.9450797,115.856474
+8/134-138 Aberdeen Street,Northbridge,WA,6003,8/134-138 Aberdeen Street Northbridge WA 6003,"$495,000",1/01/2016,House,2,2,1,141,95,1/01/2005,$550pw,1/04/2015,not recorded,-31.9449958,115.8566793
+3/5 Antonas Road,Northbridge,WA,6003,3/5 Antonas Road Northbridge WA 6003,"$287,810",1/01/2016,Apartment,1,1,1,94,60,1/01/2010,0,1/01/1900,Realmark Central - East Perth,-31.9440299,115.8548295
+5/45 Shenton Street,Northbridge,WA,6003,5/45 Shenton Street Northbridge WA 6003,"$575,000",1/01/2016,Apartment,3,3,1,156,134,1/01/1999,$545pw,1/08/2019,Sell Lease Property,-31.9452414,115.8550646
+43/228 James Street,Northbridge,WA,6003,43/228 James Street Northbridge WA 6003,"$275,000",1/12/2015,Apartment,1,1,1,69,51,1/01/1996,$320pw,1/09/2016,Paragon Property - North Perth,-31.946032,115.8532393
+12/89 Lake Street,Northbridge,WA,6003,12/89 Lake Street Northbridge WA 6003,"$500,000",1/12/2015,Apartment,2,2,1,119,83,1/01/2009,$480pw,1/01/2019,BOSS Real Estate - Northbridge,-31.9454407,115.8578603
+51/269 James Street,Northbridge,WA,6003,51/269 James Street Northbridge WA 6003,"$550,000",1/12/2015,Apartment,2,2,1,121,80,1/01/2015,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+57/191 James Street,Northbridge,WA,6003,57/191 James Street Northbridge WA 6003,"$435,000",1/11/2015,Apartment,2,1,1,100,79,1/01/1996,$495pw,1/12/2012,Sell Lease Property,-31.9474649,115.8553373
+4/48 Fitzgerald Street,Northbridge,WA,6003,4/48 Fitzgerald Street Northbridge WA 6003,"$418,000",1/11/2015,Apartment,2,2,1,108,89,1/01/1996,$380pw,1/12/2019,Realmark Central - East Perth,-31.9457551,115.8527639
+41/269 James Street,Northbridge,WA,6003,41/269 James Street Northbridge WA 6003,"$545,000",1/11/2015,Apartment,2,2,1,114,75,1/01/2016,0,1/01/1900,Colliers International - PERTH,-31.9460099,115.8518658
+4/9 Shenton Street,Northbridge,WA,6003,4/9 Shenton Street Northbridge WA 6003,"$410,000",1/10/2015,Apartment,2,1,1,106,82,1/01/1996,$460pw,1/07/2015,NTY Property Group - East Perth,-31.9462105,115.8544176
+2/164 Aberdeen Street,Northbridge,WA,6003,2/164 Aberdeen Street Northbridge WA 6003,"$589,000",1/10/2015,Apartment,2,2,2,181,91,1/01/2006,0,1/01/1900,BOSS Real Estate - Northbridge,-31.9445329,115.8551801
+310/403 Newcastle Street,Northbridge,WA,6003,310/403 Newcastle Street Northbridge WA 6003,"$465,000",1/10/2015,Apartment,2,2,1,97,70,1/01/2009,$550pw,1/09/2015,Realmark Central - East Perth,-31.9429044,115.8531468
+6/134 Aberdeen Street,Northbridge,WA,6003,6/134 Aberdeen Street Northbridge WA 6003,"$490,000",1/09/2015,Apartment,2,2,1,136,91,1/01/2005,$600pw,1/09/2014,Mark Hay - East Perth,-31.9450797,115.856474
+100/269 James Street,Northbridge,WA,6003,100/269 James Street Northbridge WA 6003,"$435,000",1/09/2015,Apartment,1,1,1,78,48,1/01/2016,$360pw,1/09/2016,Real Estate 88 - East Perth,-31.9460099,115.8518658
+6/134-138 Aberdeen Street,Northbridge,WA,6003,6/134-138 Aberdeen Street Northbridge WA 6003,"$490,000",1/08/2015,Apartment,2,2,1,136,91,1/01/2005,$550pw,1/10/2014,not recorded,-31.9449958,115.8566793
+1/50 Fitzgerald Street,Northbridge,WA,6003,1/50 Fitzgerald Street Northbridge WA 6003,"$432,000",1/08/2015,Apartment,2,1,1,124,84,1/01/1996,$420pw,1/07/2015,Mark Hay - East Perth,-31.9456871,115.8527882
+17/98 Lake Street,Northbridge,WA,6003,17/98 Lake Street Northbridge WA 6003,"$525,000",1/08/2015,Apartment,3,2,1,150,109,1/01/2009,$550pw,1/04/2011,Realmark Central - East Perth,-31.9456732,115.858498
+11/103 Francis Street,Northbridge,WA,6003,11/103 Francis Street Northbridge WA 6003,"$515,000",1/07/2015,Apartment,2,2,1,110,84,1/01/2009,$550pw,1/05/2015,Limnios Property Group - Perth,-31.94691,115.85659
+2/17 Shenton Street,Northbridge,WA,6003,2/17 Shenton Street Northbridge WA 6003,"$480,000",1/07/2015,Unit,2,2,1,113,89,1/01/1996,$430pw,1/03/2020,not recorded,-31.9459342,115.8546743
+42/269 JAMES Street,Northbridge,WA,6003,42/269 JAMES Street Northbridge WA 6003,"$540,000",1/07/2015,Unit,0,2,1,116,79,1/01/2016,0,1/01/1900,not recorded,-31.9460099,115.8518658
+34/191 James Street,Northbridge,WA,6003,34/191 James Street Northbridge WA 6003,"$438,000",1/06/2015,Apartment,2,1,1,88,68,1/01/1996,$420pw,1/04/2016,Beaufort Realty - Mount Lawley,-31.9474649,115.8553373
+114/269 JAMES Street,Northbridge,WA,6003,114/269 JAMES Street Northbridge WA 6003,"$652,500",1/06/2015,Apartment,2,2,2,132,79,1/01/2016,0,1/01/1900,not recorded,-31.9460099,115.8518658
+64/269 James Street,Northbridge,WA,6003,64/269 James Street Northbridge WA 6003,"$440,000",1/06/2015,Apartment,1,1,1,78,48,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+22/134 Aberdeen Street,Northbridge,WA,6003,22/134 Aberdeen Street Northbridge WA 6003,"$480,000",1/06/2015,Apartment,2,2,1,122,88,1/01/2005,$450pw,1/08/2020,Realmark - Applecross,-31.9450797,115.856474
+5 John Street,Northbridge,WA,6003,5 John Street Northbridge WA 6003,"$608,000",1/06/2015,House,2,1,1,160,102,1/01/1996,$540pw,1/11/2014,Abel McGrath the Property People - Leederville,-31.9458085,115.8543677
+30/269 JAMES Street,Northbridge,WA,6003,30/269 JAMES Street Northbridge WA 6003,"$555,000",1/05/2015,Apartment,2,2,1,116,78,1/01/2016,$550pw,1/07/2016,not recorded,-31.9460099,115.8518658
+132 Aberdeen Street,Northbridge,WA,6003,132 Aberdeen Street Northbridge WA 6003,"$980,000",1/05/2015,House,4,2,2,257,250,1/01/1910,0,1/01/1900,not recorded,-31.9453462,115.8568668
+26/134 Aberdeen Street,Northbridge,WA,6003,26/134 Aberdeen Street Northbridge WA 6003,"$522,000",1/05/2015,Apartment,2,2,1,138,100,1/01/2005,$430pw,1/05/2020,Limnios Property Group - Perth,-31.9450797,115.856474
+29/269 James Street,Northbridge,WA,6003,29/269 James Street Northbridge WA 6003,"$550,000",1/04/2015,Apartment,2,2,1,114,75,1/01/2016,0,1/01/1900,Real Estate 88 - East Perth,-31.9460099,115.8518658
+116/269 JAMES Street,Northbridge,WA,6003,116/269 JAMES Street Northbridge WA 6003,"$652,500",1/04/2015,Apartment,2,2,2,128,78,1/01/2016,$470pw,1/04/2020,not recorded,-31.9460099,115.8518658
+39/269 James Street,Northbridge,WA,6003,39/269 James Street Northbridge WA 6003,"$400,000",1/04/2015,Apartment,1,1,1,77,48,1/01/2016,$420pw,1/03/2021,Colliers International - Perth,-31.9460099,115.8518658
+44/269 James Street,Northbridge,WA,6003,44/269 James Street Northbridge WA 6003,"$430,000",1/02/2015,Apartment,1,1,1,78,48,1/01/2016,$365pw,1/04/2019,Real Estate 88 - East Perth,-31.9460099,115.8518658
+54/154 Newcastle Street,Northbridge,WA,6003,54/154 Newcastle Street Northbridge WA 6003,"$525,000",1/02/2015,Apartment,2,2,1,136,98,1/01/2009,$420pw,1/12/2020,Nicheliving Real Estate - Perth,-31.9471039,115.8637289
+7/2 Davies Street,Northbridge,WA,6003,7/2 Davies Street Northbridge WA 6003,"$542,000",1/02/2015,Apartment,2,2,1,120,91,1/01/2006,$500pw,1/01/2017,Abel McGrath the Property People - Leederville,-31.9440228,115.8557109
+6/7 Shenton Street,Northbridge,WA,6003,6/7 Shenton Street Northbridge WA 6003,"$510,000",1/02/2015,Apartment,2,1,1,110,83,1/01/1996,$450pw,1/11/2020,Abel McGrath the Property People - Leederville,-31.9463711,115.854465
+16/269 JAMES Street,Northbridge,WA,6003,16/269 JAMES Street Northbridge WA 6003,"$430,000",1/01/2015,Unit,1,1,1,105,48,1/01/2016,$350pw,1/09/2018,not recorded,-31.9460099,115.8518658
+202/403 Newcastle Street,Northbridge,WA,6003,202/403 Newcastle Street Northbridge WA 6003,"$489,000",1/01/2015,Apartment,2,2,1,101,74,1/01/2009,$470pw,1/09/2014,Professionals Michael Johnson and Co - Mt Lawley,-31.9429044,115.8531468
+65/269 JAMES Street,Northbridge,WA,6003,65/269 JAMES Street Northbridge WA 6003,"$602,500",1/01/2015,Unit,2,2,1,116,78,1/01/2016,$450pw,1/04/2019,not recorded,-31.9460099,115.8518658
+32/258-264 Newcastle Street,Northbridge,WA,6003,32/258-264 Newcastle Street Northbridge WA 6003,"$795,000",1/01/2015,Apartment,3,2,2,183,123,1/01/2005,$700pw,1/05/2016,BOSS Real Estate - Northbridge,-31.9449864,115.8589406
+44/191 James Street,Northbridge,WA,6003,44/191 James Street Northbridge WA 6003,"$420,000",1/12/2014,Apartment,2,1,1,88,68,1/01/1996,$425pw,1/01/2021,Radi Estates - INGLEWOOD,-31.9474649,115.8553373
+110/269 JAMES Street,Northbridge,WA,6003,110/269 JAMES Street Northbridge WA 6003,"$667,500",1/11/2014,Apartment,2,2,2,127,78,1/01/2016,$630pw,1/02/2018,not recorded,-31.9460099,115.8518658
+19/269 JAMES Street,Northbridge,WA,6003,19/269 JAMES Street Northbridge WA 6003,"$405,000",1/11/2014,Unit,1,1,1,78,48,1/01/2016,$320pw,1/10/2017,not recorded,-31.9460099,115.8518658
+56/269 JAMES Street,Northbridge,WA,6003,56/269 JAMES Street Northbridge WA 6003,"$595,000",1/11/2014,Apartment,2,2,1,117,78,1/01/2016,$480pw,1/08/2018,not recorded,-31.9460099,115.8518658
+110/403 Newcastle Street,Northbridge,WA,6003,110/403 Newcastle Street Northbridge WA 6003,"$469,000",1/11/2014,Apartment,2,2,1,102,74,1/01/2009,$380pw,1/09/2017,Abel McGrath the Property People - Leederville,-31.9429044,115.8531468
+31/269 JAMES Street,Northbridge,WA,6003,31/269 JAMES Street Northbridge WA 6003,"$395,000",1/11/2014,Apartment,1,1,1,75,52,1/01/2016,$375pw,1/08/2018,not recorded,-31.9460099,115.8518658
+76/269 JAMES Street,Northbridge,WA,6003,76/269 JAMES Street Northbridge WA 6003,"$430,000",1/11/2014,Unit,1,1,1,78,48,1/01/2016,$360pw,1/05/2019,not recorded,-31.9460099,115.8518658
+67/269 JAMES Street,Northbridge,WA,6003,67/269 JAMES Street Northbridge WA 6003,"$425,000",1/11/2014,Apartment,1,1,1,78,48,1/01/2015,$350pw,1/08/2018,not recorded,-31.9460099,115.8518658
+101/269 JAMES Street,Northbridge,WA,6003,101/269 JAMES Street Northbridge WA 6003,"$632,500",1/11/2014,Apartment,2,2,1,117,78,1/01/2016,$530pw,1/04/2021,not recorded,-31.9460099,115.8518658
+94/269 JAMES Street,Northbridge,WA,6003,94/269 JAMES Street Northbridge WA 6003,"$440,000",1/11/2014,Apartment,1,1,1,78,48,1/01/2016,$370pw,1/09/2020,not recorded,-31.9460099,115.8518658
+24/269 JAMES Street,Northbridge,WA,6003,24/269 JAMES Street Northbridge WA 6003,"$405,000",1/11/2014,Apartment,1,1,1,78,48,1/01/2016,$330pw,1/06/2019,not recorded,-31.9460099,115.8518658
+9/182 James Street,Northbridge,WA,6003,9/182 James Street Northbridge WA 6003,"$470,000",1/10/2014,Apartment,2,1,1,105,81,1/01/1996,$360pw,1/11/2019,Abel McGrath the Property People - Leederville,-31.9471513,115.855804
+16/5 Antonas Road,Northbridge,WA,6003,16/5 Antonas Road Northbridge WA 6003,"$640,000",1/10/2014,Apartment,3,2,2,168,125,1/01/2010,$680pw,1/01/2021,Real Estate 88 - East Perth,-31.9440299,115.8548295
+32/154 Newcastle Street,Northbridge,WA,6003,32/154 Newcastle Street Northbridge WA 6003,"$425,000",1/09/2014,Apartment,1,1,1,87,57,1/01/2009,$330pw,1/08/2017,Nicheliving Real Estate - Perth,-31.9471039,115.8637289
+7/17 Shenton Street,Northbridge,WA,6003,7/17 Shenton Street Northbridge WA 6003,"$585,000",1/08/2014,Apartment,2,2,1,115,87,1/01/1996,$420pw,1/03/2018,Wright Real Estate - Scarborough,-31.9459342,115.8546743
+38/134-138 Aberdeen Street,Northbridge,WA,6003,38/134-138 Aberdeen Street Northbridge WA 6003,"$546,000",1/07/2014,Apartment,2,2,1,123,97,1/01/2005,$420pw,1/03/2018,not recorded,-31.9449958,115.8566793
+4/45 Shenton Street,Northbridge,WA,6003,4/45 Shenton Street Northbridge WA 6003,"$530,000",1/07/2014,Apartment,2,2,1,110,110,1/01/1999,$400pw,1/10/2009,Perth Metro Property Group - OSBORNE PARK,-31.9452414,115.8550646
+12/5 Antonas Road,Northbridge,WA,6003,12/5 Antonas Road Northbridge WA 6003,"$595,000",1/07/2014,Apartment,2,2,1,107,80,1/01/2010,$400pw,1/09/2020,MLG Realty - EAST PERTH,-31.9440299,115.8548295
+26/191 James Street,Northbridge,WA,6003,26/191 James Street Northbridge WA 6003,"$480,000",1/07/2014,Apartment,2,1,1,119,79,1/01/1996,$390pw,1/12/2017,Abel McGrath the Property People - Leederville,-31.9474649,115.8553373
+20/134 Aberdeen Street,Northbridge,WA,6003,20/134 Aberdeen Street Northbridge WA 6003,"$560,000",1/07/2014,Apartment,2,2,1,126,88,1/01/2005,$550pw,1/05/2016,NTY Property Group - East Perth,-31.9450797,115.856474
+12/151 Brisbane Street,Northbridge,WA,6003,12/151 Brisbane Street Northbridge WA 6003,"$429,000",1/06/2014,Unit,1,1,2,94,59,1/01/1995,$375pw,1/07/2017,"Professionals Michael Johnson and Co - Mt Lawley, ",-31.94279,115.8621281
+7/10 Pendal Lane,Northbridge,WA,6003,7/10 Pendal Lane Northbridge WA 6003,"$516,000",1/05/2014,Apartment,2,2,1,116,90,1/01/2003,$400pw,1/02/2020,Abel McGrath the Property People - Leederville,-31.9432751,115.8560119
+3A/305 William Street,Northbridge,WA,6003,3A/305 William Street Northbridge WA 6003,"$610,000",1/04/2014,Apartment,2,1,1,137,98,1/01/2006,$425pw,1/01/2021,Mark Hay - East Perth,-31.946576,115.8605831
+3/45 Shenton Street,Northbridge,WA,6003,3/45 Shenton Street Northbridge WA 6003,"$535,000",1/04/2014,Apartment,2,2,1,110,88,1/01/1999,$400pw,1/11/2019,Abel McGrath the Property People - Leederville,-31.9452414,115.8550646
+7/154 Newcastle Street,Northbridge,WA,6003,7/154 Newcastle Street Northbridge WA 6003,"$642,500",1/04/2014,Apartment,2,2,1,133,86,1/01/2009,0,1/01/1900,Realmark Central - East Perth,-31.9471039,115.863729
+156-158 Aberdeen Street,Northbridge,WA,6003,156-158 Aberdeen Street Northbridge WA 6003,"$2,575,000",1/04/2014,House,5,3,4,980,266,1/01/1920,0,1/01/1900,William Porteous Properties International Pty Ltd,-31.9448063,115.8558271
+8 Kakulas Crescent,Northbridge,WA,6003,8 Kakulas Crescent Northbridge WA 6003,"$1,365,000",29/03/2014,House,3,3,2,246,256,1/01/2008,0,1/01/1900,Port City Real Estate - Fremantle,-31.9451102,115.8571903
+10/258-264 Newcastle Street,Northbridge,WA,6003,10/258-264 Newcastle Street Northbridge WA 6003,"$575,000",1/03/2014,Apartment,2,2,2,150,116,1/01/2007,$650pw,1/01/2014,BOSS Real Estate - Northbridge,-31.9449864,115.8589406
+63/134 Aberdeen Street,Northbridge,WA,6003,63/134 Aberdeen Street Northbridge WA 6003,"$542,000",1/03/2014,Apartment,2,2,1,117,92,1/01/2005,$440pw,1/03/2020,Limnios Property Group - Perth,-31.9450797,115.856474
+12a/182 James Street,Northbridge,WA,6003,12a/182 James Street Northbridge WA 6003,"$490,000",1/03/2014,Apartment,2,1,1,532,67,1/01/1996,$400pw,1/04/2019,Abel McGrath the Property People - Leederville,-31.9471513,115.855804
+7/255 Newcastle Street,Northbridge,WA,6003,7/255 Newcastle Street Northbridge WA 6003,"$1,150,000",1/02/2014,Unit,1,1,1,191,191,1/01/2010,0,1/01/1900,not recorded,-31.9455192,115.8588943
+36/191 James Street,Northbridge,WA,6003,36/191 James Street Northbridge WA 6003,"$475,000",1/02/2014,Apartment,2,1,1,103,79,1/01/1996,$415pw,1/04/2016,Abel McGrath the Property People - Leederville,-31.9474649,115.8553373
+39/134 Aberdeen Street,Northbridge,WA,6003,39/134 Aberdeen Street Northbridge WA 6003,"$549,000",1/02/2014,Apartment,2,2,1,120,91,1/01/2005,$415pw,1/11/2017,Ray White - Accord,-31.9450797,115.856474
+6/71 Parry Street,Northbridge,WA,6003,6/71 Parry Street Northbridge WA 6003,"$455,000",1/02/2014,Apartment,1,1,1,98,71,1/01/2007,$320pw,1/05/2019,Realwest Property - Subiaco,-31.9486824,115.8685577
+1/219 Newcastle Street,Northbridge,WA,6003,1/219 Newcastle Street Northbridge WA 6003,"$790,000",1/02/2014,House,3,2,1,254,158,1/01/1920,$650pw,1/08/2020,not recorded,-31.9460799,115.8601154
+223 Newcastle Street,Northbridge,WA,6003,223 Newcastle Street Northbridge WA 6003,"$645,000",1/02/2014,House,2,1,1,159,92,1/01/1920,$380pw,1/05/2017,Limnios Property Group - Perth,-31.9460799,115.8601154
+221 Newcastle Street,Northbridge,WA,6003,221 Newcastle Street Northbridge WA 6003,"$640,000",1/02/2014,House,2,1,1,179,108,1/01/1920,$450pw,1/04/2011,Limnios Property Group - Perth,-31.94608,115.86012
+206/403 Newcastle Street,Northbridge,WA,6003,206/403 Newcastle Street Northbridge WA 6003,"$510,000",1/02/2014,Apartment,2,2,1,99,72,1/01/2009,$390pw,1/04/2019,Northside Residential - Greenwood,-31.9429044,115.8531468
+13/182 James Street,Northbridge,WA,6003,13/182 James Street Northbridge WA 6003,"$490,000",1/02/2014,Apartment,2,1,1,111,67,1/01/1996,0,1/01/1900,not recorded,-31.9471513,115.855804
+7/89 Lake Street,Northbridge,WA,6003,7/89 Lake Street Northbridge WA 6003,"$575,000",1/01/2014,Apartment,3,2,1,135,106,1/01/2009,$630pw,1/05/2013,Abel McGrath the Property People - Leederville,-31.9454407,115.8578603
+402/403 Newcastle Street,Northbridge,WA,6003,402/403 Newcastle Street Northbridge WA 6003,"$515,000",1/01/2014,Apartment,2,2,1,99,72,1/01/2009,$410pw,1/07/2019,Mair and Co,-31.9429044,115.8531468
+53/239 Pier Street,Northbridge,WA,6003,53/239 Pier Street Northbridge WA 6003,"$393,000",1/01/2014,Apartment,1,1,1,77,,1/01/2008,0,1/01/1900,Realmark Central - East Perth,-31.949758,115.8651123
+10/5 Antonas Road,Northbridge,WA,6003,10/5 Antonas Road Northbridge WA 6003,"$440,000",1/01/2014,House,1,1,1,93,67,1/01/2010,$430pw,1/07/2010,Capital First National - Alexander Heights,-31.9440299,115.8548295
+21 Little Shenton Lane,Northbridge,WA,6003,21 Little Shenton Lane Northbridge WA 6003,"$785,000",1/12/2013,Townhouse,3,2,2,196,121,1/01/1995,$600pw,1/12/2020,Nicheliving Real Estate - Perth,-31.9461159,115.8536428
+3/154 Aberdeen Street,Northbridge,WA,6003,3/154 Aberdeen Street Northbridge WA 6003,"$467,500",1/11/2013,Apartment,1,1,1,86,58,1/01/2006,0,1/01/1900,Abel McGrath the Property People - Leederville,-31.944906,115.856035
+59/89 Aberdeen Street,Northbridge,WA,6003,59/89 Aberdeen Street Northbridge WA 6003,"$630,000",1/11/2013,Apartment,2,2,1,85,61,1/01/2016,$550pw,1/03/2020,not recorded,-31.9468518,115.8587809
+51/89 Aberdeen Street,Northbridge,WA,6003,51/89 Aberdeen Street Northbridge WA 6003,"$620,000",1/11/2013,Apartment,2,2,1,85,61,1/01/2016,$400pw,1/12/2020,Velo - Northbridge,-31.9468518,115.8587809
+17/134 Aberdeen Street,Northbridge,WA,6003,17/134 Aberdeen Street Northbridge WA 6003,"$540,000",1/11/2013,Apartment,2,2,1,123,88,1/01/2005,$400pw,1/07/2017,NTY Property Group - East Perth,-31.9450797,115.856474
+309/403 Newcastle Street,Northbridge,WA,6003,309/403 Newcastle Street Northbridge WA 6003,"$510,000",1/11/2013,Apartment,2,2,1,99,72,1/01/2009,$390pw,1/04/2018,Abel McGrath the Property People - Leederville,-31.9429044,115.8531468
+4/89 Aberdeen Street,Northbridge,WA,6003,4/89 Aberdeen Street Northbridge WA 6003,"$595,000",1/10/2013,Apartment,2,2,1,108,64,1/01/2016,$395pw,1/06/2019,not recorded,-31.9468518,115.8587809
+2/19 Little Shenton Lane,Northbridge,WA,6003,2/19 Little Shenton Lane Northbridge WA 6003,"$480,000",1/10/2013,Apartment,2,1,2,155,85,1/01/1996,$395pw,1/05/2020,Limnios Property Group - Perth,-31.9456456,115.853406
+5/19 Little Shenton Lane,Northbridge,WA,6003,5/19 Little Shenton Lane Northbridge WA 6003,"$615,000",1/10/2013,Apartment,3,1,2,159,123,1/01/1996,0,1/01/1900,LJ Hooker - Mirrabooka,-31.9456456,115.853406
+15/145 Newcastle Street,Northbridge,WA,6003,15/145 Newcastle Street Northbridge WA 6003,"$630,000",1/10/2013,Apartment,3,2,1,137,100,1/01/2009,$400pw,1/03/2019,Realmark Central - East Perth,-31.9468953,115.8618461
+7 Davies Street,Northbridge,WA,6003,7 Davies Street Northbridge WA 6003,"$1,025,000",1/09/2013,House,3,2,2,255,227,1/01/2005,0,1/01/1900,Abel McGrath the Property People - Leederville,-31.9444492,115.8558502
+38/89 Aberdeen Street,Northbridge,WA,6003,38/89 Aberdeen Street Northbridge WA 6003,"$515,000",1/09/2013,Apartment,2,1,1,85,55,1/01/2016,$370pw,1/10/2018,not recorded,-31.9468518,115.8587809
+20/10 Pendal Lane,Northbridge,WA,6003,20/10 Pendal Lane Northbridge WA 6003,"$565,000",1/09/2013,Apartment,2,2,2,96,90,1/01/2003,$500pw,1/07/2021,MLG Realty - EAST PERTH,-31.9432751,115.8560119
+403/403 Newcastle Street,Northbridge,WA,6003,403/403 Newcastle Street Northbridge WA 6003,"$535,000",1/08/2013,Apartment,2,2,1,99,72,1/01/2009,$380pw,1/06/2019,Realmark Central - East Perth,-31.9429044,115.8531468
+312/403 Newcastle Street,Northbridge,WA,6003,312/403 Newcastle Street Northbridge WA 6003,"$502,500",1/08/2013,Apartment,2,2,1,96,68,1/01/2009,$560pw,1/10/2013,Realmark Central - East Perth,-31.9429044,115.8531468
+25/20 Pendal Lane,Northbridge,WA,6003,25/20 Pendal Lane Northbridge WA 6003,"$724,999",1/07/2013,Townhouse,3,2,2,203,161,1/01/2003,$590pw,1/02/2018,For Sale By Owner Australia,-31.9428408,115.8561043
+21/145 Newcastle Street,Northbridge,WA,6003,21/145 Newcastle Street Northbridge WA 6003,"$614,000",1/07/2013,Apartment,3,2,1,151,104,1/01/2009,0,1/01/1900,Realmark Central - East Perth,-31.9468953,115.8618461
+18/76 Newcastle Street,Northbridge,WA,6003,18/76 Newcastle Street Northbridge WA 6003,"$535,000",1/07/2013,Apartment,2,2,1,123,88,1/01/2007,$530pw,1/01/2014,Abel Property - Leederville,-31.9483716,115.8660856
+10/89 Lake Street,Northbridge,WA,6003,10/89 Lake Street Northbridge WA 6003,"$590,000",1/06/2013,Apartment,3,2,1,139,99,1/01/2009,$540pw,1/11/2011,BOSS Real Estate - Northbridge,-31.9454407,115.8578603
+13/10 Pendal Lane,Northbridge,WA,6003,13/10 Pendal Lane Northbridge WA 6003,"$560,000",1/06/2013,Apartment,2,2,1,117,90,1/01/2003,0,1/01/1900,MLG Realty - EAST PERTH,-31.9432751,115.8560119
