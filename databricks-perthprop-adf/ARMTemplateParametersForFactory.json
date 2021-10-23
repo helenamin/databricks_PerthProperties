@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-perthprop-adf"
+		},
+		"ls_perthpropdl_storage_accountKey": {
+			"value": ""
+		},
+		"ls_perthpropdl_storage_properties_typeProperties_url": {
+			"value": "https://perthpropdl.dfs.core.windows.net"
+		},
+		"tr_process_perthprop_data_properties_pipeline_parameters_p_window_end_date": {
+			"value": "@trigger().outputs.windowEndTime"
+		}
+	}
+}

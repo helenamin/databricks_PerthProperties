@@ -1,0 +1,63 @@
+{
+	"$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"type": "string",
+			"metadata": "Data Factory name",
+			"defaultValue": "databricks-perthprop-adf"
+		},
+		"ls_perthpropdl_storage_accountKey": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accountKey' of 'ls_perthpropdl_storage'"
+		},
+		"ls_perthpropdl_storage_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://perthpropdl.dfs.core.windows.net"
+		},
+		"tr_process_perthprop_data_properties_pipeline_parameters_p_window_end_date": {
+			"type": "string",
+			"defaultValue": "@trigger().outputs.windowEndTime"
+		},
+		"containerUri": {
+			"type": "string",
+			"metadata": "URI to storage account containing linked ARM templates"
+		},
+		"containerSasToken": {
+			"type": "string",
+			"metadata": "Sas token to storage account containing linked ARM templates"
+		}
+	},
+	"variables": {
+		"factoryId": "[concat('Microsoft.DataFactory/factories/', parameters('factoryName'))]"
+	},
+	"resources": [
+		{
+			"name": "databricks-perthprop-adf_ArmTemplate_0",
+			"type": "Microsoft.Resources/deployments",
+			"apiVersion": "2018-02-01",
+			"properties": {
+				"mode": "incremental",
+				"templateLink": {
+					"uri": "[concat(parameters('containerUri'), '/ArmTemplate_0.json', parameters('containerSasToken'))]",
+					"contentVersion": "1.0.0.0"
+				},
+				"parameters": {
+					"factoryName": {
+						"value": "[parameters('factoryName')]"
+					},
+					"ls_perthpropdl_storage_accountKey": {
+						"value": "[parameters('ls_perthpropdl_storage_accountKey')]"
+					},
+					"ls_perthpropdl_storage_properties_typeProperties_url": {
+						"value": "[parameters('ls_perthpropdl_storage_properties_typeProperties_url')]"
+					},
+					"tr_process_perthprop_data_properties_pipeline_parameters_p_window_end_date": {
+						"value": "[parameters('tr_process_perthprop_data_properties_pipeline_parameters_p_window_end_date')]"
+					}
+				}
+			},
+			"dependsOn": []
+		}
+	]
+}
