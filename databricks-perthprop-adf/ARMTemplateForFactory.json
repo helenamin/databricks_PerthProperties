@@ -212,39 +212,6 @@
 										"referenceName": "ls_databricks_perthprop_ws",
 										"type": "LinkedServiceReference"
 									}
-								},
-								{
-									"name": "Create gold tables",
-									"type": "DatabricksNotebook",
-									"dependsOn": [
-										{
-											"activity": "File ingestion -Create Silver tables",
-											"dependencyConditions": [
-												"Succeeded"
-											]
-										}
-									],
-									"policy": {
-										"timeout": "7.00:00:00",
-										"retry": 0,
-										"retryIntervalInSeconds": 30,
-										"secureOutput": false,
-										"secureInput": false
-									},
-									"userProperties": [],
-									"typeProperties": {
-										"notebookPath": "/PerthProperties/trans/1. Create gold tables",
-										"baseParameters": {
-											"p_file_date": {
-												"value": "@formatDateTime(pipeline().parameters.p_window_end_date,'yyyy-MM-dd')",
-												"type": "Expression"
-											}
-										}
-									},
-									"linkedServiceName": {
-										"referenceName": "ls_databricks_perthprop_ws",
-										"type": "LinkedServiceReference"
-									}
 								}
 							]
 						}
