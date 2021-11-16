@@ -57,7 +57,7 @@
 					},
 					"ifTrueActivities": [
 						{
-							"name": "Create Raw Tables",
+							"name": "Create Bronze Tables from Raw data",
 							"type": "DatabricksNotebook",
 							"dependsOn": [],
 							"policy": {
@@ -87,7 +87,7 @@
 							"type": "DatabricksNotebook",
 							"dependsOn": [
 								{
-									"activity": "Create Raw Tables",
+									"activity": "Create Bronze Tables from Raw data",
 									"dependencyConditions": [
 										"Succeeded"
 									]
